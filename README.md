@@ -1,7 +1,7 @@
-# Tools for the Newar Annotated Corpora (NewAC)
+# Tools for the Diachronic Annotated Corpus of Newar (DACON)
 !!!DISCLAIMER: WORK IN PROGRESS!!!
 
-This repository will soon contain all scripts and links to the Newar Annotated Corpora. When using any part of this repo, please cite the relevant accompanying paper(s), abstracts of which can be found below:
+This repository will soon contain all scripts and links to the Diachronic Annotated Corpus of Newar (DACON), deposited on [Zenodo](https://zenodo.org/records/12887386). When using any part of this repo, please cite the relevant accompanying paper(s), abstracts of which can be found below:
 
 For Newar HTR:
 O'Neill, Alexander. (2022). OCR model for Pracalit for Sanskrit and Newar MSS 16th to 19th C., Ground Truth (Version 1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6967421
@@ -10,7 +10,8 @@ O’Neill, A. J., & Hill, N. (2022). Text Recognition for Nepalese Manuscripts i
 Journal of Open Humanities Data, 8: 26, pp. 1–6. DOI:https://doi.org/10.5334/johd.90 
 
 For Newar Segmentation and POS tagging:
-Meelen, Marieke & O'Neill, Alexander (forth) 
+O'Neill, Alexander and Meelen, Marieke (2024). The Diachronic Annotated Corpus of Newar
+from Manuscript to Morphosyntax. in Cahier de Linguistique Asie Orientale: East Asian Languages and Linguistics. pp.
 
 ## Tools & Dependencies
 
@@ -19,31 +20,36 @@ This repo currently presents tools to preprocess, segment and POS tag Newar text
 - [Memory-Based Tagger](https://github.com/LanguageMachines/mbt/) (for POS tagging)
 - [Natural Language Toolkit](https://www.nltk.org/) (for Parsing)
 
-NOTE that for POS tagging, we also tested neural-network based approaches, but results are still worse for Classical Tibetan, which is why we keep using the MBT for now. Preliminary tests with improved word embeddings indicate accuracies for BiLSTM-RNN taggers are likely to improve as soon as better embeddings are implemented (see Meelen, Roux & Hill 2021).
+## Getting Started 
 
-## Preprocessing 
+The following instructions work in the Mac terminal if the right dependencies are installed, but could be tranferred to any linux system too:
 
-To preprocess Old Tibetan and/or Wylie transcriptions:
-
-`python preprocessing.py <my_directory>`
+Simply clone and cd to the repo:
+```sh
+git clone newarcorpora
+cd newarcorpora
+```
 
 ## Segmentation 
 
 To segment transliterated Newar:
 
-`python segNewar.py <my_directory>`
+`python NewarSeg.py <my_directory>`
 
 ## POS tagging
 
-To run the script:
-
-`python pos-directory.py <my_directory>`
+POS tag a single plain text file and write to 'my-file_tagged.txt' with the [TiMBL / MBT](https://languagemachines.github.io/mbt/):
+```sh
+Mbt -t my-file.txt -s /conf/clasnew20k_15Nov23_train.txt.settings > 'my-file_tagged.txt'
+```
 
 ## Parsing & SentenceIDs
 
-After POS tagging, phrase structure can be added with the parsing script. To parse and add automatically add SentenceIDs:
+After POS tagging, phrase structure can be added with the parsing script. To parse and add automatically add SentenceIDs, run the following script:
 
-`python tibparse.py <my_POS-taggedtext.txt>`
+```
+tba
+```
 
 Just like the UPenn-style historical corpora, constituency-based parsed .psd files can be queried with [CorpusSearch](http://corpussearch.sourceforge.net/) or XQuery after conversion to .psdx with, for example, [Cesax](http://erwinkomen.ruhosting.nl/software/Cesax/).
 
@@ -57,4 +63,4 @@ It produces an output folder with text files listing all exact matches as well a
 
 ## Available Corpora
 
-The current version of the Newar Annotated Corpus will soon be shared through Zenodo.
+The current version of the Diachronic Annotated Corpus of Newar (DACON) can be found on [Zenodo](https://zenodo.org/records/12887386)
