@@ -1,7 +1,7 @@
 # Tools for the Diachronic Annotated Corpus of Newar (DACON)
 !!!DISCLAIMER: WORK IN PROGRESS!!!
 
-This repository will soon contain all scripts and links to the Diachronic Annotated Corpus of Newar (DACON), deposited on [Zenodo](https://zenodo.org/records/12887386). When using any part of this repo, please cite the relevant accompanying paper(s), abstracts of which can be found below:
+This repository will soon contain all scripts and links to the Diachronic Annotated Corpus of Newar (DACON), deposited on [Zenodo](https://zenodo.org/records/12887386). When using any part of this repo, please cite the relevant accompanying paper(s):
 
 For Newar HTR:
 O'Neill, Alexander. (2022). OCR model for Pracalit for Sanskrit and Newar MSS 16th to 19th C., Ground Truth (Version 1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6967421
@@ -12,6 +12,12 @@ Journal of Open Humanities Data, 8: 26, pp. 1–6. DOI:https://doi.org/10.5334/j
 For Newar Segmentation and POS tagging:
 O'Neill, Alexander and Meelen, Marieke (2024). The Diachronic Annotated Corpus of Newar
 from Manuscript to Morphosyntax. in Cahier de Linguistique Asie Orientale: East Asian Languages and Linguistics. pp.
+
+Detailed annotation manuals are available for each step in the workflow:
+
+Meelen, M., & O'Neill, A. (2024). Classical Newar Annotation Manual: Part I: Preprocessing. Zenodo. https://doi.org/10.5281/zenodo.13117923
+
+O'Neill, A., & Meelen, M. (2024). Classical Newar Annotation Manual: Part II: Segmentation and Part-of-Speech Tagging. Zenodo. https://doi.org/10.5281/zenodo.13117962
 
 ## Tools & Dependencies
 
