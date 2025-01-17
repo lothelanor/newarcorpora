@@ -1,8 +1,9 @@
+DATA_VERSION 2
 e <utt>
-l clasnew20k_15Nov23_train.txt.lex.ambi.05
-k clasnew20k_15Nov23_train.txt.known.dddwfWa
-u clasnew20k_15Nov23_train.txt.unknown.pppsssdwFawchn
-p dddwfWa
-P pppsssdwFawchn
+l clasnew20k_15Nov23_train.txt.lex.ambi.08
+k clasnew20k_15Nov23_train.txt.known.dddfaaa
+u clasnew20k_15Nov23_train.txt.unknown.sssdddFchnaaa
+p dddfaaa
+P sssdddFchnaaa
 O +vS -FColumns -G K: -a0 -k1 U: -a0 -mM -k17 -dIL
-L clasnew20k_15Nov23_train.txt.top1800
+L clasnew20k_15Nov23_train.txt.top1100

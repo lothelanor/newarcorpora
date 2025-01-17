@@ -1,0 +1,14615 @@
+form	POS
+om̐	interj
+śrī	adj
+ganeśāya	n
+namaḥ	skt
+||	punc
+
+||	punc
+
+purā	adv.temp
+pūrbakāla	n
+sa	case.loc.inan
+.	punc
+
+siṃhanāda	n
+parbata	n
+sa	case.loc.inan
+samīpa	n
+sa	case.loc.inan
+coṅa	v.impst
+.	punc
+
+deśa	n
+chagulī	n
+dasyaṃ	v.co
+coṅa	v.impst
+.	punc
+
+thva	d.dem
+deśa	n
+yā	case.gen
+nāma	n
+śrī	adj
+kanthapūri	n
+dhakaṃ	v.dhak
+nāma	n
+prakhyānti	adj
+yāṅaṃ	v.co
+coṅa	v.impst
+||	punc
+
+thva	d.dem
+deśa	n
+yā	case.gen
+baniyā	n
+ratnadatta	v.impst
+dhaka	v.dhak
+nāma	n
+jusyaṃ	v.co
+coṅa	v.impst
+.	punc
+
+thva	d.dem
+baniyā	n
+yā	case.gen
+strī	n
+yā	case.gen
+nāma	n
+madanābati	adj
+.	punc
+
+thva	d.dem
+ni	num
+mha	cs.anim
+strī	n
+puruṣa	n
+samadhāra	n
+yāka	v.impst
+.	punc
+
+bho	interj
+chi	num
+garbhābatī	n
+.	punc
+
+chejesa	n
+byāpāla	n
+ma	neg
+yāsyaṃ	v.co
+gathye	adv.inter
+yāya	v.n
+.	punc
+
+byāpāla	n
+ma	neg
+yā	case.gen
+ma	neg
+gāka	v.impst
+.	punc
+
+ji	p.pers
+banaja	n
+vane	v.n
+jula	v.perf.past
+.	punc
+
+chana	p.pers
+che	n
+sa	case.loc.inan
+nidā	n
+na	case.erg
+yāva	v.ipv
+dhakaṃ	v.dhak
+hāṅaṃ	n
+tāthāva	cv.ant
+.	punc
+
+thama	p.refl
+na	case.erg
+banaja	n
+oṅa	v.impst
+juro	v.perf.past
+||	punc
+
+vaṅāva	cv.ant
+.	punc
+
+anega	d.quant
+bastubhāba	n
+banaja	n
+jvaṅāva	cv.ant
+coṅaṃ	v.co
+julo	v.perf.past
+||	punc
+
+thanaṃ	adv.conj
+li	cv.anter
+cha	num
+nhu	cs.time
+yā	case.gen
+dīna	n
+sa	case.loc.inan
+.	punc
+
+thuguli	p.indef
+deśa	n
+yā	case.gen
+.	punc
+
+meba	adj
+baniyā	n
+cha	num
+mha	cs.anim
+.	punc
+
+thva	d.dem
+yā	case.gen
+thāya	n
+sa	case.loc.inan
+vaṅāva	cv.ant
+thithi	n
+bicāra	n
+yāṅāva	cv.ant
+.	punc
+
+pi	adv.dir
+lā	cs.time
+cyā	n
+lā	n
+dayakāva	cv.ant
+.	punc
+
+lithe	adj
+thva	d.dem
+baniyā	n
+ratnadattanaṃ	v.perf.past
+dhālaṃ	v.perf.past
+||	punc
+
+aye	v.n
+pāsā	n
+āva	adv.temp
+chi	num
+lihā	adv.dir
+jhāya	v.n
+tela	n
+lā	cl.inter
+.	punc
+
+telasā	cv.cond
+.	punc
+
+ji	p.pers
+cheyāta	n
+khare	v.n
+ma	neg
+du	v.impst
+.	punc
+
+misājāta	n
+ekāta	n
+na	case.erg
+chu	p.indef
+yāyu	v.perf.part
+.	punc
+
+āva	adv.temp
+thva	d.dem
+ratna	n
+cha	num
+tā	cs.abs
+chana	p.pers
+yane	v.n
+māla	v.perf.past
+dhaka	v.dhak
+dhāsyaṃ	cv.as
+.	punc
+
+thva	d.dem
+ratna	n
+biyāva	cv.ant
+chotaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+ratna	n
+jvaṅāo	cv.ant
+thava	p.refl
+che	n
+lihā	adv.dir
+vaṅa	v.impst
+juro	v.perf.past
+||	punc
+
+thva	d.dem
+baniyānaṃ	adv.conj
+ratna	n
+tha	adv.deg
+pakāva	cv.ant
+kālaṃ	v.perf.past
+||	punc
+
+thanaṃ	adv.conj
+li	cv.anter
+lithe	adj
+thva	d.dem
+ratnadatta	n.prop
+baniyā	n
+.	punc
+
+thava	p.refl
+che	p.pers
+lihāṃ	v.co
+oyāva	cv.ant
+.	punc
+
+thava	p.refl
+kalāta	n
+garbhābati	n
+yāke	case.loc.an
+ṅaṅāo	cv.ant
+ye	v.n
+garbhābati	v.perf.past
+.	punc
+
+chana	p.pers
+ta	case.dat
+bisyaṃ	v.co
+ha	n
+yā	case.gen
+ratna	n
+.	punc
+
+ji	p.pers
+na	case.erg
+svaya	v.n
+hiva	v.np
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thana	adv.man
+garbhābatī	n
+dhāyā	v.perf.part
+.	punc
+
+bho	interj
+chi	num
+prabhū	n
+sa	case.loc.inan
+.	punc
+
+amo	d.dem
+ratna	n
+padārtha	n
+ji	p.pers
+na	case.erg
+ma	neg
+kāyā	v.perf.part
+khe	n
+.	punc
+
+gu	cs.inan
+khunu	adv.conj
+chalapola	p.pers
+che	p.pers
+na	case.erg
+pihā	n
+bijyāta	v.perf.past
+u	d.dem
+khunu	v.ipv
+nisyaṃ	post.abs
+sunuṃ	p.indef
+duhāṃ	post.abs
+vava	cv.coin
+ma	neg
+du	v.impst
+.	punc
+
+thvate	p.anaphor
+kha	n
+fn16	fol
+garbhābati	n
+na	case.erg
+dhāvagu	n
+bacana	n
+*ṅaṅāo	cv.ant
+(fn2a)	fol
+baniyā	n
+yā	case.gen
+hṛdaya	n
+sa	case.loc.inan
+mahāduḥkha	n
+juraṃ	v.perf.past
+.	punc
+
+thvayāṃ	n
+sati	adj
+ṣunu	n
+banijāra	n
+yā	case.gen
+che	p.pers
+vaṅāva	cv.ant
+baniyā	n
+yā	case.gen
+ṅhavane	post.gen
+dhālaṃ	v.perf.past
+||	punc
+
+bho	interj
+banijāra	n
+chana	p.pers
+chāna	adv.inter
+ji	p.pers
+kalātayāta	n
+ji	p.pers
+na	case.erg
+bisya	v.co
+ha	n
+yā	case.gen
+ratna	n
+chāna	adv.inter
+ma	neg
+biyā	v.perf.part
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+tha	adv.deg
+banijāla	n
+na	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+chi	num
+ratnadatta	n
+baniyā	n
+u	d.dem
+ṣunu	n
+ji	p.pers
+na	case.erg
+biyā	v.perf.part
+dhakaṃ	v.dhak
+dhālaṃ	v.perf.past
+||	punc
+
+thana	p.pers
+niścayanaṃ	adv.man
+biya	v.n
+dhuna	v.impst
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+ma	neg
+kayā	v.perf.part
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+thithi	n
+kacāda	n
+juyāva	cv.ant
+.	punc
+
+thana	adv.conj
+baniyā	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+chi	num
+banijāla	n
+.	punc
+
+chava	adj
+jiva	p.pers
+kacāda	n
+yāṅaṃ	v.perf.past
+lvāya	v.n
+mu	neg
+mvāla	v.impst
+.	punc
+
+thva	d.dem
+deśa	n
+yā	case.gen
+pāragāmika	n
+rājā	n
+dao	v.perf.past
+.	punc
+
+thva	d.dem
+rājāyākye	n
+vane	v.n
+makhā	adv.man
+dhakaṃ	v.dhak
+dhāyāo	cv.ant
+rājāyākye	n
+pāraka	n
+yāka	v.impst
+tvaṃ	v.co
+julo	v.perf.past
+||	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+hatāsana	adv.man
+banijāla	n
+na	case.erg
+rasa	n
+vava	cv.coin
+puruṣa	n
+ni	num
+mha	cs.anim
+boṅāva	cv.ant
+dhāraṃ	v.perf.past
+||	punc
+
+bho	interj
+duṣṭapāsā	n
+pani	case.abs.h.pl
+ji	p.pers
+na	case.erg
+ratna	n
+cha	num
+tā	cs.abs
+tha	adv.deg
+pakā	v.perf.part
+tayā	v.perf.part
+dao	v.perf.past
+.	punc
+
+āva	adv.temp
+tha	adv.deg
+ratna	n
+cha	p.pers
+pani	case.abs.h.pl
+nimhayāta	v.perf.past
+.	punc
+
+ji	p.pers
+chamhayāta	n
+sva	num
+bo	v.impst
+thayāva	cv.ant
+kāya	v.n
+dhāsyaṃ	cv.as
+dhana	n
+yā	case.gen
+lobha	adj
+na	case.erg
+aṃtara	n
+juva	v.impst
+tvaṃ	v.co
+juro	v.perf.past
+||	punc
+
+thvanaṃ	adv.conj
+li	cv.anter
+rājasabhā	n
+sa	case.loc.inan
+pāla	n
+yātanāsyaṃ	v.co
+aṃtara	n
+na	case.erg
+dhāko	d.quant
+pratīta	adj
+yāṅāva	cv.ant
+rājā	n
+na	case.erg
+punarbāra	adv.conj
+ṅaṅā	v.perf.part
+||	punc
+
+aye	v.n
+baniyā	n
+.	punc
+
+āva	adv.temp
+vana	n
+pratīta	adj
+dayakaṃ	v.perf.past
+dhāla	v.impst
+||	punc
+
+chana	p.pers
+pratīta	adj
+ma	neg
+du	v.impst
+||	punc
+
+āo	cv.ant
+cha	p.pers
+būka	n
+.	punc
+
+va	case.ass
+tyāka	n
+dhakaṃ	v.dhak
+t	d.dem
+yā	case.gen
+chināva	cv.ant
+bilaṃ	v.perf.past
+||	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+aṃtara	n
+na	case.erg
+dhāraṃ	v.perf.past
+bho	interj
+mahārājā	n
+sa	case.loc.inan
+.	punc
+
+ji	p.pers
+panisena	case.erg.h.pl
+satyabācā	n
+jipanisye	n
+na	case.erg
+satyanaṃ	adv.place
+tha	adv.deg
+ratna	n
+bio	n
+khaṅā	v.perf.part
+dhadhāsyaṃ	cv.as
+a	d.dem
+ratna	n
+sa	case.loc.inan
+byāṅāva	cv.ant
+banijāra	n
+tyāka	n
+tvaṃ	v.co
+julo	v.perf.past
+||	punc
+
+ratnadatta	n
+baniyā	n
+phuṅāva	cv.ant
+choka	v.impst
+tvaṃ	v.co
+julo	v.perf.past
+||	punc
+
+thvanaṃ	adv.conj
+li	cv.anter
+antaranaṃ	adv.conj
+dhālaṃ	v.perf.past
+||	punc
+
+bho	interj
+chi	num
+sabhāloka	n
+nyehune	v.n
+.	punc
+
+āmo	d.dem
+ratna	n
+biyā	v.perf.part
+bela	n
+sa	case.loc.inan
+jipanisye	n
+na	case.erg
+khaṅā	v.perf.part
+.	punc
+
+āma	d.dem
+kha	n
+chu	p.interrog
+kha	n
+dhāsya	v.co
+ji	p.pers
+panisa	case.gen.h.pl
+satya	adv.man
+satya	adv.man
+dhāsyaṃ	cv.as
+rājā	n
+naṃ	case.erg
+t	d.dem
+yā	case.gen
+chiṅāva	cv.ant
+.	punc
+
+thva	d.dem
+Ratnadatta	n.prop
+baniyā	n
+khvayāva	cv.ant
+vanaṃ	v.perf.past
+||	punc
+
+thava	p.refl
+che	p.pers
+vaṅā	v.perf.part
+bela	n
+sa	case.loc.inan
+gochinam	case.erg
+cha	num
+thāya	n
+sa	case.loc.inan
+.	punc
+
+tavadhaṅa	p.correl
+dva	n
+cha	num
+guli	cs.inan
+dasyaṃ	v.co
+coṅa	v.impst
+.	punc
+
+thva	d.dem
+dva	n
+sa	case.loc.inan
+mocāto	v.ipv
+mhitāo	cv.ant
+cona	v.impst
+.	punc
+
+thva	d.dem
+rājā	n
+.	punc
+
+thva	d.dem
+mantri	n
+.	punc
+
+thva	d.dem
+māhāna	n
+dhakam	v.perf.past
+.	punc
+
+thathe	v.n
+dhakaṃ	v.dhak
+fn17	fol
+mhitāva	cv.ant
+coṅa	v.impst
+bela	n
+sa	case.loc.inan
+.	punc
+
+thva	d.dem
+ratnadatta	n
+baniyā	n
+khvayāva	cv.ant
+vava	v.impst
+khaṅāva	cv.ant
+.	punc
+
+thva	d.dem
+*mocātasyenaṃ	adv.conj
+(fn2b)	fol
+dhālaṃ	v.perf.past
+||	punc
+
+bho	interj
+chi	num
+mahā	adj
+puruṣa	n
+chimi	n
+sakaleṃ	d.quant
+chu	p.interrog
+dhaka	v.dhak
+lvāṅāva	cv.ant
+vayā	v.perf.part
+.	punc
+
+chu	p.interrog
+dhaka	v.dhak
+khva	n
+yā	case.gen
+vayā	v.perf.part
+.	punc
+
+dhaka	v.dhak
+nenam	v.perf.past
+.	punc
+
+thagu	n
+baniyā	n
+na	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+chi	num
+macāto	cs.time
+khava	adj
+khya	adj
+.	punc
+
+ji	p.pers
+panisa	case.gen.h.pl
+kha	v.impst
+.	punc
+
+chu	p.interrog
+kha	n
+lhāya	v.n
+.	punc
+
+thathiṃgu	adj
+mahā	adj
+āścarya	adj
+adbhūta	n
+kha	v.impst
+.	punc
+
+gathya	adv.inter
+dhālasā	cv.cond
+.	punc
+
+ati	adv.deg
+mūla	n
+vaṅagu	n
+ratna	n
+cha	num
+tā	cs.abs
+.	punc
+
+thva	d.dem
+banijālayāta	n
+bisyaṃ	v.co
+ha	n
+yā	case.gen
+.	punc
+
+āo	cv.ant
+thva	d.dem
+ratna	n
+ji	p.pers
+ta	case.dat
+vana	n
+ma	neg
+biva	v.ipv
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thvate	p.anaphor
+kha	n
+ṅaṅāva	cv.ant
+.	punc
+
+thva	d.dem
+mocātasyenaṃ	adv.conj
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahāpuruṣa	n
+āma	d.dem
+kha	n
+ji	p.pers
+na	case.erg
+t	d.dem
+yā	case.gen
+chinā	n
+biya	v.n
+.	punc
+
+chikara	n
+pani	case.abs.h.pl
+sakale	v.n
+.	punc
+
+abeka	n
+juya	v.n
+ma	neg
+tera	v.perf.past
+.	punc
+
+ji	p.pers
+na	case.erg
+satyana	adv.man
+pāra	n
+yāya	v.n
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+pāra	n
+yātaṃ	v.perf.past
+||	punc
+
+thana	p.pers
+pāra	n
+yāya	v.n
+julasā	cv.cond
+chikala	n
+pani	case.abs.h.pl
+svamha	p.correl
+cha	num
+bhi	n
+na	case.erg
+diśane	v.n
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+cha	num
+bhi	n
+na	case.erg
+coṅa	v.impst
+julo	v.perf.past
+||	punc
+
+thugu	p.indef
+thāsa	n
+ratnadatta	n
+baniyā	n
+cha	num
+mha	cs.anim
+salatāva	cv.ant
+nyanaṃ	v.perf.past
+||	punc
+
+bho	interj
+chi	num
+baniyā	n
+chana	p.pers
+bisyaṃ	v.co
+ha	n
+yā	case.gen
+ratna	n
+thya	post.abs
+ṅanakaṃ	adv.conj
+thva	d.dem
+cāna	adv.temp
+jyāṅāva	cv.ant
+hiva	v.np
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thama	p.refl
+naṃ	case.erg
+bisyaṃ	v.co
+ha	n
+yā	case.gen
+ratna	n
+thya	post.abs
+ṅanakaṃ	adv.conj
+.	punc
+
+cāna	adv.temp
+jyāṅāva	cv.ant
+bilaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+ratna	n
+mocātosyaṃ	v.co
+kāyāva	cv.ant
+cha	p.pers
+bhi	n
+na	case.erg
+talaṃ	v.perf.past
+.	punc
+
+hana	p.pers
+baniyāla	n
+boṅāva	cv.ant
+ṅaṅā	v.perf.part
+.	punc
+
+aye	v.n
+banijāla	v.impst
+.	punc
+
+chana	p.pers
+gathya	p.correl
+coṅa	v.impst
+ratna	n
+biyā	v.perf.part
+.	punc
+
+va	case.ass
+cona	v.impst
+thyaṃ	post.abs
+conakaṃ	adv.deg
+thva	d.dem
+cāna	adv.temp
+jyānyāva	cv.ant
+hiva	v.np
+dhakaṃ	v.dhak
+cā	n
+bilaṃ	v.perf.past
+||	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+banijāla	n
+na	case.erg
+ciṃtalapā	v.perf.part
+.	punc
+
+hari	n
+hari	adj
+.	punc
+
+biṣṇu	adj
+biṣṇu	n
+.	punc
+
+gathiṃṅa	adv.inter
+khyāla	n
+yā	case.gen
+mahimā	n
+dhaka	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+ji	p.pers
+bālaka	n
+bela	n
+sa	case.loc.inan
+ji	p.pers
+bāju	n
+na	case.erg
+dhāyā	v.perf.part
+ṅasyaṃ	v.co
+tayā	v.perf.part
+dava	v.impst
+.	punc
+
+ati	adv.deg
+sundaragū	n
+.	punc
+
+rucīka	n
+lvahaṃcā	n
+ji	p.pers
+na	case.erg
+ta	case.dat
+chyāṅā	v.perf.part
+.	punc
+
+tava	adj
+chyāṅāva	cv.ant
+ji	p.pers
+bāju	n
+na	case.erg
+nvāka	n
+||	punc
+
+gathiṃṅa	adv.inter
+ratna	n
+lvahacā	n
+tava	adj
+chyāṅā	v.perf.part
+bila	v.impst
+dhakaṃ	v.dhak
+nvāka	v.perf.past
+.	punc
+
+thathyaṅa	p.correl
+u	d.dem
+ratna	n
+juyiva	v.np
+dhakaṃ	v.dhak
+bhālapāva	cv.ant
+.	punc
+
+lvahaṃcā	n
+thya	post.abs
+ṅenakaṃ	v.perf.past
+jyānyāva	cv.ant
+bilaṃ	v.perf.past
+.	punc
+
+hanvaṃ	adv.conj
+thva	d.dem
+bastuka	n
+kāyāva	cv.ant
+.	punc
+
+hanvaṃ	adv.conj
+aṃtara	n
+pani	case.abs.h.pl
+boṅāva	cv.ant
+ṅana	v.perf.past
+.	punc
+
+bho	interj
+chi	num
+mahāpuruṣaṃ	adv.conj
+chi	num
+na	case.erg
+khaṅāgu	n
+ratna	n
+gathya	adv.inter
+cona	v.impst
+.	punc
+
+*dhakaṃ	n
+(fn3a)	fol
+ṅaṅā	v.perf.part
+.	punc
+
+chi	num
+na	case.erg
+khaṅā	v.perf.part
+thya	post.abs
+ṅanakaṃ	adv.conj
+.	punc
+
+thva	d.dem
+cāna	adv.temp
+jyāṅāva	cv.ant
+hiva	v.np
+dhaka	v.dhak
+dhāyāva	cv.ant
+cā	n
+bilaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+antaranaṃ	adv.conj
+mana	n
+naṃ	case.erg
+ciṃtarapalaṃ	v.perf.past
+.	punc
+
+hari	n
+hari	adj
+.	punc
+
+biṣṇu	n
+biṣṇu	n
+thamaṃ	p.refl
+gva	p.indef
+bela	n
+saṃ	case.erg.h
+fn18	fol
+svaya	v.n
+nāpaṃ	post.ass
+ma	neg
+nanā	n
+ratna	n
+.	punc
+
+dhana	n
+yā	case.gen
+lobha	adj
+na	case.erg
+antara	n
+jūla	n
+vayā	v.perf.part
+.	punc
+
+āva	adv.temp
+gathya	adv.inter
+yāya	v.n
+dhakaṃ	v.dhak
+bhālapāva	cv.ant
+conaṃ	v.perf.past
+.	punc
+
+hanaṃ	adv.conj
+bhālapā	v.perf.part
+.	punc
+
+ja	p.pers
+bālakabela	n
+sa	case.loc.inan
+ji	p.pers
+māmanaṃ	v.perf.past
+madhi	n
+chuṅaṃ	v.perf.past
+coṅa	v.impst
+bela	n
+sa	case.loc.inan
+.	punc
+
+ji	p.pers
+na	case.erg
+māma	n
+yāke	case.loc.an
+mādhi	n
+na	case.erg
+phoṅā	v.perf.part
+māmanaṃ	v.perf.past
+ji	p.pers
+ta	case.dat
+mādhi	n
+ma	neg
+biyāva	cv.ant
+tamanaṃ	v.perf.past
+madhi	n
+toka	n
+pusyaṃ	v.co
+tava	adj
+.	punc
+
+kapanaca	n
+chyānāva	cv.ant
+biyā	v.perf.part
+.	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+māmanaṃ	v.perf.past
+nvāka	v.perf.past
+.	punc
+
+hari	n
+hari	n
+ratna	n
+na	case.erg
+uti	adj
+ṅeṅa	v.ipv
+kapanacā	cv.cond
+.	punc
+
+tava	adj
+chyānā	d.quant
+biyā	v.perf.part
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thvathyaṃ	v.co
+juyi	v.np
+bhālapāva	cv.ant
+kapanacā	n
+thya	post.abs
+ṅanakaṃ	adv.conj
+jyānyāva	cv.ant
+bilaṃ	v.perf.past
+||	punc
+
+thva	d.dem
+cha	num
+bhi	n
+na	case.erg
+tayāva	cv.ant
+hano	interj
+meba	adj
+pāsā	n
+salatāva	cv.ant
+ṅanaṃ	v.perf.past
+.	punc
+
+aye	n
+haya	v.n
+vayā	v.perf.part
+ratna	n
+gathya	adv.inter
+ṅana	n
+.	punc
+
+chana	p.pers
+khanā	n
+bela	n
+sa	case.loc.inan
+va	case.ass
+thyaṃ	post.abs
+ṅanakāva	cv.ant
+.	punc
+
+thva	d.dem
+cānaṃ	adv.conj
+jyāṅāva	cv.ant
+hiva	v.np
+dhakaṃ	v.dhak
+.	punc
+
+thvayāta	n
+cā	n
+bilaṃ	v.perf.past
+.	punc
+
+thvanaṃ	adv.conj
+cā	n
+jukva	v.rel.part
+kāyavaṃ	v.co
+cintalapā	v.perf.part
+.	punc
+
+hari	adj
+hari	adj
+biṣṇu	n
+biṣṇu	n
+śiba	n
+śiba	n
+.	punc
+
+thamaṃ	p.refl
+svaya	v.n
+ma	neg
+nanā	n
+padārtha	n
+.	punc
+
+gathiṃṅa	adv.inter
+āścarya	adj
+mahimā	n
+kha	n
+ṅane	v.n
+māla	v.perf.past
+dhakaṃ	v.dhak
+.	punc
+
+āva	adv.temp
+gathya	adv.inter
+yāya	v.n
+dhakāva	cv.ant
+.	punc
+
+bhālapāva	cv.ant
+conaṃ	v.perf.past
+||	punc
+
+thathyaṃ	adv.conj
+bhālapā	v.perf.part
+ji	p.pers
+bāla	n
+sa	case.loc.inan
+.	punc
+
+ji	p.pers
+babunaṃ	adv.conj
+la	n
+hisyaṃ	v.co
+tayā	v.perf.part
+.	punc
+
+balaṣuni	adv.conj
+cha	num
+mha	cs.anim
+ji	p.pers
+na	case.erg
+syānyāva	cv.ant
+biyā	v.perf.part
+.	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+.	punc
+
+ji	p.pers
+babu	n
+na	case.erg
+nvāka	n
+.	punc
+
+ratnava	cv.ant
+uti	adj
+ṅaṅa	v.impst
+balaṣuni	v.ipv
+syānyāva	cv.ant
+bila	v.impst
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thva	d.dem
+balaṣuni	v.ipv
+thyaṃ	post.abs
+juyi	v.n
+kā	v.perf.part
+dhaka	v.dhak
+bhālapāva	cv.ant
+balaṣu	n
+thyaṃ	post.abs
+ṅanakaṃ	adv.conj
+jyānyāva	cv.ant
+bilaṃ	v.perf.past
+||	punc
+
+thva	d.dem
+kāyāva	cv.ant
+pyamhaṃ	p.correl
+salatāva	cv.ant
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+chi	num
+mahāpuruṣa	n
+pani	case.abs.h.pl
+svamha	n
+sa	case.loc.inan
+u	d.dem
+ma	neg
+lāka	n
+.	punc
+
+cha	p.pers
+pani	case.abs.h.pl
+kha	n
+phasakha	n
+.	punc
+
+adharma	n
+.	punc
+
+asatya	n
+.	punc
+
+u	d.dem
+ma	neg
+lāka	n
+sohune	v.n
+dhāyāva	cv.ant
+.	punc
+
+o	p.correl
+panisena	case.erg.h.pl
+jyānāguli	n
+kenyāva	cv.ant
+.	punc
+
+chapanisye	v.n
+na	case.erg
+o	p.correl
+yā	case.gen
+ratna	n
+lita	adv.dir
+biya	v.n
+māla	v.perf.past
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+vayā	v.perf.part
+ratna	n
+lita	adv.dir
+bilaṃ	v.perf.past
+||	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+ratnadatta	n
+baniyā	n
+mahā	adj
+rasanaṃ	adv.man
+thava	p.refl
+che	n
+lihā	adv.dir
+vaṅa	v.impst
+tvaṃ	v.co
+julo	v.perf.past
+||	punc
+
+thuguli	p.indef
+prakāraṇa	n
+rājā	n
+naṃ	case.erg
+t	d.dem
+yā	case.gen
+chiya	n
+ma	neg
+phayāguli	p.indef
+thva	d.dem
+(fn3b)	fol
+macātosye	n
+na	case.erg
+|	punc
+t	d.dem
+yā	case.gen
+chiṅā	v.perf.part
+dhakaṃ	v.dhak
+dhāyā	v.perf.part
+kha	n
+rājā	n
+na	case.erg
+nyanāva	cv.ant
+rājā	n
+yā	case.gen
+mana	n
+sa	case.loc.inan
+ati	adv.deg
+kautuka	adj
+juram	v.perf.past
+.	punc
+
+su	p.interrog
+mocātasyanam	adv.conj
+t	d.dem
+yā	case.gen
+chita	n
+dhakaṃ	v.dhak
+dhayāva	cv.ant
+mana	n
+naṃ	case.erg
+cintarapalaṃ	v.perf.past
+||	punc
+
+ati	adv.deg
+kautuka	n
+.	punc
+
+aho	interj
+āścarya	adj
+dhaka	v.dhak
+rājā	n
+naṃ	case.erg
+ciṃtalapāva	cv.ant
+.	punc
+
+thva	d.dem
+dva	n
+sa	case.loc.inan
+cha	p.pers
+tā	cs.abs
+lakṣaṇa	n
+dayīva	v.ipv
+dhaka	v.dhak
+.	punc
+
+kulinaṃ	adv.conj
+mhuyāva	cv.ant
+solaṅāsyaṃ	cv.as
+bikramaditya	n
+fn19	fol
+rājā	n
+yā	case.gen
+siṃhāsana	n
+lulaṃ	v.perf.past
+||	punc
+
+hā	interj
+hā	interj
+ati	adv.deg
+āścarya	adj
+dhaka	v.dhak
+cintalapalaṃ	v.perf.past
+.	punc
+
+thathiṃgū	p.correl
+ratna	n
+yā	case.gen
+siṃhāsana	n
+yā	case.gen
+.	punc
+
+prabhāba	n
+na	case.erg
+khaṃ	n
+thva	d.dem
+mocātosye	n
+na	case.erg
+thvate	p.anaphor
+parākrama	n
+dayakaṃ	v.perf.past
+dhāla	n
+dhaka	v.dhak
+kautuka	n
+cāyāva	cv.ant
+conaṃ	v.perf.past
+.	punc
+
+thanaṃ	adv.conj
+li	cv.anter
+.	punc
+
+thva	d.dem
+rājā	n
+naṃ	case.erg
+anega	d.quant
+siṃdūra	n
+jātrā	n
+yāṅāva	cv.ant
+.	punc
+
+nānā	d.quant
+bādya	n
+thāṅāva	cv.ant
+.	punc
+
+pyāṣu	n
+na	case.erg
+huyakāva	cv.ant
+.	punc
+
+la	n
+svasyaṃ	v.co
+yanyāva	cv.ant
+.	punc
+
+thava	p.refl
+rājyaghala	n
+sa	case.loc.inan
+duta	adv.dir
+yanaṃ	v.perf.past
+||	punc
+
+thvanaṃ	adv.conj
+li	cv.anter
+.	punc
+
+thva	d.dem
+bhojadeba	n
+rājā	n
+naṃ	case.erg
+.	punc
+
+bhiṃgu	adv.conj
+nakṣetra	n
+.	punc
+
+thithibāra	n
+.	punc
+
+soyāva	cv.ant
+.	punc
+
+bhiṃgū	p.correl
+dīna	n
+sa	case.loc.inan
+.	punc
+
+samasta	d.quant
+prajāpani	n
+munakāva	cv.ant
+.	punc
+
+thva	d.dem
+siṃhāsana	n
+sa	case.loc.inan
+dane	post.gen
+tenaṃ	v.perf.past
+||	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+siṃhāsana	n
+sa	case.loc.inan
+coṅa	v.impst
+putrikā	n
+cha	num
+mha	cs.anim
+sena	case.erg.h
+.	punc
+
+nona	n
+vāka	n
+||	punc
+
+bho	interj
+rājā	n
+bhojadeba	n
+chalapolanaṃ	adv.place
+jaguli	p.indef
+bacana	n
+ma	neg
+ṅasyaṃ	cv.as
+.	punc
+
+thva	d.dem
+siṃhāsana	n
+sa	case.loc.inan
+dane	v.n
+ma	neg
+du	v.impst
+dhaka	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thva	d.dem
+putrikānaṃ	adv.conj
+pūrba	n
+kathā	n
+kanaṃ	v.perf.past
+||	punc
+
+1	num.ar
+||	punc
+
+I	n.prop
+bho	interj
+mahārājā	n
+.	punc
+
+bhojadeba	n
+.	punc
+
+karpūra	n
+dhāyā	v.perf.part
+nagara	n
+sa	case.loc.inan
+.	punc
+
+ratnapiṃgala	n.prop
+dhāyā	v.perf.part
+baniyā	n
+cha	num
+mha	cs.anim
+dava	v.impst
+.	punc
+
+thva	d.dem
+baniyā	n
+yā	case.gen
+ekaputrī	n
+.	punc
+
+mhyāca	n
+cha	num
+mha	cs.anim
+dava	v.impst
+.	punc
+
+thva	d.dem
+baniyānaṃ	adv.conj
+aṃgīkāra	n
+yātaṃ	v.perf.past
+.	punc
+
+gomha	p.correl
+puruṣanaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+tuṃthī	n
+sa	case.loc.inan
+cha	num
+thala	n
+dāma	n
+thaṅāva	cv.ant
+biya	v.n
+phata	v.perf.past
+.	punc
+
+omhayāta	n
+ji	p.pers
+mhyāca	n
+biya	v.n
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thva	d.dem
+kha	n
+vāta	n
+tāyāva	cv.ant
+.	punc
+
+rājā	n
+bikramādita	n
+anega	d.quant
+rakṣa	num.skt
+koṭi	num.skt
+pramānanaṃ	v.perf.past
+.	punc
+
+dāma	n
+yanyāva	cv.ant
+tuṃthī	n
+sa	case.loc.inan
+thanyāva	cv.ant
+bilaṃ	v.perf.past
+.	punc
+
+rājya	n
+dakvaṃ	d.quant
+milaṃ	v.perf.past
+.	punc
+
+bastubhāva	cv.ant
+dakvaṃ	d.quant
+milaṃ	v.perf.past
+||	punc
+
+thana	adv.conj
+baniyānaṃ	adv.conj
+mhyāca	n
+bibahāra	n
+yāṅāva	cv.ant
+bilaṃ	v.perf.past
+.	punc
+
+tisā	n
+mālakva	cv.ant
+biyāva	cv.ant
+chotaṃ	v.perf.past
+||	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+thva	d.dem
+baniyā	n
+yā	case.gen
+mhyācava	v.impst
+.	punc
+
+bikramādityava	cv.ant
+samadhāra	n
+yātaṃ	v.perf.past
+.	punc
+
+āva	adv.temp
+ji	p.pers
+na	case.erg
+chu	p.indef
+yāya	v.n
+.	punc
+
+thathiṃgū	p.correl
+samasta	d.quant
+rājyaṃ	cv.as
+.	punc
+
+bastubhābaṃ	n
+samastaṃ	d.quant
+phuto	v.perf.past
+.	punc
+
+āva	adv.temp
+ji	p.pers
+ga	n
+na	case.erg
+vane	v.n
+ga	n
+na	case.erg
+conya	v.n
+dhaka	v.dhak
+dhayāva	cv.ant
+.	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+thva	d.dem
+baniyā	n
+yā	case.gen
+mhyaca	n
+.	punc
+
+madanābatinaṃ	adv.conj
+dhālaṃ	v.perf.past
+||	punc
+
+bho	interj
+chi	num
+prabhu	n
+thākura	adj
+.	punc
+
+amathya	adv.conj
+a	n
+yāsa	n
+cāsya	n
+bijyāya	v.n
+ma	neg
+teva	v.impst
+.	punc
+
+ji	p.pers
+*bāju	n
+(fn4a)	fol
+mahā	adj
+pāpa	n
+sta	v.perf.past
+.	punc
+
+fn20	fol
+ji	p.pers
+bāju	n
+yā	case.gen
+kha	n
+chu	p.indef
+dhāya	v.n
+.	punc
+
+āva	adv.temp
+chi	num
+dhaṃdā	n
+kāya	v.n
+mu	neg
+mvāva	cv.ant
+.	punc
+
+ji	p.pers
+j	d.dem
+yāsa	n
+yā	case.gen
+thukā	evid
+.	punc
+
+ji	p.pers
+ta	case.dat
+kapāsa	n
+jukva	v.rel.part
+bihuni	n
+dhāyāva	cv.ant
+.	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+rājā	n
+bikramādityanaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+āva	adv.temp
+ji	p.pers
+na	case.erg
+ga	n
+na	case.erg
+kāyāva	cv.ant
+biyā	v.perf.part
+.	punc
+
+chana	p.pers
+ta	case.dat
+kapāsa	n
+.	punc
+
+dhaka	v.dhak
+dhāyāva	cv.ant
+cha	num
+guli	cs.inan
+deśa	n
+sa	case.loc.inan
+vanyāva	cv.ant
+.	punc
+
+kapāsa	n
+phonyāva	cv.ant
+.	punc
+
+hayāva	cv.ant
+bilaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+kapāsa	n
+jyā	n
+yānyāva	cv.ant
+jimni	n
+ku	neg
+b	n
+yā	case.gen
+.	punc
+
+suyani	v.n
+ku	n
+dhu	n
+hāyakāva	cv.ant
+bhinaka	adv.man
+kāpala	n
+thānāva	cv.ant
+.	punc
+
+sighāli	n
+yā	case.gen
+dune	v.n
+.	punc
+
+soka	n
+thanyāva	cv.ant
+.	punc
+
+meba	adj
+nagara	n
+yā	case.gen
+rājā	n
+yāke	case.loc.an
+du	v.impst
+ti	v.ipv
+dhakaṃ	v.dhak
+bisyaṃ	v.co
+chotaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+madanābatinaṃ	v.perf.past
+.	punc
+
+chiji	n
+sa	case.loc.inan
+ṣarca	n
+dayake	v.n
+dhakaṃ	v.dhak
+bisyaṃ	v.co
+hakva	adv.dir
+dāma	n
+jvaṅāva	cv.ant
+vāyo	v.ipv
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+chutaṃ	v.perf.past
+||	punc
+
+thvate	p.anaphor
+madanābatī	n
+yā	case.gen
+kha	n
+nyanāva	cv.ant
+.	punc
+
+bikramāditya	n
+rājā	n
+naṃ	case.erg
+.	punc
+
+thva	d.dem
+syeghāli	n
+jvanyāva	cv.ant
+vanaṃ	v.perf.past
+||	punc
+
+thana	adv.man
+meba	adj
+rājā	n
+yāke	v.n
+thyanakāva	cv.ant
+.	punc
+
+thva	d.dem
+rājā	n
+yā	case.gen
+dubāri	n
+yāke	case.loc.an
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+mantrī	n
+sa	case.loc.inan
+mahārājā	n
+yā	case.gen
+prasthā	n
+na	case.erg
+dava	v.impst
+lā	cl.inter
+.	punc
+
+rājā	n
+yā	case.gen
+chu	p.interrog
+bela	n
+gathe	v.n
+khava	v.impst
+dhaka	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+ji	p.pers
+na	case.erg
+thva	d.dem
+sighāli	n
+cha	num
+goḍa	cs.round
+du	v.impst
+te	v.ipv
+ha	n
+yā	case.gen
+dhaka	v.dhak
+dhāyāva	cv.ant
+mantrīnaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahā	adj
+puruṣa	n
+.	punc
+
+ji	p.pers
+na	case.erg
+gocala	n
+yāya	v.n
+.	punc
+
+dhaka	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+rājā	n
+yāke	case.loc.an
+vanyāva	cv.ant
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahārājā	n
+.	punc
+
+ati	adv.deg
+ācśarya	n
+.	punc
+
+mahā	adj
+puruṣa	n
+cha	num
+mha	cs.anim
+sena	case.erg.h
+chalapola	p.pers
+sake	case.loc.an
+.	punc
+
+sighāli	n
+cha	num
+goḍa	cs.round
+du	v.impst
+te	v.ipv
+hala	n
+||	punc
+
+thva	d.dem
+boṅaṃ	n
+haya	v.n
+rā	n
+gathya	adv.inter
+khava	v.impst
+dhaka	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+rājā	n
+naṃ	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+dubāri	n
+.	punc
+
+duta	adv.dir
+boṅaṃ	v.co
+haki	v.ipv
+dhaka	v.dhak
+dhāyāva	cv.ant
+duta	adv.dir
+boṅaṃ	v.co
+yaṅa	v.impst
+julo	v.perf.past
+||	punc
+
+thagū	n
+thāya	n
+sa	case.loc.inan
+mahā	adj
+puruṣanaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahārājā	n
+.	punc
+
+thva	d.dem
+kāpola	n
+kāhuni	v.ipv
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+sighāli	n
+du	v.impst
+talaṃ	v.perf.past
+||	punc
+
+rājā	n
+naṃ	case.erg
+sighāli	n
+kāyāva	cv.ant
+.	punc
+
+thva	d.dem
+sighāli	n
+yā	case.gen
+duvane	post.gen
+.	punc
+
+gathiṃgū	adv.inter
+bastu	n
+dava	v.impst
+khe	v.n
+dhaka	v.dhak
+dhāyāva	cv.ant
+sighāli	n
+polāva	cv.ant
+soraṅāsyaṃ	cv.as
+.	punc
+
+ati	adv.deg
+bhīṅa	v.impst
+kāpara	n
+cha	num
+tvāka	n
+khanaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+kāpala	n
+cala	n
+khyanāva	cv.ant
+solaṅāsyaṃ	v.perf.past
+.	punc
+
+b	n
+yā	case.gen
+.	punc
+
+jimani	n
+ku	n
+.	punc
+
+dhu	n
+.	punc
+
+suyani	v.n
+ku	neg
+hāka	v.perf.past
+.	punc
+
+ati	adv.deg
+amulya	adj
+kāpala	n
+dhakaṃ	v.dhak
+kāyāva	cv.ant
+.	punc
+
+thva	d.dem
+kāpala	n
+havamhayāta	n
+dāma	n
+jvane	v.n
+phakva	adv.deg
+bisya	v.co
+chova	v.ipv
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+dāma	n
+bi	n
+tenaṃ	v.perf.past
+||	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+anāgatabidhātā	n
+puruṣa	n
+cha	num
+mha	cs.anim
+sena	case.erg.h
+rājā	n
+yāke	case.loc.an
+ināpa	n
+yātaṃ	v.perf.past
+||	punc
+
+fn21	fol
+bho	interj
+mahārājā	n
+.	punc
+
+thva	d.dem
+kāpala	n
+*havamhayāta	n
+(fn4b)	fol
+.	punc
+
+kalāta	n
+.	punc
+
+ati	adv.deg
+sundari	adj
+.	punc
+
+chalapola	p.pers
+yāta	case.dat
+jogya	adj
+.	punc
+
+thathiṃ	adv.man
+daridra	adj
+puruṣayāta	n
+jogya	adj
+ma	neg
+juva	v.impst
+dhaka	v.dhak
+dhāvagu	n
+kha	n
+bikramaditya	n
+rājā	n
+naṃ	case.erg
+tāva	cv.ant
+||	punc
+
+thva	d.dem
+bikramāditya	n
+rājā	n
+naṃ	case.erg
+jvane	v.n
+phakva	adv.deg
+dāma	n
+jonyāva	cv.ant
+.	punc
+
+thava	p.refl
+che	n
+lihā	adv.dir
+vava	v.impst
+julo	v.perf.past
+.	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+madanābatinaṃ	v.perf.past
+ṅaṅā	v.perf.part
+.	punc
+
+bho	interj
+puruṣa	n
+jhijhi	n
+sta	n
+dāma	n
+bisya	v.co
+hava	cv.ant
+lā	cl.inter
+.	punc
+
+ma	neg
+hava	v.impst
+lā	cl.inter
+.	punc
+
+gathe	v.n
+dhakaṃ	v.dhak
+ṅenaṃ	v.perf.past
+.	punc
+
+thana	n
+puruṣanaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+madanābati	n
+.	punc
+
+dāma	n
+bisya	v.co
+havāva	cv.ant
+chu	p.interrog
+prayojana	n
+du	v.impst
+.	punc
+
+chava	cv.ant
+jiva	p.pers
+bijoga	n
+juī	n
+na	case.erg
+.	punc
+
+dhaka	v.dhak
+dhālaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+madanābatinaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+prabhū	n
+sa	case.loc.inan
+.	punc
+
+āma	d.dem
+chu	p.interrog
+kha	v.impst
+.	punc
+
+ji	p.pers
+ke	case.loc.an
+thukā	evid
+satyadharma	n
+dhaka	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+ji	p.pers
+ma	neg
+yekaṃ	v.perf.past
+gathe	v.n
+jiīva	v.np
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+coṅa	v.impst
+bela	n
+sa	case.loc.inan
+.	punc
+
+thva	d.dem
+kāpala	n
+du	v.impst
+tara	n
+van	v.co
+yā	case.gen
+thāya	n
+yā	case.gen
+dubāri	n
+na	case.erg
+.	punc
+
+rājā	n
+yāke	case.loc.an
+choṅāva	cv.ant
+bilaṃ	v.perf.past
+||	punc
+
+bho	interj
+mahārājā	n
+dhaka	v.dhak
+.	punc
+
+thva	d.dem
+kāpala	n
+havamha	n
+yā	case.gen
+nāma	n
+bikramaditya	adj
+.	punc
+
+thva	d.dem
+bikramadityanaṃ	adv.conj
+samasta	d.quant
+rājya	n
+.	punc
+
+bastūbhāba	n
+miyāva	cv.ant
+tuṃthi	n
+na	case.erg
+cha	p.pers
+thala	n
+dāma	n
+thanyāva	cv.ant
+biyāva	cv.ant
+dayakumha	p.correl
+kalāta	n
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+rājā	n
+yā	case.gen
+mana	n
+sa	case.loc.inan
+ānaṃda	n
+juyāva	cv.ant
+.	punc
+
+mohana	adv.man
+toka	n
+puyāva	cv.ant
+.	punc
+
+rājā	n
+yā	case.gen
+sakala	d.quant
+jana	n
+vayāva	cv.ant
+.	punc
+
+thva	d.dem
+madanābati	n
+yanaṃ	v.perf.past
+||	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+thva	d.dem
+madanābati	n
+rājaghara	n
+sa	case.loc.inan
+duta	adv.dir
+yaṅāva	cv.ant
+.	punc
+
+rājā	n
+naṃ	case.erg
+madanābati	n
+hātaṃ	v.perf.past
+.	punc
+
+bho	interj
+madanābati	n
+chana	p.pers
+āva	adv.temp
+.	punc
+
+meba	adj
+tā	cs.abs
+bhālapya	v.n
+ma	neg
+te	v.ipv
+.	punc
+
+cha	num
+ji	p.pers
+ta	case.dat
+strī	n
+yāya	v.n
+julo	v.perf.past
+dhaka	v.dhak
+rājā	n
+na	case.erg
+hānyāva	cv.ant
+.	punc
+
+rāni	n
+madanābatinaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahārājā	n
+sa	case.loc.inan
+.	punc
+
+ji	p.pers
+jībanaṃ	adv.conj
+rūpanaṃ	v.perf.past
+.	punc
+
+tuti	n
+lāhāta	n
+mikhānaṃ	v.perf.past
+aṃgarakṣaṇanaṃ	v.perf.past
+.	punc
+
+jaubananaṃ	v.perf.past
+.	punc
+
+chalapola	p.pers
+yā	case.gen
+sukha	n
+julo	v.perf.past
+.	punc
+
+parat	n
+na	case.erg
+.	punc
+
+pya	num
+nhu	num.time
+to	v.impst
+jukva	adv.deg
+lahune	v.n
+dhakaṃ	v.dhak
+madanābatinaṃ	v.perf.past
+.	punc
+
+rājā	n
+yāke	case.loc.an
+bimati	n
+yāka	v.impst
+||	punc
+
+thana	n
+rājā	n
+naṃ	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+jiva	p.pers
+khya	adj
+dhakaṃ	v.dhak
+.	punc
+
+aneka	d.quant
+ratna	n
+du	v.impst
+thāya	n
+sa	case.loc.inan
+anega	d.quant
+dāsīja	n
+na	case.erg
+panisena	case.erg.h.pl
+licakāva	cv.ant
+chagulī	n
+gṛha	n
+sa	case.loc.inan
+tayāva	cv.ant
+talaṃ	v.perf.past
+.	punc
+
+thagu	n
+thāsa	n
+bikramāditya	n
+rājā	n
+na	case.erg
+ṅheva	cv.ant
+kaṅaṃ	v.co
+tāthā	v.perf.part
+kha	n
+madanābatinaṃ	v.perf.past
+dhāyā	v.perf.part
+kha	n
+cha	num
+tā	case.dat
+lumanakāva	cv.ant
+.	punc
+
+ona	v.impst
+thathya	adv.man
+dhāyāva	cv.ant
+tāthu	n
+dhaka	v.dhak
+.	punc
+
+bho	interj
+prabhu	n
+sa	case.loc.inan
+.	punc
+
+kadācita	n
+omha	p.correl
+rājā	n
+yā	case.gen
+.	punc
+
+baraparākrama	n
+dava	v.impst
+.	punc
+
+deśa	n
+(fn5a)	fol
+thyani	n
+thya	post.abs
+coṅa	v.impst
+bela	n
+sa	case.loc.inan
+.	punc
+
+chi	num
+*misābhe	n
+sana	n
+fn22	fol
+.	punc
+
+ji	p.pers
+con	n
+yā	case.gen
+thāya	n
+sa	case.loc.inan
+.	punc
+
+chi	num
+na	case.erg
+subarṇa	n
+yā	case.gen
+culyā	n
+kaṃkana	v.ipv
+.	punc
+
+aṃguli	v.ipv
+.	punc
+
+ādipaṃ	v.co
+jvanyāva	cv.ant
+ji	p.pers
+nāpalāta	v.perf.past
+vaya	v.n
+māla	v.perf.past
+.	punc
+
+jinaṃ	adv.conj
+pya	num
+nhu	cs.time
+to	v.impst
+va	d.dem
+rājā	n
+yā	case.gen
+khvāla	n
+ma	neg
+sosya	v.co
+conya	adv.man
+dhaka	v.dhak
+dhāva	v.impst
+.	punc
+
+āva	adv.temp
+ji	p.pers
+na	case.erg
+gathi	n
+mahā	adj
+kaṣṭa	n
+.	punc
+
+bairāgya	n
+yānāva	cv.ant
+juya	v.n
+māla	v.perf.past
+.	punc
+
+chu	p.indef
+yāya	v.n
+dhaka	v.dhak
+bhālapāva	cv.ant
+cha	num
+guli	cs.inan
+deśa	n
+sa	case.loc.inan
+vanyāva	cv.ant
+misā	n
+yā	case.gen
+bastra	n
+nyānāva	cv.ant
+.	punc
+
+chāya	adv.inter
+chanda	n
+na	case.erg
+tiyāva	cv.ant
+.	punc
+
+culyā	n
+aṃguli	n
+jvaṅāva	cv.ant
+vanaṃ	v.perf.past
+||	punc
+
+thugu	n
+thāsa	n
+madanābati	n
+na	case.erg
+dāsījanapanita	n
+dhāsyaṃ	v.co
+talaṃ	v.perf.past
+||	punc
+
+bho	interj
+dāsījana	n
+pani	case.abs.h.pl
+.	punc
+
+ji	p.pers
+tisā	n
+ma	neg
+du	v.impst
+.	punc
+
+culyā	v.perf.part
+.	punc
+
+aṃguli	n
+jvanyāva	cv.ant
+.	punc
+
+banijāla	n
+valasā	cv.cond
+boṅaṃ	adv.conj
+hiva	v.np
+dhakaṃ	v.dhak
+hāṅaṃ	v.co
+talaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+yā	case.gen
+sati	n
+ṣu	n
+nhu	cs.time
+misachāya	n
+na	case.erg
+tiyāva	cv.ant
+.	punc
+
+culyā	v.perf.part
+.	punc
+
+aṃguli	v.ipv
+.	punc
+
+jvanyāva	cv.ant
+mila	n
+vava	cv.coin
+banijāla	n
+khanyāva	cv.ant
+.	punc
+
+dāsīja	n
+na	case.erg
+panisena	case.erg.h.pl
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+banijāla	n
+ji	p.pers
+panisa	case.gen.h.pl
+rānīnaṃ	adv.conj
+kāya	v.n
+yā	case.gen
+hiva	v.np
+dhakaṃ	v.dhak
+duta	adv.dir
+boṅaṃ	v.co
+yaṅāva	cv.ant
+.	punc
+
+rāni	n
+nāpa	post.abs
+lācakāva	cv.ant
+bilaṃ	v.perf.past
+.	punc
+
+rāni	n
+naṃ	case.erg
+duta	adv.dir
+bonyaṃ	v.co
+yaṅāva	cv.ant
+duvane	post.gen
+anega	d.quant
+anega	d.quant
+ratna	n
+dāma	n
+biyāva	cv.ant
+dhālam	v.perf.past
+.	punc
+
+bho	interj
+prabhū	n
+sa	case.loc.inan
+āva	adv.temp
+ji	p.pers
+bacana	n
+ṅava	cv.ant
+dhaka	v.dhak
+.	punc
+
+thva	d.dem
+dāma	n
+na	case.erg
+.	punc
+
+bhīṅa	v.impst
+saḍa	n
+cha	num
+mha	cs.anim
+surakṣaṇamha	n
+ṅānāva	cv.ant
+.	punc
+
+hanī	n
+bahanī	n
+yā	case.gen
+rātrī	n
+sa	case.loc.inan
+sala	n
+jvanāva	cv.ant
+.	punc
+
+thva	d.dem
+jhyāla	n
+kosa	n
+disane	v.n
+.	punc
+
+ji	p.pers
+bise	v.co
+vaya	v.n
+.	punc
+
+chiji	n
+ni	num
+mhaṃ	cs.anim
+bise	v.co
+vanya	adj
+dhakaṃ	v.dhak
+.	punc
+
+samadhāra	n
+yāṅāva	cv.ant
+.	punc
+
+rājā	n
+pi	adv.dir
+chosyaṃ	v.co
+halaṃ	v.perf.past
+||	punc
+
+thva	d.dem
+rājā	n
+naṃ	case.erg
+anega	d.quant
+bastuka	n
+hayāva	cv.ant
+thva	d.dem
+rājā	n
+naṃ	case.erg
+bhiṅa	adj
+saḍa	n
+cha	num
+mha	cs.anim
+ṅānāva	cv.ant
+.	punc
+
+thava	p.refl
+ta	case.dat
+mālakva	adv.dir
+bhīṅa	v.impst
+bastra	n
+.	punc
+
+khaṃjara	n
+ṅānāva	cv.ant
+.	punc
+
+rātrī	n
+sa	case.loc.inan
+.	punc
+
+thva	d.dem
+saḍa	n
+gayāva	cv.ant
+jhyāla	n
+kosa	n
+conyāva	cv.ant
+coṅa	v.impst
+julo	v.perf.past
+||	punc
+
+thana	p.pers
+rāni	n
+bisya	v.co
+vane	v.n
+ma	neg
+phayāva	cv.ant
+.	punc
+
+rājā	n
+yā	case.gen
+.	punc
+
+āsa	n
+bunyāva	cv.ant
+ṅheḍa	n
+vayāva	cv.ant
+phale	n
+sa	case.loc.inan
+denyaṃ	v.co
+coṅa	v.impst
+julo	v.perf.past
+.	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+khu	v.impst
+cha	num
+mha	cs.anim
+vayāva	cv.ant
+.	punc
+
+thva	d.dem
+khunaṃ	adv.conj
+dhālaṃ	v.perf.past
+.	punc
+
+āva	adv.temp
+ji	p.pers
+bhāgyanaṃ	adv.conj
+khā	n
+yā	case.gen
+dato	v.perf.past
+.	punc
+
+rājāghala	n
+sa	case.loc.inan
+khuya	v.n
+mahā	adj
+kaṣṭa	n
+.	punc
+
+āva	adv.temp
+thva	d.dem
+śaḍa	n
+cha	num
+mha	cs.anim
+khusyaṃ	v.co
+yane	v.n
+bhālapāva	cv.ant
+tījaka	n
+śaḍa	n
+phenyāva	cv.ant
+coṅā	v.perf.part
+bela	n
+sa	case.loc.inan
+thva	d.dem
+jhyāla	n
+na	case.erg
+khipota	n
+jvaṅāva	cv.ant
+bisye	n
+vayāva	cv.ant
+śaḍa	n
+yā	case.gen
+mha	n
+sa	case.loc.inan
+juta	v.perf.past
+vava	v.impst
+.	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+madanābati	n
+sahita	post.abs
+khu	v.impst
+.	punc
+
+sadanaṃ	adv.conj
+huyakaṃ	v.perf.past
+yaṅa	v.impst
+julo	v.perf.past
+||	punc
+
+thva	d.dem
+*bela	n
+sa	case.loc.inan
+(fn5b)	fol
+khunaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+strīja	n
+na	case.erg
+chiji	n
+bhāgyanaṃ	adv.conj
+khā	n
+yā	case.gen
+dato	v.perf.past
+.	punc
+
+āva	adv.temp
+chiji	n
+strī	n
+puruṣa	n
+juya	v.n
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+rānīnaṃ	adv.conj
+cintarapā	v.perf.part
+.	punc
+
+fn23	fol
+hari	n
+hari	n
+gathiṃṅa	adv.inter
+āścarya	adj
+juyaṃ	v.co
+yava	v.impst
+khaṃ	n
+.	punc
+
+ji	p.pers
+na	case.erg
+rājā	n
+bikramāditya	n
+dhaka	v.dhak
+bhārapā	v.perf.part
+ma	neg
+khu	v.impst
+khaṃ	n
+.	punc
+
+gathiṃṅa	adv.inter
+pāpi	n
+sta	n
+khu	v.impst
+yā	case.gen
+hasta	n
+sa	case.loc.inan
+lāka	n
+.	punc
+
+hari	n
+hari	n
+chu	p.indef
+yā	case.gen
+pāpa	n
+na	case.erg
+gugū	d.dem
+yā	case.gen
+pāpa	n
+na	case.erg
+thathya	adv.man
+jula	v.perf.past
+.	punc
+
+āva	adv.temp
+gathya	adv.inter
+yāya	v.n
+dhaka	v.dhak
+ciṃtarapaṃ	v.co
+mahā	adj
+duḥkhanaṃ	v.perf.past
+vana	v.perf.past
+||	punc
+
+thana	adv.conj
+lasa	n
+coṅa	v.impst
+khu	v.impst
+ni	num
+mha	cs.anim
+nāpa	post.abs
+lāka	n
+.	punc
+
+thva	d.dem
+khu	v.impst
+nimhasyenaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+pāsā	n
+huṃhuṃ	p.indef
+khu	v.impst
+ma	neg
+khu	v.impst
+lā	cl.inter
+dhaka	v.dhak
+dhāla	n
+.	punc
+
+hanakaṃ	v.perf.past
+pāsākhunaṃ	adv.conj
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+pāsā	n
+niścayanaṃ	adv.man
+khu	v.impst
+khava	v.impst
+khye	v.n
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thva	d.dem
+khupanisyenaṃ	adv.conj
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+pāsā	n
+huṃhuṃ	p.indef
+khu	v.impst
+yāke	case.loc.an
+lāyāva	cv.ant
+kāya	v.n
+nuyo	v.perf.past
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+nimhasye	n
+na	case.abl
+lāyā	n
+kāyāva	cv.ant
+bvācakaṃ	v.perf.past
+yaṅāva	cv.ant
+.	punc
+
+thva	d.dem
+khu	v.impst
+duḥkhanaṃ	adv.conj
+riva	v.np
+riva	cv.ant
+vanaṃ	v.perf.past
+||	punc
+
+thana	adv.man
+khu	v.impst
+ni	num
+mha	cs.anim
+yā	case.gen
+samadhāra	n
+yātaṃ	v.perf.past
+.	punc
+
+bho	interj
+duṣṭa	adj
+pāsā	n
+chita	n
+śaḍa	n
+kāva	cv.ant
+.	punc
+
+ji	p.pers
+ta	case.dat
+tiri	n
+kāya	v
+dhālaṃ	v.perf.past
+.	punc
+
+hanakaṃ	v.perf.past
+meba	adj
+pāsānaṃ	adv.conj
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+pāsā	n
+āmathya	v.n
+ma	neg
+khu	v.impst
+.	punc
+
+chita	n
+śaḍa	n
+kāva	cv.ant
+.	punc
+
+ji	p.pers
+ta	case.dat
+tiri	n
+kāya	v.n
+dhāyāva	cv.ant
+thithiṃ	adv.man
+lvāṅāva	cv.ant
+vanaṃ	v.perf.past
+||	punc
+
+thana	n
+rānīnaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+chisakala	n
+ni	num
+mha	cs.anim
+lvāya	v.n
+ma	neg
+teva	v.impst
+.	punc
+
+ji	p.pers
+ati	adv.deg
+pyāsa	case.erg
+cāva	v.impst
+.	punc
+
+chi	num
+panisenaṃ	case.erg.h.pl
+ji	p.pers
+ta	case.dat
+laṃkha	n
+kāyāva	cv.ant
+tonakiva	v.np
+.	punc
+
+ji	p.pers
+mvācake	v.n
+māla	v.perf.past
+dhaka	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thva	d.dem
+khu	v.impst
+nimhasyenaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+tirija	n
+na	case.erg
+chi	num
+bisya	v.co
+vani	v.ipv
+chale	v.n
+dhaka	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+athya	p.correl
+jurasā	cv.cond
+svamha	p.correl
+vane	v.n
+nuyo	v.perf.past
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+sva	num
+mhaṃ	cs.anim
+vaṅāva	cv.ant
+tuṃthi	n
+yā	case.gen
+co	adv.dir
+sa	case.loc.inan
+sva	num
+mhaṃ	cs.anim
+coṅāva	cv.ant
+.	punc
+
+laṃkha	n
+sālāva	cv.ant
+bela	n
+sa	case.loc.inan
+.	punc
+
+thva	d.dem
+tirijananaṃ	v.perf.past
+.	punc
+
+ni	num
+mha	cs.anim
+ghvāṅāva	cv.ant
+tuṃthi	n
+sa	case.loc.inan
+ku	n
+tinakaṃ	v.perf.past
+choka	v.impst
+julo	v.perf.past
+||	punc
+
+thanaṃ	adv.conj
+li	cv.anter
+misānaṃ	adv.conj
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+pāspi	n
+sta	n
+ṣu	n
+pani	case.abs.h.pl
+.	punc
+
+chimisye	n
+na	case.erg
+ati	adv.deg
+agamya	n
+kha	n
+lhāka	v.impst
+.	punc
+
+āva	adv.temp
+cha	p.pers
+pani	case.abs.h.pl
+ni	num
+mhaṃ	cs.anim
+.	punc
+
+āmaka	n
+na	case.erg
+cova	cv.ant
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thva	d.dem
+trijananaṃ	adv.conj
+śaḍa	n
+gayāva	cv.ant
+vanaṃ	v.perf.past
+||	punc
+
+thanaṃ	adv.conj
+li	cv.anter
+.	punc
+
+thva	d.dem
+misā	n
+na	case.erg
+dhāyā	v.perf.part
+.	punc
+
+āva	adv.temp
+thathya	adv.man
+vane	v.n
+ma	neg
+khuto	v.perf.past
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+mijana	n
+yā	case.gen
+bastranaṃ	adv.man
+tiyāva	cv.ant
+vane	v.n
+jula	v.perf.past
+dhaka	v.dhak
+cintalapāva	cv.ant
+.	punc
+
+cha	num
+guli	cs.inan
+deśa	n
+sa	case.loc.inan
+duhā	n
+vaṅāva	cv.ant
+mijana	n
+yā	case.gen
+bastra	n
+ṅānāva	cv.ant
+thva	d.dem
+bastranaṃ	adv.man
+tiyāva	cv.ant
+.	punc
+
+mijana	n
+thyaṃ	post.abs
+nyenakāva	cv.ant
+vanaṃ	v.perf.past
+|	punc
+thana	adv.man
+samasta	d.quant
+sena	case.erg.h
+.	punc
+
+rājā	n
+bhālapaṃ	v.co
+coṅa	v.impst
+||	punc
+
+fn24	fol
+thathya	adv.man
+vale	v.n
+na	case.erg
+.	punc
+
+bastrapuri	n
+*nāma	n
+(fn6a)	fol
+deśa	n
+cha	num
+guli	cs.inan
+dasyaṃ	v.co
+coṅa	v.impst
+.	punc
+
+thva	d.dem
+deśa	n
+sa	case.loc.inan
+byāghra	adj
+chamhasye	n
+na	case.erg
+.	punc
+
+thva	d.dem
+deśa	n
+yā	case.gen
+kataka	n
+bāraṃbāra	adv.deg
+mocaku	n
+julo	v.perf.past
+||	punc
+
+thva	d.dem
+deśa	n
+yā	case.gen
+gala	n
+sa	case.loc.inan
+coṅa	v.impst
+dhū	n
+na	case.erg
+nayāva	cv.ant
+deśakataka	n
+pihā	n
+vaya	v.n
+sunu	n
+ma	neg
+chāva	cv.ant
+.	punc
+
+thagū	n
+thāsa	n
+.	punc
+
+thva	d.dem
+deśa	n
+yā	case.gen
+rājā	n
+naṃ	case.abl
+dhālaṃ	v.perf.past
+||	punc
+
+bho	interj
+prajāloka	n
+.	punc
+
+gvamha	p.correl
+sena	case.erg.h
+.	punc
+
+thva	d.dem
+byāghra	adj
+mocake	v.n
+phata	v.perf.past
+.	punc
+
+vamhayāta	n
+ji	p.pers
+mhyāca	n
+bibahāra	n
+yānā	v.perf.part
+biya	v.n
+dhaka	v.dhak
+dhālam	v.perf.past
+.	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+mijana	n
+rūpa	n
+yāṅāva	cv.ant
+vavamha	p.correl
+thva	d.dem
+deśa	n
+duhāṃ	post.abs
+vane	v.n
+te	v.ipv
+na	case.erg
+bela	n
+sa	case.loc.inan
+.	punc
+
+thva	d.dem
+deśa	n
+yā	case.gen
+gala	n
+sa	case.loc.inan
+basalapaṃ	v.co
+coṅa	v.impst
+thva	d.dem
+dhū	n
+na	case.erg
+ṅāyayāṅaṃ	adv.man
+vava	v.impst
+khaṅāva	cv.ant
+vāhā	n
+na	case.abl
+khāsyaṃ	v.co
+coṅa	v.impst
+bela	n
+sa	case.loc.inan
+.	punc
+
+khaḍga	n
+na	case.erg
+pālāva	cv.ant
+byāghra	n
+molaku	n
+julo	v.perf.past
+||	punc
+
+thvanaṃ	adv.conj
+li	cv.anter
+thva	d.dem
+mijanabeśa	n
+deśa	n
+sa	case.loc.inan
+duhā	n
+vaṅa	v.impst
+julo	v.perf.past
+.	punc
+
+thva	d.dem
+deśa	n
+yā	case.gen
+lokanaṃ	adv.man
+khaṅāva	cv.ant
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahāpuruṣa	n
+chikalapiṃ	adv.dir
+ganaṃ	adv.rel
+jhā	n
+yā	case.gen
+dhakaṃ	v.dhak
+ṅanaṃ	v.perf.past
+.	punc
+
+āmo	d.dem
+lasa	n
+tavadhī	n
+dhu	n
+dava	v.impst
+.	punc
+
+deśakataka	n
+adikaṃ	v.perf.past
+mocakaro	v.perf.past
+dhakaṃ	v.dhak
+kaṅāva	cv.ant
+.	punc
+
+thana	n
+mahāpuruṣanaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+āmo	d.dem
+dhu	n
+ji	p.pers
+na	case.erg
+mocake	v.n
+dhuno	v.perf.past
+.	punc
+
+apratīta	n
+julasā	cv.cond
+sola	n
+huni	v.ipv
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thva	d.dem
+deśa	n
+yā	case.gen
+loka	n
+sakaleṃ	d.quant
+harṣamāna	adj
+julaṃ	v.perf.past
+||	punc
+
+thva	d.dem
+loka	n
+pani	case.abs.h.pl
+vaṅāva	cv.ant
+rājā	n
+yā	case.gen
+ṅhavane	post.gen
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahārājā	n
+.	punc
+
+chalapola	p.pers
+yā	case.gen
+bhāgyanaṃ	v.perf.past
+.	punc
+
+jimi	n
+bhāgyenaṃ	v.perf.past
+.	punc
+
+mahāpuruṣa	n
+cha	num
+mha	cs.anim
+vayāva	cv.ant
+.	punc
+
+jhijhi	n
+sa	case.loc.inan
+gala	n
+sa	case.loc.inan
+basalapaṃ	v.co
+coṅa	v.impst
+dhu	n
+mocakaro	v.perf.past
+dhakaṃ	v.dhak
+rājā	n
+yāta	case.dat
+kanaṃ	v.perf.past
+||	punc
+
+thana	n
+rājā	n
+khava	v.impst
+rā	cl.inter
+dhakaṃ	v.dhak
+atiharṣamānanaṃ	adv.man
+coṅāva	cv.ant
+rājā	n
+na	case.erg
+mahāpuruṣa	n
+bonakara	n
+chotaṃ	v.perf.past
+||	punc
+
+thana	n
+mahāpuruṣa	n
+vava	v.impst
+khaṅāva	cv.ant
+rājā	n
+yā	case.gen
+mana	n
+harṣamāna	adj
+jusyaṃ	v.co
+conaṃ	v.perf.past
+||	punc
+
+thana	adv.man
+thva	d.dem
+rola	n
+nāma	n
+maṃtrī	n
+kanaṃ	v.perf.past
+||	punc
+
+bho	interj
+maṃtrī	n
+gathiṃṅa	adv.inter
+āścarya	adj
+mahāpuruṣa	n
+vava	v.impst
+svava	v.impst
+svava	v.impst
+dhakaṃ	v.dhak
+kyanaṃ	v.perf.past
+.	punc
+
+rājā	n
+maṃtrī	n
+ni	num
+mha	cs.anim
+ṣusi	n
+juyāva	cv.ant
+rājā	n
+na	case.erg
+ji	p.pers
+mhyāca	n
+biya	v.n
+juro	v.perf.past
+.	punc
+
+thvayāta	n
+yogya	n
+dhakaṃ	v.dhak
+rājā	n
+na	case.erg
+rānīyāta	v.perf.past
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+rāni	n
+sa	case.loc.inan
+.	punc
+
+chana	p.pers
+tāla	n
+rācakiva	cv.ant
+.	punc
+
+thvayāta	n
+yogya	n
+chana	p.pers
+putrī	n
+biya	v.n
+jula	v.perf.past
+||	punc
+
+tāra	v.perf.past
+rācakiva	v.np
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+tāra	v.perf.past
+rācakaraṃ	v.perf.past
+.	punc
+
+bhinagū	n
+dina	n
+svacakāva	cv.ant
+bibahāra	n
+yātaṃ	v.perf.past
+||	punc
+
+thana	n
+cha	num
+nhu	cs.time
+yā	case.gen
+dina	n
+sa	case.loc.inan
+thva	d.dem
+rānicā	n
+na	case.erg
+.	punc
+
+thava	p.refl
+māma	n
+yā	case.gen
+fn25	fol
+ṅhevane	post.gen
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+māmaju	n
+thva	d.dem
+mijana	n
+rājā	n
+ma	neg
+ṣu	v.impst
+.	punc
+
+mijanabeśa	n
+strī	n
+yā	case.gen
+(fn6b)	fol
+svabhāba	n
+dhakaṃ	v.dhak
+māma	n
+yā	case.gen
+ṅhevane	post.gen
+dhālaṃ	v.perf.past
+.	punc
+
+thana	n
+rānīcā	n
+duḥkha	n
+cāsyaṃ	v.co
+conaṃ	v.perf.past
+.	punc
+
+thana	n
+māmanaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+putrī	n
+cha	p.pers
+jñāya	v.n
+mu	neg
+mvāle	v.n
+.	punc
+
+chana	p.pers
+babuju	n
+yāke	case.loc.an
+nyane	v.n
+makhā	adv.man
+dhakaṃ	v.dhak
+bodha	n
+biyāva	cv.ant
+.	punc
+
+thva	d.dem
+rānīnaṃ	adv.conj
+rājā	n
+yā	case.gen
+ṅhavane	post.gen
+dhālaṃ	v.perf.past
+||	punc
+
+bho	interj
+prabhu	n
+sa	case.loc.inan
+chalapola	p.pers
+yā	case.gen
+putrīnaṃ	adv.man
+khosya	v.co
+khosyaṃ	v.co
+dhāla	v.impst
+.	punc
+
+thva	d.dem
+puruṣa	n
+ma	neg
+ṣu	v.impst
+.	punc
+
+gathya	adv.inter
+jula	v.perf.past
+.	punc
+
+strī	n
+yā	case.gen
+svabhāba	n
+dhakaṃ	v.dhak
+dhāva	v.impst
+.	punc
+
+gathya	adv.inter
+yāya	v.n
+dhāyāva	cv.ant
+.	punc
+
+thana	n
+rājā	n
+naṃ	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+rānī	n
+sa	case.loc.inan
+cha	num
+sumuka	n
+ni	cl.focus
+cova	cv.ant
+.	punc
+
+jinaṃ	adv.conj
+ṅane	v.n
+makhā	adv.man
+dhaka	v.dhak
+dhāyāva	cv.ant
+rāni	n
+vanaṃ	v.perf.past
+.	punc
+
+thana	n
+rājā	n
+na	case.erg
+jiri	n
+boṅāva	cv.ant
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+chi	num
+rājakumāra	n
+.	punc
+
+chī	adv.dur
+*dhaṃdiyata	adj
+bastra	n
+na	case.erg
+toka	n
+.	punc
+
+chāna	adv.inter
+ma	neg
+to	v.impst
+yā	case.gen
+.	punc
+
+misā	n
+lā	n
+cha	num
+chu	p.interrog
+dhaka	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thva	d.dem
+jirinaṃ	adv.conj
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+babuju	n
+.	punc
+
+nyahune	v.n
+.	punc
+
+ji	p.pers
+bārānasī	n
+tīrtha	n
+śibā	n
+juyā	v.perf.part
+bela	n
+sa	case.loc.inan
+.	punc
+
+kāmakrīḍā	n
+da	cs.time
+daṃ	n
+chi	num
+tolatāva	cv.ant
+tayā	v.perf.part
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+rājā	n
+na	case.erg
+rāniyāta	n
+bodha	n
+yātaṃ	v.perf.past
+||	punc
+
+thanaṃ	adv.conj
+li	cv.anter
+.	punc
+
+thva	d.dem
+rājācā	n
+na	case.erg
+koṭabāra	n
+boṅāva	cv.ant
+lapāra	n
+talaṃ	v.perf.past
+||	punc
+
+rājā	n
+na	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+koṭabāra	n
+thana	n
+suṃ	p.indef
+deśi	n
+paradeśi	n
+valasā	cv.cond
+.	punc
+
+boṅaṃ	adv.conj
+haya	v.n
+māla	v.perf.past
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+lapāla	n
+talaṃ	v.perf.past
+||	punc
+
+cha	num
+nhu	num.time
+yā	case.gen
+dīna	n
+sa	case.loc.inan
+.	punc
+
+thva	d.dem
+khu	v.impst
+ni	num
+mha	cs.anim
+vava	v.impst
+julo	v.perf.past
+.	punc
+
+lapāla	n
+coṅamhanaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahāpuruṣa	n
+pani	case.abs.h.pl
+jimi	n
+rājā	n
+naṃ	case.erg
+hāṅaṃ	v.co
+tava	adj
+.	punc
+
+thana	n
+sunu	v.ipv
+valasā	cv.cond
+boṅaṃ	v.co
+hiva	v.np
+dhakaṃ	v.dhak
+hāṅaṃ	v.co
+tava	adj
+.	punc
+
+chī	interj
+jhāsane	v.n
+dhakaṃ	v.dhak
+boṅaṃ	n
+yanaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahārājā	n
+.	punc
+
+thva	d.dem
+mahāpuruṣa	n
+boṅaṃ	v.co
+haya	v.perf.past
+dhuno	v.perf.past
+.	punc
+
+kāva	cv.ant
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thana	n
+rājācānaṃ	v.perf.past
+ṅanaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahāpuruṣa	n
+chu	p.interrog
+nimittina	post.abs
+vayā	v.perf.part
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thva	d.dem
+panisenaṃ	case.erg.h.pl
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahārājā	n
+.	punc
+
+ji	p.pers
+pani	case.abs.h.pl
+nimhasye	v.n
+na	case.erg
+svasyaṃ	v.co
+coṅā	v.perf.part
+khu	v.impst
+cha	num
+mha	cs.anim
+sena	case.erg.h
+misā	n
+cha	num
+mha	cs.anim
+khusyaṃ	v.co
+hava	v.impst
+.	punc
+
+ji	p.pers
+pani	case.abs.h.pl
+nimhasenaṃ	adv.conj
+lāsyaṃ	v.co
+kāyā	v.perf.part
+||	punc
+
+thva	d.dem
+misānaṃ	adv.conj
+jipi	n
+ni	num
+mhaṃ	cs.anim
+tuṃthi	n
+sa	case.loc.inan
+ku	n
+tika	n
+tāthāva	cv.ant
+.	punc
+
+thva	d.dem
+misā	n
+bise	v.co
+vala	v.perf.past
+||	punc
+
+thva	d.dem
+misā	n
+māle	v.n
+dhaka	v.dhak
+vayā	v.perf.part
+.	punc
+
+bicāra	n
+yāya	v.n
+māla	v.perf.past
+dhakaṃ	v.dhak
+vayā	v.perf.part
+.	punc
+
+jiva	p.pers
+khya	p.correl
+dhakaṃ	v.dhak
+mikhābhāba	n
+yānāva	cv.ant
+.	punc
+
+śalagala	n
+sa	case.loc.inan
+kuṅa	v.impst
+yanaṃ	v.perf.past
+||	punc
+
+fn26	fol
+punarbāra	adv.conj
+hana	n
+cha	num
+mha	cs.anim
+mahāpuruṣa	n
+vala	v.perf.past
+.	punc
+
+lapāla	n
+coṅa	v.impst
+māhānanaṃ	v.perf.past
+boṅaṃ	v.perf.past
+yanyāva	cv.ant
+bilaṃ	v.perf.past
+.	punc
+
+punarbāra	adv.conj
+vamha	p.correl
+yāke	case.loc.an
+rājā	n
+naṃ	case.erg
+ṅanā	v.perf.part
+.	punc
+
+bho	interj
+mahāpuruṣa	n
+cha	p.pers
+(fn7a)	fol
+chāya	adv.inter
+vayā	v.perf.part
+.	punc
+
+chana	p.pers
+chu	p.interrog
+chu	p.interrog
+kha	n
+dava	v.impst
+dhakaṃ	v.dhak
+ṅanaṃ	v.perf.past
+||	punc
+
+thva	d.dem
+puruṣa	n
+na	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahārājā	n
+.	punc
+
+ji	p.pers
+na	case.erg
+misā	n
+cha	num
+mha	cs.anim
+ṣu	n
+syaṃ	case.erg.h
+ha	n
+yā	case.gen
+.	punc
+
+meba	adj
+ṣu	num
+nimhase	n
+na	case.erg
+lāsyaṃ	v.co
+kāla	n
+.	punc
+
+thva	d.dem
+māle	v.n
+dhaka	v.dhak
+vayā	v.perf.part
+.	punc
+
+chalapolasye	n
+na	case.erg
+bicāra	n
+yāṅaṃ	v.perf.past
+biya	v.n
+māla	v.perf.past
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+jiva	p.pers
+khya	p.correl
+dhakaṃ	v.dhak
+mikhābhāva	cv.ant
+yānāva	cv.ant
+cha	num
+guli	cs.inan
+śaragala	n
+sa	case.loc.inan
+kuṅa	v.impst
+yanaṃ	v.perf.past
+||	punc
+
+thana	n
+māhānanaṃ	v.perf.past
+inālapā	v.perf.part
+.	punc
+
+bho	interj
+mahārājā	n
+.	punc
+
+āva	adv.temp
+jukva	v.rel.part
+haya	v.n
+ma	neg
+chālā	v.impst
+.	punc
+
+hako	interj
+hako	interj
+kunyāva	cv.ant
+talo	v.perf.past
+.	punc
+
+gathya	adv.inter
+haya	v.n
+dhaka	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+rājā	n
+naṃ	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+māhāna	n
+.	punc
+
+āva	adv.temp
+kunya	v.n
+ma	neg
+khuto	v.perf.past
+.	punc
+
+boṅaṃ	adv.conj
+haya	v.n
+māla	v.perf.past
+dhaka	v.dhak
+dhālaṃ	v.perf.past
+||	punc
+
+thana	n
+hakanaṃ	adv.freq
+.	punc
+
+cha	num
+mha	cs.anim
+vava	v.impst
+māhānanaṃ	v.perf.past
+du	v.impst
+boṅaṃ	v.perf.past
+yanaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahārājā	n
+kāsya	adv.dir
+bijyāhune	v.ipv
+dhakaṃ	v.dhak
+nāpa	post.abs
+rācakāva	cv.ant
+bilaṃ	v.perf.past
+.	punc
+
+thana	n
+rājā	n
+naṃ	case.erg
+ṅanaṃ	v.perf.past
+.	punc
+
+bho	interj
+puruṣa	n
+.	punc
+
+chana	p.pers
+kha	n
+gathya	adv.inter
+gathya	adv.inter
+khava	v.impst
+dhakaṃ	v.dhak
+nenaṃ	v.perf.past
+||	punc
+
+thana	n
+mahāpuruṣanaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahārājā	n
+ji	p.pers
+phale	v.n
+dyeṅaṃ	v.perf.past
+con	v.perf.past
+yā	case.gen
+bela	n
+sa	case.loc.inan
+ṅheda	n
+na	case.erg
+cyāṅāva	cv.ant
+sva	num
+yā	case.gen
+.	punc
+
+śaḍa	n
+ma	neg
+du	v.impst
+khanyāva	cv.ant
+.	punc
+
+mahāduḥkha	n
+na	case.erg
+.	punc
+
+thva	d.dem
+rājye	n
+sa	case.loc.inan
+māla	v.perf.past
+vayā	v.perf.part
+dhaka	v.dhak
+dhālaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+thava	p.refl
+puruṣa	n
+khava	v.impst
+bhālapāva	cv.ant
+.	punc
+
+karuṇā	n
+cāyāva	cv.ant
+.	punc
+
+thava	p.refl
+dāsīja	n
+na	case.erg
+sakaleṃ	d.quant
+pi	adv.dir
+chosyaṃ	v.co
+hayāva	cv.ant
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+prabhu	n
+sa	case.loc.inan
+.	punc
+
+ji	p.pers
+siva	cv.ant
+ni	interj
+lā	cl.inter
+dhakaṃ	v.dhak
+nyenaṃ	v.perf.past
+.	punc
+
+thana	n
+mahāpuruṣanaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+chī	n
+.	punc
+
+chī	n
+su	p.interrog
+juyiva	v.np
+.	punc
+
+ji	p.pers
+na	case.erg
+ma	neg
+siyā	v.perf.part
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thva	d.dem
+rājā	n
+yāṅaṃ	v.perf.past
+coṅamhanaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+chīkara	n
+yā	case.gen
+strī	n
+thukā	evid
+ji	p.pers
+.	punc
+
+ji	p.pers
+puruṣa	n
+chalapora	n
+thukā	evid
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+samasta	d.quant
+bṛttāntakha	n
+kanyāva	cv.ant
+.	punc
+
+bhoka	n
+puyāva	cv.ant
+bhiṃgu	n
+basta	n
+na	case.erg
+tiyakāva	cv.ant
+.	punc
+
+thva	d.dem
+ṣuto	v.perf.past
+keṅāva	cv.ant
+.	punc
+
+sabhā	n
+dayakāva	cv.ant
+.	punc
+
+rānīcā	n
+bonakala	n
+chotaṃ	v.perf.past
+.	punc
+
+rānīcā	n
+vayava	cv.ant
+.	punc
+
+nāpa	post.abs
+rācakāva	cv.ant
+.	punc
+
+mijanabhe	n
+sa	case.loc.inan
+tatājunaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+rānīcā	n
+.	punc
+
+ji	p.pers
+kha	n
+ṅava	cv.ant
+.	punc
+
+thvasapola	n
+lā	cl.inter
+jurasā	cv.cond
+rājā	n
+thukā	evid
+ji	p.pers
+prabhusvāmi	n
+.	punc
+
+thva	d.dem
+yā	case.gen
+nimittī	n
+na	case.erg
+ji	p.pers
+thathya	adv.man
+juyā	v.perf.part
+.	punc
+
+āva	adv.temp
+chinaṃ	p.indef
+jinaṃ	v.perf.past
+.	punc
+
+thvasapola	n
+yā	case.gen
+kalāta	n
+jusyaṃ	v.co
+sukhanaṃ	v.perf.past
+fn27	fol
+conya	adj
+dhakaṃ	v.dhak
+.	punc
+
+meba	adj
+tā	cs.abs
+bhālapye	v.n
+ma	neg
+teva	v.impst
+dhaka	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thava	p.refl
+ta	case.dat
+dhaka	v.dhak
+kāsyaṃ	v.co
+tayā	v.perf.part
+mha	cs.anim
+.	punc
+
+rānicā	n
+bodha	n
+yāṅāva	cv.ant
+.	punc
+
+bho	interj
+keheju	n
+va	case.ass
+bela	n
+sa	case.loc.inan
+jinaṃ	adv.place
+heyakaṃ	v.perf.past
+tayā	v.perf.part
+.	punc
+
+āva	adv.temp
+chiji	n
+anyonye	n
+na	case.erg
+sukhanaṃ	adv.place
+conya	adj
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+prabhū	n
+(fn7b)	fol
+svāmi	n
+yā	case.gen
+caraṇakamala	n
+sa	case.loc.inan
+.	punc
+
+bhoka	n
+puyāva	cv.ant
+conaṃ	v.perf.past
+|	punc
+thanaṃ	adv.conj
+li	cv.anter
+thva	d.dem
+sva	num
+mhaṃ	cs.anim
+thava	p.refl
+deśa	n
+sa	case.loc.inan
+vayāva	cv.ant
+.	punc
+
+anega	d.quant
+jātrā	n
+yānyāva	cv.ant
+.	punc
+
+nānā	d.quant
+bādya	n
+thācakāva	cv.ant
+sukhanaṃ	prep
+coṅa	v.impst
+juro	v.perf.past
+||	punc
+
+thathya	v.n
+dhaka	v.dhak
+putrikā	n
+cha	num
+mha	cs.anim
+sena	case.erg.h
+.	punc
+
+rājā	n
+bhojadeba	n
+hāka	n
+tvaṃ	v.co
+juro	v.perf.past
+||	punc
+
+thathiṃgū	adj
+parākrama	n
+mahātyāgī	n
+juvamha	n
+yā	case.gen
+siṃhāsana	n
+sa	case.loc.inan
+cha	num
+dane	v.n
+ma	neg
+te	v.ipv
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+putrikā	n
+cha	num
+mha	cs.anim
+bosyaṃ	v.co
+vaṅa	v.impst
+julo	v.perf.past
+||	punc
+
+2	num.ar
+||	punc
+
+II	n.prop
+punarbāra	adv.conj
+putrikā	n
+chasye	v.n
+na	cl.focus
+nona	v.impst
+vāka	n
+||	punc
+
+bho	interj
+rājā	n
+bhojadeba	n
+ji	p.pers
+kha	v.impst
+ma	neg
+nyesyaṃ	v.perf.past
+.	punc
+
+āmo	d.dem
+siṃhāsana	n
+sa	case.loc.inan
+bijyāya	v.n
+ma	neg
+te	v.ipv
+||	punc
+
+bho	interj
+mahārājā	n
+bikramādita	n
+mahārājā	n
+yā	case.gen
+sabhā	n
+dayakāva	cv.ant
+.	punc
+
+anega	d.quant
+sabhāloka	n
+muṅaṃ	case.erg.h.pl
+coṅā	v.perf.part
+bela	n
+sa	case.loc.inan
+.	punc
+
+brāhmaṇa	n
+cha	num
+mha	cs.anim
+vava	v.impst
+.	punc
+
+thva	d.dem
+brāhmaṇa	n
+naṃ	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahārājā	n
+duḥkhimha	p.correl
+sadā	n
+na	case.erg
+duḥkhi	n
+.	punc
+
+sukhimha	p.correl
+sadā	n
+sukhi	n
+dhakaṃ	v.dhak
+dhālaṃ	v.perf.past
+.	punc
+
+thana	n
+rājā	n
+naṃ	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+brāhmaṇa	n
+.	punc
+
+āmo	d.dem
+chu	p.interrog
+kha	n
+lhānā	v.perf.past
+.	punc
+
+ji	p.pers
+na	case.erg
+cha	p.pers
+thathyaṃ	adv.conj
+tavami	n
+yāyaṃ	v.co
+phayā	v.perf.part
+dhakaṃ	v.dhak
+bikramādita	n
+rājā	n
+na	case.erg
+dhāyāva	cv.ant
+.	punc
+
+brāhmaṇa	n
+naṃ	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bhāgyana	n
+ma	neg
+bīvatola	n
+chalapolasya	n
+na	case.erg
+phayīva	v.np
+ma	neg
+khu	v.impst
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+bikramādita	n
+rājā	n
+naṃ	case.erg
+.	punc
+
+thava	p.refl
+maṃtri	n
+koṭabāra	n
+mahārāni	n
+bonakala	n
+choyāva	cv.ant
+samadhāra	n
+yātaṃ	v.perf.past
+.	punc
+
+bho	interj
+maṃtri	n
+pani	case.abs.h.pl
+ṅahune	v.n
+.	punc
+
+thva	d.dem
+brāhmaṇava	cv.ant
+jiva	p.pers
+saṃbāda	n
+julo	v.perf.past
+||	punc
+
+āvanaṃ	adv.conj
+ṅhā	cv.cond
+.	punc
+
+ji	p.pers
+rājā	n
+.	punc
+
+āvanaṃ	adv.conj
+li	cv.anter
+.	punc
+
+thva	d.dem
+brāhmaṇa	n
+rājā	n
+juro	v.perf.past
+.	punc
+
+gathya	adv.inter
+ji	p.pers
+ta	case.dat
+māna	n
+yānā	v.perf.part
+thyaṃ	post.abs
+.	punc
+
+thva	d.dem
+brāhmaṇa	n
+yāta	case.dat
+māna	n
+yāya	v.n
+māla	v.perf.past
+.	punc
+
+ma	neg
+yā	case.gen
+ma	neg
+gāka	v.perf.past
+.	punc
+
+dhaka	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+ji	p.pers
+paradeśa	n
+vane	v.n
+dhāsyam	v.perf.past
+.	punc
+
+bikramāditya	n
+rājā	n
+naṃ	case.erg
+.	punc
+
+rājya	n
+dhana	n
+saṃpatti	n
+.	punc
+
+thva	d.dem
+brāhmaṇa	n
+yā	case.gen
+julo	v.perf.past
+dhakaṃ	v.dhak
+fn28	fol
+dhāyāva	cv.ant
+.	punc
+
+thva	d.dem
+brāhmaṃ	n
+rājā	n
+yāṅaṃ	v.perf.past
+tayāva	cv.ant
+.	punc
+
+thamaṃ	p.refl
+thva	d.dem
+brāhmaṇa	n
+thya	post.abs
+ṅanakāva	cv.ant
+.	punc
+
+paradeśa	n
+vanaṃ	v.perf.past
+||	punc
+
+thana	n
+kāntipurī	n
+nagara	n
+cha	num
+guli	cs.inan
+thyaṅāva	cv.ant
+.	punc
+
+thva	d.dem
+deśa	n
+sa	case.loc.inan
+duhāyāva	cv.ant
+.	punc
+
+sola	n
+julaṃ	v.perf.past
+||	punc
+
+thugu	n
+deśa	n
+yā	case.gen
+.	punc
+
+rājā	n
+yā	case.gen
+padmābatī	n
+dhāyā	v.perf.part
+mhyāca	n
+cha	num
+mha	cs.anim
+du	v.impst
+.	punc
+
+thva	d.dem
+rājā	n
+yā	case.gen
+rola	n
+maṃtrī	n
+yā	case.gen
+.	punc
+
+mhyāca	n
+dharmābatī	n
+dhāyā	v.perf.part
+mha	cs.anim
+cha	num
+mha	cs.anim
+du	v.impst
+.	punc
+
+thva	d.dem
+ni	num
+mhaṃ	cs.anim
+ati	adv.deg
+jāka	n
+.	punc
+
+thva	d.dem
+nimhava	cv.ant
+.	punc
+
+maṃtrī	n
+yā	case.gen
+kāyava	cv.ant
+ati	adv.deg
+prīti	n
+na	case.erg
+juva	v.np
+||	punc
+
+cha	num
+nhu	num.time
+yā	case.gen
+mātra	cl.focus
+sa	case.loc.inan
+*rānīcānaṃ	adv.place
+(fn8a)	fol
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+maṃtrīcā	n
+.	punc
+
+ji	p.pers
+bibahāra	n
+yāyuva	v.np
+julo	v.perf.past
+.	punc
+
+chiji	n
+bāyuva	cv.ant
+julo	v.perf.past
+.	punc
+
+bisye	v.n
+vane	v.n
+nuyo	v.perf.past
+dhakaṃ	v.dhak
+hāṅāva	cv.ant
+.	punc
+
+bhākhā	n
+yāṅāva	cv.ant
+.	punc
+
+bho	interj
+maṃtrīcā	n
+chī	adv.dur
+ṅhapā	v.perf.part
+lātasāṃ	v.co
+ji	p.pers
+ṅhapā	n
+lātasāṃ	v.perf.past
+.	punc
+
+thva	d.dem
+deśa	n
+bāhirī	n
+sa	case.loc.inan
+coṅa	v.impst
+pauvā	n
+sa	case.loc.inan
+muṅāva	cv.ant
+vane	v.n
+dhakaṃ	v.dhak
+bhākhā	n
+yāṅāva	cv.ant
+conaṃ	v.perf.past
+||	punc
+
+thana	n
+thva	d.dem
+rānī	n
+yā	case.gen
+bibahāra	n
+yāya	v.n
+u	d.dem
+khunu	n
+rātrī	n
+sa	case.loc.inan
+.	punc
+
+rāni	n
+padmābatī	n
+na	case.erg
+.	punc
+
+dharmābati	n
+salatāva	cv.ant
+samadhāra	n
+yātaṃ	v.perf.past
+.	punc
+
+bho	interj
+maṃtrī	n
+bhājucā	cv.cond
+.	punc
+
+thva	d.dem
+deśa	n
+yā	case.gen
+samīpa	n
+sa	case.loc.inan
+coṅa	v.impst
+pali	n
+sa	case.loc.inan
+nāpa	post.abs
+rāya	v.n
+.	punc
+
+ji	p.pers
+nhāpā	adv.temp
+lātasāṃ	v.perf.past
+.	punc
+
+cha	num
+nhāpā	adv.temp
+lātasāṃ	n
+thva	d.dem
+pali	n
+sa	case.loc.inan
+nāpa	post.abs
+rāya	v.n
+nhāṃ	adv.dir
+dhakaṃ	v.dhak
+samadhāra	n
+yānāva	cv.ant
+.	punc
+
+thva	d.dem
+padmābatī	n
+rānīva	cv.ant
+.	punc
+
+maṃtri	n
+yā	case.gen
+mhāca	n
+dharmābatīva	cv.ant
+nhāpā	adv.temp
+lācakaṃ	v.perf.past
+vaṅāva	cv.ant
+.	punc
+
+thva	d.dem
+pali	n
+sa	case.loc.inan
+coṅa	v.impst
+julo	v.perf.past
+||	punc
+
+thu	d.dem
+kunhu	n
+yā	case.gen
+dīna	n
+sa	case.loc.inan
+thva	d.dem
+bikramāditya	n
+rājā	n
+.	punc
+
+paradeśi	n
+vayāva	cv.ant
+.	punc
+
+rātrī	n
+yā	case.gen
+samaya	n
+juyāva	cv.ant
+.	punc
+
+thva	d.dem
+deśa	n
+du	v.impst
+hāya	v.n
+ma	neg
+chālā	v.impst
+dhaka	v.dhak
+bhālapāva	cv.ant
+.	punc
+
+deśa	n
+bāhiri	n
+sa	case.loc.inan
+coṅa	v.impst
+.	punc
+
+thva	d.dem
+rānī	n
+bisya	v.co
+coṅa	v.impst
+palisaṃ	v.perf.past
+bāsa	n
+yāka	v.impst
+||	punc
+
+samadhāra	n
+yāṅāmha	n
+.	punc
+
+maṃtrīcā	n
+ma	neg
+valaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+bācātī	n
+sa	case.loc.inan
+.	punc
+
+thva	d.dem
+padmābativa	cv.ant
+.	punc
+
+dharmābativa	cv.ant
+.	punc
+
+nimhasenaṃ	v.perf.past
+.	punc
+
+bikramāditya	n
+coṅa	v.impst
+ma	neg
+siva	v.np
+.	punc
+
+thva	d.dem
+padmābatī	n
+rānīcā	n
+yā	case.gen
+levalamha	n
+maṃtrīcā	n
+bhālapāva	cv.ant
+bicāra	n
+yātaṃ	v.perf.past
+||	punc
+
+aya	n
+bhāju	n
+jhāya	v.n
+dhuna	v.impst
+dhaka	v.dhak
+dhālaṃ	v.perf.past
+.	punc
+
+thana	n
+bikramādityanaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+vaya	v.n
+dhunayo	v.perf.past
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+somhaṃ	adv.conj
+nāpaṃ	post.ass
+conaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+rānīnaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+bhāju	n
+.	punc
+
+āva	adv.temp
+chīji	n
+sva	num
+mhaṃ	cs.anim
+satyanaṃ	case.erg.h
+vaya	v.n
+dhuno	v.perf.past
+.	punc
+
+āvanaṃ	adv.conj
+li	cv.anter
+yā	case.gen
+.	punc
+
+jimi	n
+puruṣa	n
+chī	n
+julo	v.perf.past
+.	punc
+
+fn29	fol
+sinhala	adj
+chāhune	v.n
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thva	d.dem
+bikramāditya	n
+rājā	n
+naṃ	case.erg
+sinhala	n
+chālaṃ	v.perf.past
+.	punc
+
+bhāg	adv.dir
+yā	case.gen
+bhabati	n
+dhakaṃ	v.dhak
+rānī	n
+yāke	case.loc.an
+chālaṃ	v.perf.past
+||	punc
+
+raṇḍā	n
+bhabati	n
+dhakaṃ	v.dhak
+maṃtrī	n
+yā	case.gen
+mhyāca	n
+yāke	case.loc.an
+chālaṃ	v.perf.past
+.	punc
+
+thana	adv.man
+thva	d.dem
+bikramāditya	n
+rājā	n
+ati	adv.deg
+kautuka	n
+cāyāva	cv.ant
+dhālaṃ	v.perf.past
+.	punc
+
+gathiṃgu	adj
+āścarya	adj
+thva	d.dem
+.	punc
+
+su	p.interrog
+pani	case.abs.h.pl
+khe	v.n
+dhaka	v.dhak
+ciṃtalapaṃ	v.co
+conaṃ	v.perf.past
+||	punc
+
+thana	adv.man
+nasacātī	n
+sa	case.loc.inan
+rājā	n
+naṃ	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+strīloka	n
+pani	case.abs.h.pl
+chimisye	n
+na	case.erg
+.	punc
+
+ji	p.pers
+su	p.interrog
+bhālapā	v.perf.part
+.	punc
+
+ji	p.pers
+thathiṃṅa	p.correl
+.	punc
+
+kuṣṭa	n
+na	case.erg
+thivamha	n
+.	punc
+
+ji	p.pers
+lā	cl.inter
+jurasā	cv.cond
+.	punc
+
+jvagi	n
+thukā	evid
+.	punc
+
+lāle	v.n
+tvaṃ	v.co
+phoṅāva	cv.ant
+nayāva	cv.ant
+juyā	v.perf.part
+.	punc
+
+lihā	adv.dir
+*huni	v.ipv
+(fn8b)	fol
+huni	v.ipv
+dhakaṃ	v.dhak
+dhālaṃ	v.perf.past
+.	punc
+
+thana	adv.conj
+maṃtrī	n
+yā	case.gen
+mhāca	n
+jukva	v.rel.part
+bese	v.n
+vanaṃ	v.perf.past
+||	punc
+
+thva	d.dem
+rānīnaṃ	adv.conj
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+prabhū	n
+sa	case.loc.inan
+.	punc
+
+ji	p.pers
+.	punc
+
+bhābīnaṃ	v.perf.past
+.	punc
+
+chu	p.interrog
+rava	n
+juīva	cv.ant
+.	punc
+
+ji	p.pers
+puruṣa	n
+chī	n
+jula	v.perf.past
+.	punc
+
+chī	adv.dur
+dāsī	n
+ji	p.pers
+julo	v.perf.past
+.	punc
+
+ava	cv.ant
+chu	p.indef
+yāya	v.n
+dhaka	v.dhak
+bhoka	n
+puyāva	cv.ant
+nāpaṃ	post.ass
+conaṃ	v.perf.past
+||	punc
+
+thana	adv.conj
+thva	d.dem
+rānī	n
+padmābati	n
+yā	case.gen
+babuju	n
+na	case.erg
+mālakala	n
+choyāṃ	n
+.	punc
+
+ruya	n
+ke	case.loc.an
+ma	neg
+phava	v.impst
+.	punc
+
+thana	n
+thva	d.dem
+pali	n
+sa	case.loc.inan
+coṅa	v.impst
+sukhuli	n
+ulāva	cv.ant
+svayāva	cv.ant
+.	punc
+
+thuthā	n
+yogiva	cv.ant
+nāpaṃ	post.ass
+coṅa	v.impst
+khaṅāva	cv.ant
+.	punc
+
+boṅāva	cv.ant
+yaneyānaṃ	v.perf.past
+.	punc
+
+sātu	n
+sālaṅāsyaṃ	v.perf.past
+.	punc
+
+gathyanaṃ	adv.conj
+ma	neg
+vayāva	cv.ant
+rājā	n
+yāke	case.loc.an
+bimati	n
+yāka	v.impst
+julo	v.perf.past
+||	punc
+
+thanaṃ	adv.conj
+li	cv.anter
+rājā	n
+naṃ	case.erg
+bo	n
+na	case.erg
+bonakala	n
+choka	v.impst
+.	punc
+
+yathyanaṃ	adv.conj
+thva	d.dem
+rānīcā	n
+ma	neg
+vaka	v.perf.past
+.	punc
+
+ma	neg
+vayāva	cv.ant
+.	punc
+
+rājā	n
+naṃ	case.erg
+tyājalapaṃ	v.co
+tāthu	n
+julo	v.perf.past
+||	punc
+
+thana	n
+cha	num
+nhu	cs.time
+yā	case.gen
+abasala	n
+sa	case.loc.inan
+.	punc
+
+rājā	n
+pani	case.abs.h.pl
+ahala	n
+vane	v.n
+dhaka	v.dhak
+dhālaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+khavāta	n
+tāyāva	cv.ant
+.	punc
+
+rānicāyāta	n
+dhālaṃ	v.perf.past
+||	punc
+
+bho	interj
+rānīcā	n
+.	punc
+
+chana	p.pers
+babuju	n
+.	punc
+
+ahala	n
+vane	v.n
+dhāla	v.perf.past
+.	punc
+
+jiṃ	adv.freq
+vane	v.n
+.	punc
+
+chi	num
+na	case.erg
+babuju	n
+yāke	case.loc.an
+śaḍa	n
+cha	num
+mha	cs.anim
+phoṅāva	cv.ant
+hiva	v.np
+dhakaṃ	v.dhak
+dhālaṃ	v.perf.past
+.	punc
+
+thana	n
+padmābati	n
+rānicānaṃ	v.co
+dhālaṃ	v.perf.past
+.	punc
+
+khava	v.impst
+khye	v.n
+prabhū	n
+svāmī	n
+.	punc
+
+babunaṃ	adv.conj
+tyājalapaṃ	v.co
+tayā	v.perf.part
+mha	cs.anim
+ji	p.pers
+.	punc
+
+ji	p.pers
+vane	v.n
+ma	neg
+chālā	n
+khye	v.n
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thuthā	n
+jvagi	n
+puruṣanaṃ	v.co
+dhālaṃ	v.perf.past
+.	punc
+
+---	n
+puruṣa	n
+yā	case.gen
+bacana	n
+ma	neg
+nyene	v.n
+ma	neg
+chālāva	cv.ant
+.	punc
+
+babu	n
+yāke	case.loc.an
+vaṅāva	cv.ant
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+babuju	n
+.	punc
+
+ji	p.pers
+ta	case.dat
+śaḍa	n
+cha	num
+mha	cs.anim
+biva	v.ipv
+dhālaṃ	v.perf.past
+.	punc
+
+babujunaṃ	adv.conj
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+pāpa	n
+sta	n
+mhyāca	n
+.	punc
+
+sabhābhraṣṭa	n
+.	punc
+
+ji	p.pers
+ko	adv.dir
+henakumha	n
+.	punc
+
+pi	adv.dir
+tiṅāva	cv.ant
+chova	v.ipv
+dhakaṃ	v.dhak
+dhālaṃ	v.perf.past
+.	punc
+
+thana	adv.man
+maṃtrī	n
+cha	num
+mha	cs.anim
+sena	case.erg.h
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahārāja	n
+.	punc
+
+thva	d.dem
+thakuniyāta	n
+*chalapola	n
+yā	case.gen
+fn30	fol
+atina	n
+ajāka	n
+śaḍa	n
+cha	num
+mha	cs.anim
+biyāva	cv.ant
+choya	v.n
+ma	neg
+du	v.impst
+lā	cl.inter
+.	punc
+
+thana	adv.man
+thva	d.dem
+śaḍanaṃ	v.perf.past
+huyakaṃ	v.perf.past
+yanyāva	cv.ant
+syāyu	n
+.	punc
+
+thva	d.dem
+ma	neg
+datanā	n
+sa	case.loc.inan
+.	punc
+
+thva	d.dem
+rānīcā	n
+byene	v.n
+.	punc
+
+bisye	v.n
+chohune	v.n
+dhaka	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thana	n
+rājā	n
+naṃ	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+maṃtrī	n
+.	punc
+
+āsā	n
+biyāva	cv.ant
+chova	v.ipv
+dhālaṃ	v.perf.past
+.	punc
+
+thana	n
+atinaṃ	d.quant
+ajāka	adj
+śaḍa	n
+cha	num
+mha	cs.anim
+.	punc
+
+sunānaṃ	p.indef
+pāsa	n
+yaya	v.n
+ma	neg
+chāla	v.perf.past
+.	punc
+
+parakhānaṃ	adv.conj
+du	v.impst
+panakaṃ	v.perf.past
+tāya	v.n
+śaḍa	v.perf.past
+.	punc
+
+thvayāta	n
+ghāca	n
+biyata	n
+pi	adv.dir
+kāyu	n
+bela	n
+sa	case.loc.inan
+.	punc
+
+thva	d.dem
+śaḍa	n
+khaṅāva	cv.ant
+.	punc
+
+kataka	n
+bisye	v.n
+vaṇa	v.perf.past
+.	punc
+
+thathiṃṅa	p.correl
+ajāta	n
+śaḍa	n
+rānīcā	n
+na	case.abl
+rājā	n
+yā	case.gen
+ṅhavane	post.gen
+yaṇāva	cv.ant
+bilaṃ	v.perf.past
+.	punc
+
+cola	v.impst
+sa	case.loc.inan
+yaṅā	v.perf.part
+thyaṃ	post.abs
+yanagū	n
+babunaṃ	adv.man
+svayāva	cv.ant
+*kautuka	n
+(fn9a)	fol
+cāsyaṃ	v.co
+conaṃ	v.perf.past
+||	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+puruṣanaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+chī	n
+strī	n
+.	punc
+
+ji	p.pers
+na	case.erg
+thama	p.refl
+naṃ	case.erg
+śaḍa	n
+gaya	v.n
+ma	neg
+phu	v.impst
+.	punc
+
+chana	p.pers
+śaḍa	n
+gayakāva	cv.ant
+chova	v.ipv
+dhakaṃ	v.dhak
+dhālaṃ	v.perf.past
+.	punc
+
+thathye	adv.man
+nvāṅaṃ	adv.conj
+coṅa	v.impst
+bela	n
+sa	case.loc.inan
+babumha	n
+rājā	n
+.	punc
+
+anega	d.quant
+sakhāyanaṃ	n
+licakāva	cv.ant
+.	punc
+
+śaḍa	n
+gayāva	cv.ant
+.	punc
+
+dhanu	n
+.	punc
+
+balā	cv.cond
+.	punc
+
+taraka	n
+.	punc
+
+kamā	n
+na	case.erg
+.	punc
+
+taḍuvāra	n
+jvaṅāva	cv.ant
+ahala	n
+vanaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+ahara	n
+vava	v.impst
+khaṅāva	cv.ant
+dhālaṃ	v.perf.past
+.	punc
+
+huṃhuṃ	p.indef
+chana	p.pers
+babuju	n
+.	punc
+
+ahala	n
+vanīno	v.perf.past
+.	punc
+
+kāva	cv.ant
+tāla	n
+lācakīva	cv.ant
+dhāsyaṃ	v.perf.past
+.	punc
+
+śaḍa	n
+gayāva	cv.ant
+beganaṃ	adv.conj
+babu	n
+yā	case.gen
+sinaṃ	adv.man
+.	punc
+
+nhāpā	adv.temp
+rācakaṃ	v.perf.past
+banāntara	n
+vanaṃ	v.perf.past
+.	punc
+
+thana	n
+samasta	d.quant
+mahā	adj
+suṃdari	n
+juyāva	cv.ant
+li	cv.anter
+lāhāta	n
+curi	n
+vayāva	cv.ant
+.	punc
+
+anega	d.quant
+banacara	n
+rāta	v.perf.past
+.	punc
+
+lāṅāva	cv.ant
+rā	cl.inter
+pha	n
+.	punc
+
+hariṇi	n
+.	punc
+
+śatachi	num
+.	punc
+
+ni	num
+śala	n
+.	punc
+
+lāṅāva	cv.ant
+.	punc
+
+nhasapota	n
+juko	n
+dhyanāva	cv.ant
+tolatāva	cv.ant
+chotaṃ	v.perf.past
+||	punc
+
+thanaṃ	adv.conj
+li	cv.anter
+babumha	p.correl
+rājā	n
+naṃ	case.erg
+.	punc
+
+anega	d.quant
+carā	n
+lāṅāva	cv.ant
+.	punc
+
+śatachi	num
+.	punc
+
+ni	num
+śara	n
+syāṅāva	cv.ant
+.	punc
+
+sakhāya	n
+panisena	case.erg.h.pl
+jvanakāva	cv.ant
+lihā	adv.dir
+bijyāka	v.impst
+tvaṃ	v.co
+julo	v.perf.past
+||	punc
+
+thana	n
+rājācā	n
+lihā	adv.dir
+ma	neg
+vayāva	cv.ant
+rānīcā	n
+khosya	v.co
+khosya	n
+hālāva	cv.ant
+conaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+puruṣa	n
+lihā	adv.dir
+ma	neg
+valasā	cv.cond
+.	punc
+
+jiṃ	adv.freq
+siya	v.n
+dhakaṃ	v.dhak
+coṅa	v.impst
+||	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+puruṣa	n
+rājācā	v.perf.part
+.	punc
+
+śaḍa	n
+gayāva	cv.ant
+lihā	adv.dir
+vava	v.impst
+julo	v.perf.past
+.	punc
+
+thana	n
+rānīnaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+prabhū	n
+svāmī	n
+.	punc
+
+chāna	adv.inter
+nanānaṃ	adv.dur
+ma	neg
+bijyān	cv.ant
+yā	case.gen
+.	punc
+
+bijyāhuni	v.ipv
+huni	v.ipv
+dhakaṃ	v.dhak
+tuti	n
+cāyakāva	cv.ant
+.	punc
+
+bhoka	n
+puyāva	cv.ant
+duta	adv.dir
+bonyāva	cv.ant
+yanaṃ	v.perf.past
+.	punc
+
+thana	n
+calā	n
+yā	case.gen
+nhasapota	n
+.	punc
+
+ni	num
+śala	n
+jvanyāva	cv.ant
+vava	v.impst
+juro	v.perf.past
+||	punc
+
+thvayāṃ	n
+sati	n
+ṣunu	v.ipv
+.	punc
+
+kalātayāta	n
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+strī	n
+thva	d.dem
+śaḍa	n
+lita	adv.dir
+bihuni	v.ipv
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+śaḍa	n
+lita	adv.dir
+biyakala	n
+chotaṃ	v.perf.past
+.	punc
+
+fn31	fol
+thana	adv.man
+padmābati	n
+rānīcānaṃ	case.erg.h.pl
+śaḍa	n
+cola	v.impst
+sa	case.loc.inan
+jvaṅā	v.perf.part
+thyaṃ	post.abs
+jvanyāva	cv.ant
+babu	n
+yāke	case.loc.an
+vaṅāva	cv.ant
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+babuju	n
+thva	d.dem
+śaḍa	n
+gāto	v.perf.past
+.	punc
+
+lita	adv.dir
+kāhuni	v.ipv
+dhālam	v.perf.past
+.	punc
+
+thana	n
+rājābabunaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+sabhāloka	n
+thva	d.dem
+ajāta	n
+śaḍa	n
+colasaṃ	v.co
+ha	n
+yā	case.gen
+thyaṃ	post.abs
+haya	v.perf.past
+phava	v.impst
+.	punc
+
+dhaka	v.dhak
+dhāsyaṃ	v.perf.past
+.	punc
+
+sumuka	n
+conaṃ	v.perf.past
+.	punc
+
+thana	p.pers
+rānīcā	n
+lihā	adv.dir
+vanaṃ	v.perf.past
+||	punc
+
+thva	d.dem
+yā	case.gen
+sati	n
+ṣu	n
+nhu	cs.time
+.	punc
+
+thva	d.dem
+rājā	n
+naṃ	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+padmābati	n
+.	punc
+
+thva	d.dem
+ji	p.pers
+kuṣṭa	n
+śarīra	n
+lāyakyata	v.perf.past
+.	punc
+
+chana	p.pers
+babuju	n
+yāke	case.loc.an
+vaṅānyāva	cv.ant
+.	punc
+
+calā	n
+yā	case.gen
+nhasapota	n
+yā	case.gen
+cokā	v.perf.part
+juko	v.perf.past
+phoṅaṃ	v.co
+hiva	v.np
+dhakaṃ	v.dhak
+.	punc
+
+mhigo	interj
+ahala	n
+bijyāka	v.impst
+.	punc
+
+*anega	n
+(fn9b)	fol
+calā	n
+lāṅaṃ	v.co
+bijyāka	v.impst
+.	punc
+
+tha	adv.deg
+thya	post.abs
+dhaka	v.dhak
+rājā	n
+.	punc
+
+thuthā	n
+jvagibhe	n
+sana	n
+kalāta	n
+yā	case.gen
+ṅhavane	post.gen
+dhālaṃ	v.perf.past
+.	punc
+
+thana	n
+padmābatinaṃ	adv.conj
+puruṣa	n
+yā	case.gen
+bacana	n
+nyanyāva	cv.ant
+.	punc
+
+babu	n
+yāke	case.loc.an
+vaṅāva	cv.ant
+dhālam	v.perf.past
+.	punc
+
+bho	interj
+babuju	n
+.	punc
+
+ji	p.pers
+puruṣa	n
+yā	case.gen
+kuṣṭa	adj
+lāyaketa	n
+vāsala	n
+kāyata	v.perf.past
+.	punc
+
+calā	n
+yā	case.gen
+nhasapotacokā	n
+dolachi	num
+.	punc
+
+cikudhanya	adj
+dhanya	adj
+phonyāva	cv.ant
+hiva	v.np
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+ji	p.pers
+vayā	v.perf.part
+.	punc
+
+babuju	n
+prasanna	n
+juya	v.n
+māla	v.perf.past
+dhaka	v.dhak
+prārthanā	n
+yāka	v.impst
+.	punc
+
+thana	n
+babunaṃ	adv.conj
+maṃtrīyāta	n
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+maṃtrī	n
+soyāva	cv.ant
+biva	v.ipv
+dhakaṃ	v.dhak
+dhālaṃ	v.perf.past
+.	punc
+
+maṃtrīnaṃ	adv.conj
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahārājā	n
+.	punc
+
+ājñā	n
+dhāsyaṃ	v.co
+calā	n
+yā	case.gen
+mha	n
+patiṃ	d.quant
+solaṅāsyaṃ	v.co
+nhasapota	n
+dhyanā	n
+calā	n
+juyāva	cv.ant
+conaṃ	v.perf.past
+.	punc
+
+nhasapota	n
+ma	neg
+dayāva	cv.ant
+ma	neg
+bisyaṃ	v.co
+chotaṃ	v.perf.past
+||	punc
+
+thvanaṃ	adv.conj
+li	cv.anter
+.	punc
+
+thva	d.dem
+rānīcānaṃ	adv.conj
+bisyaṃ	v.co
+ma	neg
+hava	cv.ant
+dhālaṃ	v.perf.past
+.	punc
+
+puruṣanaṃ	adv.conj
+dhālaṃ	v.perf.past
+.	punc
+
+ma	neg
+du	v.impst
+dhā	n
+lā	cl.inter
+.	punc
+
+gathe	n
+.	punc
+
+āmo	d.dem
+calā	n
+ga	n
+na	case.erg
+lāṅaṃ	v.co
+hara	v.perf.past
+.	punc
+
+sakale	v.n
+calā	n
+jinaṃ	adv.man
+lāṅāva	cv.ant
+nhasapota	n
+yā	case.gen
+cokā	n
+juko	v.perf.past
+cī	n
+na	case.erg
+kāyāva	cv.ant
+.	punc
+
+tolatāva	cv.ant
+cho	n
+yā	case.gen
+.	punc
+
+ma	neg
+khu	v.impst
+lā	cl.inter
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thva	d.dem
+nhasapota	n
+babunaṃ	v.perf.past
+lāṅaṃ	v.perf.past
+ha	n
+yā	case.gen
+calā	n
+yāke	case.loc.an
+chuṅāva	cv.ant
+sola	n
+huni	v.ipv
+.	punc
+
+khava	v.impst
+lā	cl.inter
+ma	neg
+khu	v.impst
+lā	cl.inter
+dhaka	v.dhak
+dhāsyaṃ	v.perf.past
+.	punc
+
+calā	n
+yā	case.gen
+nhasapotacokā	n
+biyakala	n
+chutaṃ	v.perf.past
+||	punc
+
+rānīnaṃ	adv.conj
+carā	n
+yā	case.gen
+nhasapotacokā	n
+yanyāva	cv.ant
+.	punc
+
+babuju	n
+yā	case.gen
+sabhā	n
+sa	case.loc.inan
+yan	v.co
+yā	case.gen
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+babuju	n
+.	punc
+
+chalapola	p.pers
+na	case.erg
+lāṅaṃ	v.perf.past
+ha	n
+yā	case.gen
+calā	n
+yā	case.gen
+nhasapota	n
+thva	d.dem
+ma	neg
+khu	v.impst
+lā	cl.inter
+.	punc
+
+kāhune	v.n
+dhakaṃ	v.dhak
+biyāva	cv.ant
+rājāsabhā	n
+sa	case.loc.inan
+.	punc
+
+sakaleṃ	d.quant
+ati	adv.deg
+adbhūta	n
+cālaṃ	v.perf.past
+.	punc
+
+hanaṃ	adv.conj
+rājā	n
+naṃ	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+sabhāloka	n
+.	punc
+
+thva	d.dem
+lā	cl.inter
+julasā	cv.cond
+.	punc
+
+manuṣya	n
+ma	neg
+khu	v.impst
+.	punc
+
+deba	n
+yā	case.gen
+svabhāba	n
+.	punc
+
+chiji	n
+sakale	v.n
+vanyāva	cv.ant
+soya	v.n
+nuyo	v.perf.past
+dhakaṃ	v.dhak
+fn32	fol
+dhāyāva	cv.ant
+vanaṃ	v.perf.past
+.	punc
+
+thana	n
+rājā	n
+naṃ	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahāpuruṣa	n
+.	punc
+
+cha	num
+su	p.interrog
+khava	v.impst
+.	punc
+
+manuṣya	n
+lā	cl.inter
+.	punc
+
+deba	n
+lā	cl.inter
+.	punc
+
+asura	n
+lā	cl.inter
+dhakaṃ	v.dhak
+nyaṅāva	cv.ant
+.	punc
+
+khachi	adv.dur
+cha	num
+tā	cs.abs
+ma	neg
+dhāva	v.impst
+.	punc
+
+lipatasa	adv.temp
+dhālaṃ	v.perf.past
+.	punc
+
+ji	p.pers
+lā	cl.inter
+julasā	cv.cond
+.	punc
+
+bikramāditya	n
+rājā	n
+thukā	evid
+dhakaṃ	v.dhak
+kanyāva	cv.ant
+.	punc
+
+tuti	n
+lāhāti	n
+sarbāṃga	adj
+culi	n
+vayakāva	cv.ant
+.	punc
+
+mahā	adj
+suṃdara	adj
+rūpa	n
+yānyāva	cv.ant
+kenaṃ	v.perf.past
+||	punc
+
+thva	d.dem
+rājā	n
+prabhīti	n
+sakala	d.quant
+maṃtrī	n
+harṣamāna	adj
+juyāva	cv.ant
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+bikramāditya	n
+.	punc
+
+nhāpā	adv.temp
+aparādha	n
+khyamā	n
+yāya	v.n
+māla	v.perf.past
+.	punc
+
+jimisye	n
+na	case.erg
+ma	neg
+siyā	v.perf.part
+.	punc
+
+āva	adv.temp
+ji	p.pers
+misa	n
+bhāgyana	n
+chalapola	p.pers
+jilāja	n
+na	case.erg
+(fn10a)	fol
+lāto	v.perf.past
+dhaka	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+bhiṃmha	n
+.	punc
+
+surakṣaṇamha	p.correl
+śaḍa	n
+kāyakala	n
+choyāva	cv.ant
+nānā	d.quant
+prakāra	n
+pāta	n
+pītāṃbara	n
+yā	case.gen
+ba	n
+sta	n
+hayāva	cv.ant
+.	punc
+
+basta	n
+na	case.erg
+tiyakā	v.perf.part
+.	punc
+
+śaḍa	n
+gayakāva	cv.ant
+.	punc
+
+anega	d.quant
+jātrā	n
+yānyāva	cv.ant
+.	punc
+
+bādya	n
+thācakāva	cv.ant
+.	punc
+
+ghari	adv.temp
+byelā	n
+svayāva	cv.ant
+.	punc
+
+rājā	n
+rāni	n
+ni	num
+mhaṃ	cs.anim
+duta	adv.dir
+boṅaṃ	v.co
+yanyāva	cv.ant
+.	punc
+
+rājaghala	n
+sa	case.loc.inan
+yanyāva	cv.ant
+.	punc
+
+sukha	n
+bhoga	n
+yākāva	cv.ant
+talaṃ	v.perf.past
+.	punc
+
+thana	adv.conj
+babu	n
+rājā	n
+naṃ	case.erg
+mhyācayāta	v.perf.past
+hātaṃ	v.perf.past
+.	punc
+
+aye	v.n
+putrī	n
+mhyāca	n
+.	punc
+
+chana	p.pers
+bhāgyanaṃ	adv.conj
+thathiṃmha	p.correl
+bikramāditya	n
+rājā	n
+thiṃṅa	adv.deg
+puruṣa	n
+lāto	v.perf.past
+.	punc
+
+ji	p.pers
+na	case.erg
+ma	neg
+siyā	v.perf.part
+dhāsyaṃ	v.perf.past
+.	punc
+
+nānā	d.quant
+bhogya	n
+yācakāva	cv.ant
+.	punc
+
+sukhanaṃ	adv.conj
+talaṃ	v.perf.past
+||	punc
+
+thanaṃ	adv.conj
+li	cv.anter
+anega	d.quant
+drabya	n
+sahita	post.abs
+.	punc
+
+tisā	cv.cond
+.	punc
+
+nānā	d.quant
+ba	n
+sta	n
+sahita	post.abs
+yānyāva	cv.ant
+.	punc
+
+thava	p.refl
+mhyācayāta	n
+biyāva	cv.ant
+.	punc
+
+jilāja	n
+na	case.erg
+sahita	post.abs
+thava	p.refl
+rājye	n
+sa	case.loc.inan
+chotaṃ	v.perf.past
+||	punc
+
+thana	adv.man
+thava	p.refl
+rājya	n
+thyanakāva	cv.ant
+.	punc
+
+rājagṛha	n
+sa	case.loc.inan
+du	v.impst
+hāyāva	cv.ant
+.	punc
+
+maṃtrī	n
+pani	case.abs.h.pl
+nāpa	post.abs
+lānyāva	cv.ant
+.	punc
+
+maṃtrīnaṃ	adv.conj
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahārājā	n
+.	punc
+
+bijyāya	v.n
+dhuna	v.impst
+lā	cl.inter
+dhakaṃ	v.dhak
+rājā	n
+yāta	case.dat
+śivā	n
+yānyāva	cv.ant
+conaṃ	v.perf.past
+||	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+rājā	n
+naṃ	case.erg
+samasta	d.quant
+bicāra	n
+yātaṃ	v.perf.past
+.	punc
+
+thana	n
+brāhmaṇa	n
+yāta	case.dat
+hātam	v.perf.past
+.	punc
+
+bho	interj
+brāhmaṇa	n
+cha	p.pers
+phu	v.impst
+makhā	adv.man
+dhakaṃ	v.dhak
+bicāra	n
+yātaṃ	v.perf.past
+.	punc
+
+brāhmaṇa	n
+naṃ	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahārājā	n
+.	punc
+
+gu	cs.inan
+khunu	adv.conj
+ji	p.pers
+ta	case.dat
+rājya	n
+lava	cv.ant
+lhāsyaṃ	v.co
+chalapola	p.pers
+pihā	n
+bijyāta	v.perf.past
+ukhunuṃ	p.indef
+nisyaṃ	post.abs
+.	punc
+
+ji	p.pers
+ma	neg
+chiṅa	v.impst
+.	punc
+
+ji	p.pers
+abhāgi	adj
+yāṅaṃ	v.co
+bijyāta	v.perf.past
+khava	v.impst
+.	punc
+
+ji	p.pers
+śarīla	n
+yā	case.gen
+śobhā	n
+nāpaṃ	post.ass
+ma	neg
+data	v.perf.past
+.	punc
+
+chalapola	p.pers
+yā	case.gen
+rājya	n
+ma	neg
+yala	v.perf.past
+.	punc
+
+kāsya	adv.dir
+bijyāhuni	v.ipv
+.	punc
+
+ji	p.pers
+ta	case.dat
+belā	n
+biva	v.ipv
+dhakaṃ	v.dhak
+brāhmaṇa	n
+naṃ	case.erg
+rājā	n
+hātaṃ	v.perf.past
+||	punc
+
+thvate	p.anaphor
+kha	n
+ṅaṅāva	cv.ant
+rājā	n
+naṃ	case.abl
+brāhmaṇa	n
+yāta	case.dat
+bedā	n
+bisyaṃ	v.co
+chotaṃ	v.perf.past
+||	punc
+
+fn33	fol
+bho	interj
+rājā	n
+ṅahune	v.n
+dhakaṃ	v.dhak
+.	punc
+
+thathiṃmha	p.correl
+rājā	n
+yā	case.gen
+siṃhāsāna	n
+sa	case.loc.inan
+cha	num
+dane	v.n
+ma	neg
+te	v.ipv
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+putrikā	n
+cha	num
+mha	cs.anim
+bosyaṃ	v.co
+vanaṃ	v.perf.past
+||	punc
+
+3	num.ar
+||	punc
+
+III	n.prop
+thvanaṃ	adv.conj
+li	cv.anter
+hanaṃ	adv.conj
+putrikā	n
+chamhasenaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahārājā	n
+.	punc
+
+bhojadeba	n
+.	punc
+
+ji	p.pers
+kha	n
+ma	neg
+ṅaṃsyaṃ	v.co
+āmo	d.dem
+siṃhāsana	n
+sa	case.loc.inan
+bijyāya	v.n
+ma	neg
+teva	v.impst
+dhakaṃ	v.dhak
+dhālaṃ	v.perf.past
+.	punc
+
+pūrba	n
+kathā	n
+ṅaṅā	v.perf.part
+tayā	v.perf.part
+kha	evid
+kanaṃ	v.perf.past
+||	punc
+
+bikramāditya	n
+rājā	n
+naṃ	case.abl
+paṃchibhā	n
+sa	case.loc.inan
+siva	cv.ant
+.	punc
+
+cha	num
+nhu	num.time
+yā	case.gen
+dīna	n
+sa	case.loc.inan
+rājā	n
+va	case.ass
+.	punc
+
+rānīva	cv.ant
+.	punc
+
+sabhā	n
+dayakaṃ	v.perf.past
+coṅā	v.perf.part
+bela	n
+sa	case.loc.inan
+mācalakhuni	v.ipv
+.	punc
+
+bācalakhuni	n
+ni	num
+mha	cs.anim
+juta	v.perf.past
+vava	v.impst
+.	punc
+
+mācalakhuninaṃ	adv.conj
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+prabhu	n
+nyahune	v.n
+.	punc
+
+chiji	n
+bṛddhābaiśa	n
+julo	v.perf.past
+.	punc
+
+jinaṃ	adv.conj
+ṅaṅaṃ	adv.conj
+tayā	v.perf.part
+dava	v.impst
+.	punc
+
+*bahukusumāvati	n
+(fn10b)	fol
+svānanaṃ	v.perf.past
+.	punc
+
+chutasā	cv.cond
+.	punc
+
+li	cv.anter
+lāhā	n
+bu	n
+hoīva	cv.ant
+.	punc
+
+thathiṃṅa	p.correl
+bela	n
+sa	case.loc.inan
+.	punc
+
+jimni	n
+dayā	n
+taruṇi	adj
+juya	v.n
+ma	neg
+du	v.impst
+lā	cl.inter
+dhaka	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thva	d.dem
+bikramāditya	n
+rājā	n
+.	punc
+
+musuhuna	n
+nhilaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+rājā	n
+nhilāva	cv.ant
+.	punc
+
+rāni	n
+naṃ	case.erg
+rājā	n
+yāke	case.loc.an
+ṅanaṃ	v.perf.past
+||	punc
+
+bho	interj
+prabhu	n
+svāmi	n
+.	punc
+
+ji	p.pers
+ati	adv.deg
+kautuka	adj
+julaṃ	v.perf.past
+.	punc
+
+āmo	d.dem
+hetukha	n
+niścayanaṃ	adv.man
+phasakha	n
+ma	neg
+lhāsyaṃ	v.perf.past
+.	punc
+
+ji	p.pers
+ta	case.dat
+kane	v.n
+māla	v.perf.past
+dhakaṃ	v.dhak
+ṅanaṃ	v.perf.past
+.	punc
+
+thana	adv.conj
+rājā	n
+na	case.erg
+ma	neg
+kaṅa	v.impst
+.	punc
+
+hanakaṃ	v.perf.past
+rānīnaṃ	adv.conj
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahārājā	n
+.	punc
+
+chalapolanaṃ	adv.conj
+ji	p.pers
+matyenā	adv.inter
+julasā	cv.cond
+.	punc
+
+āmo	d.dem
+hetukha	n
+ji	p.pers
+kanīva	cv.ant
+.	punc
+
+ji	p.pers
+matenā	adj
+ma	neg
+khatasā	cv.cond
+ji	p.pers
+na	case.erg
+chu	p.indef
+dhāya	v.n
+dhakaṃ	v.dhak
+.	punc
+
+rānīnaṃ	adv.conj
+rājā	n
+sake	case.loc.an
+bimati	n
+yāka	v.impst
+||	punc
+
+thana	adv.conj
+rājā	n
+naṃ	case.erg
+va	case.ass
+yāya	v.n
+he	interj
+ma	neg
+siyāva	cv.ant
+.	punc
+
+khachi	num
+sumukaṃ	adv.man
+coṅāva	cv.ant
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+maten	n
+yā	case.gen
+strī	n
+ṅava	cv.ant
+.	punc
+
+thugulī	n
+kha	n
+thva	d.dem
+mācalakhuninaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+puruṣa	n
+.	punc
+
+chiji	n
+jyātha	adj
+juya	v.n
+dhuno	v.perf.past
+.	punc
+
+āva	adv.temp
+jyātha	adj
+jithi	adj
+juya	v.n
+gāto	v.perf.past
+.	punc
+
+samudra	n
+sa	case.loc.inan
+vaṅāva	cv.ant
+.	punc
+
+bahukusumāvati	n
+svānanaṃ	adv.conj
+chuṅāva	cv.ant
+.	punc
+
+jimakhu	n
+dayā	n
+taruṇi	adj
+juyāva	cv.ant
+.	punc
+
+sukhanaṃ	adv.conj
+conya	adj
+nuyo	v.perf.past
+dhakaṃ	v.dhak
+.	punc
+
+nvākagu	n
+kha	n
+ṅaṅāva	cv.ant
+thukā	evid
+.	punc
+
+ji	p.pers
+nhilā	n
+.	punc
+
+dhakaṃ	v.dhak
+dhālaṃ	v.perf.past
+||	punc
+
+thvate	p.anaphor
+rājā	n
+puruṣa	n
+yā	case.gen
+kha	n
+ṅaṅāva	cv.ant
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahārājā	n
+āma	d.dem
+thya	post.abs
+julasā	cv.cond
+.	punc
+
+āmathiṃgu	adv.conj
+svāna	n
+ji	p.pers
+ta	case.dat
+chuca	n
+ke	case.loc.an
+māla	v.perf.past
+dhakaṃ	v.dhak
+fn34	fol
+dhālaṃ	v.perf.past
+.	punc
+
+thana	n
+rājā	n
+naṃ	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+chī	adv.dur
+strī	n
+dhāyā	v.perf.part
+kha	n
+thukā	evid
+cha	p.pers
+kaṅā	v.perf.part
+.	punc
+
+ga	n
+na	case.erg
+kāya	v.n
+.	punc
+
+ga	n
+na	case.erg
+khanya	adj
+.	punc
+
+sunānaṃ	p.indef
+siva	cv.ant
+.	punc
+
+suyāṃ	n
+parākrama	n
+ma	neg
+dava	v.impst
+.	punc
+
+gvamha	p.correl
+yā	case.gen
+gamya	v.co
+dava	v.impst
+.	punc
+
+pṛthibī	n
+yā	case.gen
+antara	n
+sa	case.loc.inan
+phule	v.n
+.	punc
+
+rākṣasa	n
+yā	case.gen
+thāya	n
+sa	case.loc.inan
+dhakaṃ	v.dhak
+rājā	n
+naṃ	case.erg
+kanaṃ	v.perf.past
+.	punc
+
+punarbara	n
+rānīnaṃ	v.perf.past
+dhālam	v.perf.past
+.	punc
+
+bho	interj
+mahārājā	n
+.	punc
+
+paṃchi	adv.dur
+calakhuni	n
+yā	case.gen
+thiṃ	adv.dir
+mati	n
+.	punc
+
+parākrama	n
+dava	v.impst
+.	punc
+
+chalapola	p.pers
+sa	case.loc.inan
+nāma	n
+bikramāditya	n
+juyāva	cv.ant
+.	punc
+
+chu	p.interrog
+parākrama	n
+.	punc
+
+paṃchi	num
+calakhuni	n
+yā	case.gen
+ti	v.ipv
+nāpaṃ	post.ass
+parākrama	n
+ma	neg
+du	v.impst
+dhāsyaṃ	v.co
+nvāka	v.perf.past
+.	punc
+
+āmo	d.dem
+svāna	n
+chu	p.interrog
+jat	n
+na	case.erg
+yāṅānaṃ	v.perf.past
+.	punc
+
+ji	p.pers
+ta	case.dat
+chuca	n
+ke	case.loc.an
+māla	v.perf.past
+dhakaṃ	v.dhak
+dhāsyaṃ	v.perf.past
+.	punc
+
+siya	n
+tvaṃ	v.co
+tyalo	v.perf.past
+dhaka	v.dhak
+haṭha	n
+yāṅānyāva	cv.ant
+.	punc
+
+rājā	n
+syaṃ	case.erg.h
+va	case.ass
+yāya	v.n
+he	interj
+ma	neg
+siyāva	cv.ant
+.	punc
+
+mahāduḥkha	n
+juyāva	cv.ant
+.	punc
+
+sva	num
+cā	n
+pya	num
+nhu	cs.time
+to	v.impst
+pasthā	n
+na	case.erg
+ma	neg
+du	v.impst
+.	punc
+
+pasthā	n
+na	case.erg
+ma	neg
+dayāva	cv.ant
+samasta	d.quant
+rājāsebaka	n
+jukva	v.rel.part
+saṃdeha	n
+cāyāva	cv.ant
+.	punc
+
+duhkhanaṃ	adv.conj
+va	case.ass
+yāya	v.n
+he	interj
+ma	neg
+siva	v.np
+||	punc
+
+thana	n
+tha	adv.deg
+thya	post.abs
+ma	neg
+khuto	v.perf.past
+dhakāva	cv.ant
+.	punc
+
+mahājñānī	n
+bicakṣaṇī	n
+.	punc
+
+bikramakeśaranaṃ	adv.conj
+maṃtrī	n
+yāke	case.loc.an
+nyanaṃ	v.perf.past
+.	punc
+
+bho	interj
+chī	n
+maṃtrī	n
+.	punc
+
+ji	p.pers
+bāju	n
+yā	case.gen
+chu	p.interrog
+duḥkha	n
+jula	v.perf.past
+.	punc
+
+ṅao	v.ipv
+dhakaṃ	v.dhak
+dhāraṃ	v.perf.past
+.	punc
+
+thana	n
+maṃtrīnaṃ	adv.conj
+rājā	n
+bodhalapāva	cv.ant
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahārājā	n
+.	punc
+
+gathiṃgū	adv.inter
+khyāla	n
+chalapolathiṃ	adj
+ugra	n
+mahārājā	n
+juyāva	cv.ant
+.	punc
+
+āma	d.dem
+thya	post.abs
+mūḍha	n
+jusyaṃ	v.co
+bijyāya	v.n
+lā	cl.inter
+.	punc
+
+(fn11a)	fol
+parākrama	n
+bhālapā	v.perf.part
+rā	cl.inter
+gathye	adv.inter
+khava	v.impst
+.	punc
+
+chu	p.interrog
+jula	v.perf.past
+.	punc
+
+ji	p.pers
+kane	v.n
+māla	v.perf.past
+dhaka	v.dhak
+dhāsyaṃ	v.perf.past
+.	punc
+
+nānā	d.quant
+prakāraṇam	v.perf.past
+bodha	n
+yāṅāo	cv.ant
+ṅanaṃ	v.perf.past
+.	punc
+
+thana	n
+rājā	n
+naṃ	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+maṃtrī	n
+ji	p.pers
+duḥkha	n
+chana	p.pers
+ma	neg
+siva	v.np
+.	punc
+
+ji	p.pers
+na	case.erg
+chu	p.indef
+dhāya	v.n
+.	punc
+
+ji	p.pers
+kalātanaṃ	adv.conj
+dhālaṃ	v.perf.past
+.	punc
+
+bahukusumāvati	n
+svānanaṃ	adv.conj
+chuca	n
+ke	case.loc.an
+māla	v.perf.past
+dhaka	v.dhak
+haṭha	n
+yāṅāva	cv.ant
+cona	v.impst
+.	punc
+
+thvate	p.anaphor
+yā	case.gen
+kāraṇa	n
+sa	case.loc.inan
+.	punc
+
+o	p.correl
+yāya	v.n
+he	interj
+ma	neg
+siyā	v.perf.part
+dhāsyaṃ	v.co
+duḥkhanaṃ	adv.place
+coṅā	v.impst
+dhālaṃ	v.perf.past
+.	punc
+
+thvate	p.anaphor
+bṛttānta	adj
+nyaṅāva	cv.ant
+.	punc
+
+maṃtrī	n
+na	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+bikramakeśara	n
+.	punc
+
+ati	adv.deg
+ajogya	n
+kha	n
+cha	num
+tā	cs.abs
+dayāva	cv.ant
+khaṃ	n
+cona	v.impst
+.	punc
+
+chalapola	p.pers
+sa	case.loc.inan
+camāju	n
+na	case.erg
+bahukusumāvati	n
+svānanaṃ	v.perf.past
+chuca	n
+ke	case.loc.an
+māra	v.impst
+dhakaṃ	v.dhak
+hatha	n
+yāṅāva	cv.ant
+coṅa	v.impst
+.	punc
+
+thuli	n
+yā	case.gen
+nimittī	n
+na	case.erg
+duḥkhanaṃ	v.perf.past
+cona	v.impst
+dhakaṃ	v.dhak
+kaṅāva	cv.ant
+.	punc
+
+thana	n
+bikramakeśaranaṃ	v.perf.past
+dhāram	v.perf.past
+.	punc
+
+bho	interj
+maṃtrī	n
+thva	d.dem
+svāna	n
+ga	n
+na	case.erg
+dayīva	cv.ant
+.	punc
+
+jinaṃ	adv.conj
+kāla	n
+vane	v.n
+.	punc
+
+babuju	n
+nāpa	post.abs
+rācakīva	v.np
+dhakaṃ	v.dhak
+dhālaṃ	v.perf.past
+||	punc
+
+fn35	fol
+thana	adv.man
+bikramakeśaranaṃ	adv.conj
+bāju	n
+yāke	case.loc.an
+vaṅāva	cv.ant
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+bāju	n
+jinaṃ	adv.conj
+kāla	n
+vane	v.n
+.	punc
+
+byedā	n
+bihuni	v.ipv
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+babunaṃ	adv.conj
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+bikramakeśara	n
+.	punc
+
+cha	p.pers
+bālaka	n
+.	punc
+
+chana	p.pers
+ga	n
+na	case.erg
+kāsya	adv.dir
+haya	v.perf.past
+phayīva	cv.ant
+.	punc
+
+thva	d.dem
+pṛthibī	n
+sa	case.loc.inan
+ma	neg
+du	v.impst
+.	punc
+
+samudra	n
+yā	case.gen
+khāla	n
+sa	case.loc.inan
+coṅa	v.impst
+gathya	adv.inter
+haya	v.perf.past
+dhaka	v.dhak
+dhāyāva	cv.ant
+conaṃ	v.perf.past
+.	punc
+
+thana	n
+bikramakeśaranaṃ	adv.conj
+yathyanaṃ	adv.man
+vane	v.n
+juro	v.perf.past
+.	punc
+
+bāju	n
+byedā	n
+bihuni	v.ipv
+dhakaṃ	v.dhak
+dhālaṃ	v.perf.past
+.	punc
+
+thana	n
+rājā	n
+naṃ	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+putra	n
+bikramakeśara	n
+.	punc
+
+chana	p.pers
+dāju	n
+camā	n
+yā	case.gen
+kāya	v.n
+.	punc
+
+boṅaṃ	adv.conj
+yava	v.impst
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+rājā	n
+naṃ	case.erg
+bedā	n
+bilaṃ	v.perf.past
+.	punc
+
+bho	interj
+putra	n
+.	punc
+
+lasa	n
+svayāva	cv.ant
+huni	v.ipv
+dhaka	v.dhak
+chutaṃ	v.perf.past
+.	punc
+
+ni	num
+mha	cs.anim
+vanaṃ	v.perf.past
+|	punc
+thanaṃ	adv.conj
+li	cv.anter
+balā	cv.cond
+.	punc
+
+taṃka	n
+.	punc
+
+kamā	n
+na	case.erg
+.	punc
+
+tadabāra	n
+.	punc
+
+tālapatra	n
+khaṅga	n
+.	punc
+
+an	adv.conj
+na	case.erg
+jvanyāva	cv.ant
+.	punc
+
+nemha	p.correl
+phukīja	n
+bahukusumāvati	n
+svāna	n
+yā	case.gen
+kārya	n
+vaṅa	v.impst
+||	punc
+
+thana	n
+gvachinaṃ	adv.conj
+mahādurga	n
+banāntara	n
+sa	case.loc.inan
+thyaṅāva	cv.ant
+.	punc
+
+laḍvakā	n
+sa	case.loc.inan
+thyanakāva	cv.ant
+.	punc
+
+bikrama	n
+ke	case.loc.an
+aranaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+chi	num
+dāju	n
+.	punc
+
+chiji	n
+ni	num
+mha	cs.anim
+nāpa	post.abs
+vane	v.n
+ma	neg
+khu	v.impst
+.	punc
+
+ni	num
+mha	cs.anim
+nikhe	n
+vane	v.n
+dhāsyaṃ	v.perf.past
+.	punc
+
+bahukusumāvati	adj
+svāna	n
+jvanyāva	cv.ant
+.	punc
+
+su	p.interrog
+nhāpā	adv.temp
+lāto	v.perf.past
+.	punc
+
+vamhanaṃ	adv.conj
+ladvakā	n
+sa	case.loc.inan
+laṅaṃ	v.co
+conya	v.n
+māla	v.perf.past
+dhakaṃ	v.dhak
+.	punc
+
+thithiṃ	adv.man
+bhākhā	n
+yānyāva	cv.ant
+vaṅa	v.impst
+julo	v.perf.past
+.	punc
+
+thana	n
+mahādurga	n
+bana	n
+sa	case.loc.inan
+mahābhayaṃkara	n
+.	punc
+
+thāya	n
+sa	case.loc.inan
+.	punc
+
+sunaṃ	adv.conj
+nāpa	post.abs
+ma	neg
+lāka	n
+.	punc
+
+jhaṃgara	n
+.	punc
+
+pachi	n
+yā	case.gen
+.	punc
+
+śabda	n
+suddhāṃta	adv.deg
+nāpaṃ	post.ass
+ma	neg
+du	v.impst
+.	punc
+
+thathiṃṅa	p.correl
+bana	n
+sa	case.loc.inan
+thyaṅāva	cv.ant
+.	punc
+
+mahātrā	n
+sa	case.loc.inan
+yāṅāva	cv.ant
+coṅa	v.impst
+(fn11b)	fol
+bela	n
+sa	case.loc.inan
+.	punc
+
+thva	d.dem
+bikramakeśaranaṃ	adv.conj
+ciṃtalapalaṃ	v.perf.past
+.	punc
+
+āva	adv.temp
+ji	p.pers
+na	case.erg
+chu	p.indef
+yāya	v.n
+dhaka	v.dhak
+.	punc
+
+svāna	n
+yā	case.gen
+jāta	n
+ma	neg
+siva	v.np
+dhakaṃ	v.dhak
+.	punc
+
+anega	d.quant
+parbata	n
+vaṅāva	cv.ant
+.	punc
+
+nānā	d.quant
+prakāra	n
+yā	case.gen
+jāti	n
+jāti	n
+svāna	n
+thvayāva	cv.ant
+.	punc
+
+dva	n
+ciṅāva	cv.ant
+.	punc
+
+thva	d.dem
+dvakā	n
+sa	case.loc.inan
+conyāva	cv.ant
+conaṃ	v.perf.past
+||	punc
+
+thana	n
+dāju	n
+durgabana	n
+sa	case.loc.inan
+du	v.impst
+hāyāva	cv.ant
+.	punc
+
+bhayaṃkara	adj
+thāya	n
+sa	case.loc.inan
+thyanāva	cv.ant
+.	punc
+
+trāsa	n
+cāsyaṃ	v.co
+coṅa	v.impst
+bela	n
+sa	case.loc.inan
+.	punc
+
+rākṣasinī	n
+cha	num
+mha	cs.anim
+vayāva	cv.ant
+.	punc
+
+rākṣasinīnaṃ	adv.conj
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahāpuruṣa	n
+.	punc
+
+ji	p.pers
+matyanā	n
+putra	n
+cha	p.pers
+.	punc
+
+ji	p.pers
+kha	n
+bhati	adj
+ṅahune	v.n
+.	punc
+
+huṃhuṃ	p.indef
+simā	n
+sa	case.loc.inan
+khāsyaṃ	v.co
+tayā	v.perf.part
+mha	cs.anim
+.	punc
+
+mṛtaka	n
+cha	num
+mha	cs.anim
+chīnaṃ	adv.man
+ko	adv.dir
+kāyāva	cv.ant
+bihune	v.n
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+rājaputracānaṃ	adv.conj
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+strīja	n
+na	case.erg
+.	punc
+
+chī	n
+su	p.interrog
+juyīva	cv.ant
+.	punc
+
+deba	n
+lā	cl.inter
+.	punc
+
+manuṣya	n
+lā	cl.inter
+.	punc
+
+rākṣasanī	n
+lā	cl.inter
+.	punc
+
+su	p.interrog
+khava	v.impst
+ji	p.pers
+na	case.erg
+ma	neg
+fn36	fol
+siyā	v.perf.part
+dhaka	v.dhak
+rājā	n
+naṃ	case.erg
+ṅanaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+strījananaṃ	adv.conj
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+puruṣa	n
+ji	p.pers
+lā	cl.inter
+julasā	cv.cond
+bhīṣaṇa	n
+dhāyā	v.perf.part
+rākṣasinī	n
+thukā	evid
+dhālaṃ	v.perf.past
+.	punc
+
+thana	n
+rājā	n
+naṃ	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+chī	n
+strī	n
+.	punc
+
+chu	p.indef
+nimittī	n
+na	case.erg
+.	punc
+
+thana	n
+coṅā	v.perf.part
+dhaka	v.dhak
+chī	num
+bosyaṃ	v.co
+juyaṃ	v.co
+phava	v.impst
+.	punc
+
+chī	adv.dur
+huni	v.ipv
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+bhayanaṃ	adv.conj
+jñānyāva	cv.ant
+.	punc
+
+rākṣasanī	n
+bosya	v.co
+vane	v.n
+tene	v.n
+bela	n
+sa	case.loc.inan
+.	punc
+
+tālapatra	n
+khaṅga	n
+kāyāva	cv.ant
+.	punc
+
+tuti	n
+sa	case.loc.inan
+pālāva	cv.ant
+.	punc
+
+kātapālalakāma	n
+tola	n
+phesyaṃ	v.co
+vanaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+rājā	n
+na	case.erg
+thva	d.dem
+kātapālalakāma	n
+kāyāva	cv.ant
+.	punc
+
+jvanyāva	cv.ant
+vanaṃ	v.perf.past
+.	punc
+
+thanaṃ	adv.conj
+li	cv.anter
+thva	d.dem
+rājā	n
+naṃ	case.erg
+cintalapalaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+kātapālalakāma	n
+yā	case.gen
+balanaṃ	prep
+thukā	evid
+.	punc
+
+thva	d.dem
+bosyaṃ	v.co
+vane	v.n
+phata	v.perf.past
+.	punc
+
+āva	adv.temp
+thva	d.dem
+kātapālalakāmanaṃ	v.perf.past
+ṅhānāva	cv.ant
+.	punc
+
+boyāva	cv.ant
+.	punc
+
+samudra	n
+pāla	n
+yāya	v.n
+dhaka	v.dhak
+dhāsyaṃ	v.perf.past
+.	punc
+
+rasa	n
+tāsyaṃ	v.co
+thvayānaṃ	v.perf.past
+durgābananaṃ	v.perf.past
+durgābana	n
+sa	case.loc.inan
+du	v.impst
+hāyāva	cv.ant
+vanaṃ	v.perf.past
+||	punc
+
+thana	adv.man
+bhojapuri	n
+dhāyā	v.perf.part
+deśa	n
+samīpa	n
+sa	case.loc.inan
+thyanyāva	cv.ant
+.	punc
+
+deśa	n
+sa	case.loc.inan
+du	v.impst
+hāyāva	cv.ant
+solaṅāsyaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+deśa	n
+sa	case.loc.inan
+utpātanaṃ	adv.man
+khvayāva	cv.ant
+conaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+rājā	n
+naṃ	case.erg
+ṅanaṃ	v.perf.past
+.	punc
+
+chāna	adv.inter
+khva	n
+yā	case.gen
+chu	p.interrog
+jura	v.perf.past
+dhakaṃ	v.dhak
+nyanaṃ	v.perf.past
+.	punc
+
+thana	n
+misānaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+chī	n
+chu	p.interrog
+juīva	v.np
+dhakaṃ	v.dhak
+ṅanaṃ	v.perf.past
+.	punc
+
+rājā	n
+naṃ	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+ji	p.pers
+lā	cl.inter
+julasā	cv.cond
+pāhāna	n
+thukā	evid
+dhakaṃ	v.dhak
+kanaṃ	v.perf.past
+.	punc
+
+thana	n
+misānaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+pāhāna	n
+.	punc
+
+ṅahune	v.n
+.	punc
+
+ji	p.pers
+panisa	case.gen.h.pl
+duḥkha	n
+yā	case.gen
+kha	n
+kane	v.n
+.	punc
+
+thva	d.dem
+bana	n
+sa	case.loc.inan
+coṅa	v.impst
+mha	cs.anim
+rākṣasa	n
+cha	num
+mha	cs.anim
+du	v.impst
+.	punc
+
+thva	d.dem
+rākṣasa	n
+yāta	case.dat
+thva	d.dem
+deśanaṃ	adv.man
+pāla	n
+bisyaṃ	v.co
+tayā	v.perf.part
+.	punc
+
+nhi	n
+nhi	n
+chiyā	n
+jāki	n
+cha	num
+dāra	n
+yā	case.gen
+jā	n
+thusyaṃ	v.co
+yane	v.n
+.	punc
+
+mesa	n
+ṅāpā	v.perf.part
+yane	v.n
+.	punc
+
+manuṣya	n
+cha	num
+mha	cs.anim
+yane	v.n
+māla	v.perf.past
+.	punc
+
+thva	d.dem
+byūla	n
+vanyamha	p.correl
+lihāṃ	v.co
+vaya	v.n
+ma	neg
+du	v.impst
+.	punc
+
+(fn12a)	fol
+thva	d.dem
+rākṣasa	n
+na	case.erg
+nayīva	cv.ant
+.	punc
+
+nhi	n
+nhi	n
+chiya	n
+thugu	n
+kathaṃ	adv.man
+pāra	n
+biya	v.n
+māra	v.impst
+.	punc
+
+thani	adv.temp
+ji	p.pers
+panisa	case.gen.h.pl
+pāra	n
+vane	v.n
+telo	v.perf.past
+.	punc
+
+thuli	n
+yā	case.gen
+nimittina	post.abs
+khoyāva	cv.ant
+coṅā	v.perf.part
+.	punc
+
+dhakaṃ	v.dhak
+kaṅāva	cv.ant
+.	punc
+
+thva	d.dem
+mahāpuruṣa	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+strīja	n
+na	case.erg
+meba	adj
+sunuṃ	p.indef
+pāra	n
+vane	v.n
+du	v.impst
+lā	cl.inter
+.	punc
+
+gathye	adv.inter
+khava	v.impst
+dhakaṃ	v.dhak
+dhāraṃ	v.perf.past
+.	punc
+
+thva	d.dem
+strījana	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+siyata	n
+su	p.interrog
+vaniva	v.np
+dhakaṃ	v.dhak
+misānaṃ	v.perf.past
+dhāraṃ	v.perf.past
+||	punc
+
+thva	d.dem
+rājā	n
+na	case.erg
+jivasā	cv.cond
+ji	p.pers
+vane	v.n
+dhakaṃ	v.dhak
+dhāraṃ	v.perf.past
+.	punc
+
+thana	n
+rātri	n
+yā	case.gen
+samaya	n
+juyāva	cv.ant
+.	punc
+
+deśa	n
+yā	case.gen
+māhāna	n
+vayāva	cv.ant
+.	punc
+
+pāra	n
+vanimha	p.correl
+bo	n
+na	case.erg
+vava	v.impst
+juro	v.perf.past
+.	punc
+
+thva	d.dem
+rājācā	n
+na	case.erg
+samasta	d.quant
+tālapatra	n
+fn37	fol
+khaḍga	n
+jvaṅāva	cv.ant
+thamaṃ	p.refl
+palisā	n
+vanaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+rākṣasa	n
+yā	case.gen
+thāya	n
+sa	case.loc.inan
+vaṅāva	cv.ant
+meba	adj
+sakalyeṃ	v.co
+li	cv.anter
+chosyaṃ	v.co
+haraṃ	v.perf.past
+.	punc
+
+thamaṃ	p.refl
+juko	v.perf.past
+conaṃ	v.perf.past
+.	punc
+
+thana	adv.conj
+rātri	n
+yā	case.gen
+samaye	n
+sa	case.loc.inan
+rākṣasa	n
+vayāva	cv.ant
+.	punc
+
+thva	d.dem
+rākṣasa	n
+na	case.erg
+tama	n
+na	case.erg
+saratā	cv.cond
+.	punc
+
+bho	interj
+pāpi	n
+sta	n
+manuṣya	n
+pani	case.abs.h.pl
+thani	adv.temp
+ga	n
+na	case.erg
+coṅā	v.perf.part
+.	punc
+
+ati	adv.deg
+pyatyāto	v.perf.past
+.	punc
+
+thani	adv.temp
+cha	p.pers
+naya	v.n
+juro	v.perf.past
+dhakaṃ	v.dhak
+rākṣasa	n
+na	case.erg
+dhāyāva	cv.ant
+.	punc
+
+rājā	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+pāpi	n
+sta	n
+rākṣasa	n
+chana	p.pers
+anega	d.quant
+jība	n
+jaṃtu	adj
+manuṣya	n
+samastaṃ	d.quant
+mocakāva	cv.ant
+nayāva	cv.ant
+coṅa	v.impst
+.	punc
+
+cha	num
+pāpi	n
+sta	n
+rākṣasa	n
+na	case.erg
+jiva	cv.ant
+juddha	n
+ma	neg
+yāsyaṃ	v.co
+amo	d.dem
+bastu	n
+ma	neg
+du	v.impst
+dhāyāva	cv.ant
+.	punc
+
+rākṣasa	n
+tam	v.perf.past
+cāyāva	cv.ant
+.	punc
+
+mahā	adj
+krodha	n
+pi	adv.dir
+kāyāva	cv.ant
+.	punc
+
+tihiṃ	n
+tihiṃ	adj
+nvayāva	cv.ant
+juddha	n
+yāya	v.n
+tyeṅā	v.perf.part
+bela	n
+sa	case.loc.inan
+.	punc
+
+thva	d.dem
+rājā	n
+na	case.erg
+tārāpatra	n
+khaḍga	n
+kāyāva	cv.ant
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+pāpi	n
+sta	n
+rākṣasa	n
+cha	num
+ji	p.pers
+na	case.erg
+mocake	v.n
+juro	v.perf.past
+.	punc
+
+chana	p.pers
+su	p.interrog
+sumarape	v.n
+teṅā	v.perf.part
+.	punc
+
+sumarapiva	cv.ant
+dhāyāva	cv.ant
+.	punc
+
+rākṣasa	n
+tam	v.perf.past
+cāyāva	cv.ant
+vayāva	cv.ant
+mahā	adj
+juddha	n
+yātaṃ	v.perf.past
+.	punc
+
+rithya	adj
+thva	d.dem
+rājā	n
+na	case.erg
+tama	n
+na	case.erg
+tālapatra	n
+khaḍga	n
+na	case.erg
+pārāva	cv.ant
+mocakaraṃ	v.perf.past
+||	punc
+
+thanaṃ	adv.conj
+li	cv.anter
+lihā	adv.dir
+vayāva	cv.ant
+che	p.pers
+thula	n
+nāpa	post.abs
+rātaṃ	v.perf.past
+.	punc
+
+bho	interj
+che	p.pers
+thula	n
+.	punc
+
+thva	d.dem
+rākṣasa	n
+ji	p.pers
+na	case.erg
+mocake	v.n
+dhuna	v.impst
+dhakaṃ	v.dhak
+kanaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+misāja	n
+na	case.erg
+ati	adv.deg
+kautuka	adj
+cāsyaṃ	v.perf.past
+.	punc
+
+dhaṃde	v.n
+dhaṃde	v.n
+khava	adj
+bhāju	n
+dhāsyaṃ	v.co
+conaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+deśa	n
+yā	case.gen
+rājā	n
+yāke	case.loc.an
+che	p.pers
+thula	n
+misā	n
+vayāva	cv.ant
+bimati	n
+yātaṃ	v.perf.past
+.	punc
+
+bho	interj
+rājā	n
+ati	adv.deg
+kautuka	adj
+kha	n
+cha	num
+tā	cs.abs
+bimati	n
+yāya	v.n
+ta	case.dat
+vayā	v.perf.part
+.	punc
+
+chalalopa	n
+yā	case.gen
+deśa	n
+yā	case.gen
+sukha	n
+juyivagu	adj
+.	punc
+
+bho	interj
+rājā	n
+jhijhi	n
+sa	case.loc.inan
+rākṣasa	n
+yāta	case.dat
+pāla	n
+cona	v.impst
+vane	v.n
+ma	neg
+mvāra	v.impst
+.	punc
+
+thva	d.dem
+rākṣasa	n
+mahāpuruṣa	n
+cha	num
+mha	cs.anim
+sena	case.erg.h
+syāya	v.n
+dhunakara	v.perf.past
+.	punc
+
+ji	p.pers
+che	n
+sa	case.loc.inan
+bāsa	n
+coṅa	v.impst
+mha	cs.anim
+dhakaṃ	v.dhak
+bimati	n
+yāsyaṃ	v.co
+li	cv.anter
+.	punc
+
+thva	d.dem
+deśa	n
+yā	case.gen
+rājā	n
+na	case.erg
+khava	v.impst
+rā	cl.inter
+ni	num
+thva	d.dem
+yaṅa	v.impst
+dhakaṃ	v.dhak
+dhāsyaṃ	v.co
+thva	d.dem
+rājācā	n
+bonakara	v.perf.past
+chotaṃ	v.perf.past
+.	punc
+
+boṅaṃ	adv.conj
+yaṅāva	cv.ant
+thva	d.dem
+rājācā	n
+svayāva	cv.ant
+ati	adv.deg
+rasa	n
+tāyāva	cv.ant
+nānā	d.quant
+silopāva	cv.ant
+(fn12b)	fol
+biyāva	cv.ant
+talaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+deśa	n
+yā	case.gen
+rājā	n
+na	case.erg
+thava	p.refl
+mhyacaṃ	n
+biyāva	cv.ant
+taraṃ	v.perf.past
+.	punc
+
+thana	adv.man
+li	cv.anter
+pya	num
+nhu	cs.time
+cyā	v.perf.part
+nhu	cs.time
+dasyaṃ	v.co
+li	cv.anter
+rājā	n
+bikramakeśaricā	n
+na	case.erg
+thava	p.refl
+karāta	n
+yāke	case.loc.an
+ṅenaṃ	v.perf.past
+.	punc
+
+bho	interj
+rānicā	n
+ji	p.pers
+babuju	n
+yā	case.gen
+duḥkha	n
+juyāva	cv.ant
+bahukusumāvati	n
+svāna	n
+kāla	n
+vayā	v.perf.part
+.	punc
+
+āva	adv.temp
+ji	p.pers
+vane	v.n
+.	punc
+
+bedā	n
+bihune	v.n
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thva	d.dem
+svāna	n
+durgapatha	n
+sa	case.loc.inan
+vaṅāva	cv.ant
+haya	v.perf.past
+phayiva	v.np
+rā	cl.inter
+dhakaṃ	v.dhak
+rānīcā	n
+yāke	case.loc.an
+ṅanaṃ	v.perf.past
+,	punc
+
+thana	adv.man
+fn38	fol
+rānīcā	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+prabhu	n
+svāmi	n
+.	punc
+
+chi	num
+parākrama	n
+dava	v.impst
+.	punc
+
+jhāsane	v.n
+.	punc
+
+lihā	adv.dir
+vaye	v.n
+bela	n
+sa	case.loc.inan
+thana	n
+jhāya	v.n
+juko	v.perf.past
+māra	v.impst
+.	punc
+
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+chotaṃ	v.perf.past
+.	punc
+
+thanaṃ	adv.conj
+li	cv.anter
+rājā	n
+vanaṃ	v.perf.past
+||	punc
+
+thana	adv.man
+mahānagara	n
+dhāyā	v.perf.part
+nāma	n
+nagara	n
+chagurī	n
+dava	v.impst
+.	punc
+
+thva	d.dem
+nagara	n
+sa	case.loc.inan
+du	v.impst
+hāyāva	cv.ant
+rājagṛha	n
+yā	case.gen
+kosa	n
+coṅāva	cv.ant
+conaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+thva	d.dem
+deśa	n
+yā	case.gen
+rājā	n
+yā	case.gen
+mhyāca	n
+na	case.erg
+jhyāla	n
+na	case.abl
+ko	adv.dir
+sora	v.impst
+vava	v.impst
+.	punc
+
+thva	d.dem
+rājācā	n
+khaṅāva	cv.ant
+.	punc
+
+thva	d.dem
+rānī	n
+na	case.erg
+bhārapā	v.perf.part
+gathiṃṅa	adv.inter
+sundara	adj
+bhiṅa	adj
+mijana	v.ipv
+.	punc
+
+thathiṅa	p.correl
+puruṣa	n
+rātasā	cv.cond
+ji	p.pers
+mahābhāgya	n
+dhaka	v.dhak
+dhāyāva	cv.ant
+soyāva	cv.ant
+coṅa	v.impst
+bela	n
+sa	case.loc.inan
+rājācā	n
+yā	case.gen
+dṛṣṭiva	cv.ant
+rānī	n
+yā	case.gen
+dṛṣṭiva	v.np
+cūra	n
+rāka	n
+juro	v.perf.past
+.	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+rānīcānaṃ	v.perf.past
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+sakhi	n
+huṃhuṃ	p.indef
+mijana	n
+cha	num
+mha	cs.anim
+boṅāva	cv.ant
+hiva	v.np
+dhaka	v.dhak
+dhāsyaṃ	v.co
+chotaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+sakhi	n
+vaṅāva	cv.ant
+rājācā	n
+sarataraṃ	v.perf.past
+.	punc
+
+bho	interj
+mahāpuruṣa	n
+.	punc
+
+ji	p.pers
+panisa	case.gen.h.pl
+rānī	n
+na	case.erg
+bonakara	n
+hara	v.perf.past
+.	punc
+
+vāyo	v.ipv
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+boṅaṃ	v.co
+yaṅāva	cv.ant
+rānī	n
+nāpa	post.abs
+rācakāva	cv.ant
+bilaṃ	v.perf.past
+.	punc
+
+thana	n
+rānī	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+mahāpuruṣa	n
+chi	num
+khaṅāva	cv.ant
+ji	p.pers
+mana	n
+vaṅa	v.impst
+.	punc
+
+chalapola	p.pers
+ji	p.pers
+na	case.erg
+puruṣa	n
+yāya	v.n
+bhārapā	v.perf.part
+chiva	num
+jiva	cs.anim
+thithi	n
+māyā	n
+tasyaṃ	v.co
+———	v.perf.past
+.	punc
+
+tiri	n
+puruṣa	n
+juyāva	cv.ant
+sunānaṃ	p.indef
+ma	neg
+khanakaṃ	v.perf.past
+kothā	n
+sa	case.loc.inan
+conaṃ	v.perf.past
+||	punc
+
+cha	num
+nhu	num.time
+yā	case.gen
+dina	n
+sa	case.loc.inan
+thva	d.dem
+rānīcā	n
+yā	case.gen
+khvāra	n
+cata	v.perf.past
+ma	neg
+kaṅāva	cv.ant
+rājācā	n
+na	case.erg
+ṅanaṃ	v.perf.past
+.	punc
+
+bho	interj
+rānīcā	n
+thani	adv.temp
+chana	p.pers
+khvāla	n
+cava	v.np
+ma	neg
+kaṅa	v.impst
+gathya	adv.inter
+khava	v.impst
+dhāyāva	cv.ant
+.	punc
+
+rānīcānaṃ	adv.conj
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+mahārājācā	n
+.	punc
+
+ji	p.pers
+babu	n
+na	case.erg
+mebu	n
+rājā	n
+yāta	v.perf.past
+kala	n
+pule	v.n
+māla	v.perf.past
+.	punc
+
+thani	adv.temp
+kāra	n
+vayiva	v.np
+.	punc
+
+thuguli	p.indef
+kārana	n
+sa	case.loc.inan
+duḥkha	n
+cāsyaṃ	v.co
+coṅā	v.perf.part
+dhaka	v.dhak
+dhāraṃ	v.perf.past
+.	punc
+
+thvate	p.anaphor
+kha	n
+ṅaṅāva	cv.ant
+rājācā	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+rānīcā	n
+chana	p.pers
+babuju	n
+boṅāva	cv.ant
+hiva	v.np
+.	punc
+
+ji	p.pers
+na	case.erg
+nāpa	post.ass
+lāya	v.n
+dhāyāva	cv.ant
+rānīcā	n
+vaṅāva	cv.ant
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+babuju	n
+ji	p.pers
+ke	case.loc.an
+mahāpuruṣa	n
+cha	num
+mha	cs.anim
+vava	v.impst
+du	v.impst
+.	punc
+
+chalapola	p.pers
+nāpa	post.abs
+lāya	v.n
+dhāraṃ	v.perf.past
+.	punc
+
+nāpa	post.abs
+lāhune	v.n
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thva	d.dem
+rājā	n
+na	case.erg
+mahāpuruṣa	n
+nāpa	post.abs
+rāka	n
+.	punc
+
+rājā	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+*mahāpuruṣa	n
+(fn13a)	fol
+cha	p.pers
+su	p.interrog
+juyiva	v.np
+.	punc
+
+gana	adv.inter
+yā	case.gen
+khava	v.impst
+.	punc
+
+chi	num
+nāma	n
+chu	p.interrog
+.	punc
+
+chu	p.interrog
+nimittina	post.abs
+ji	p.pers
+nāpa	post.abs
+rāya	v.n
+dhāyā	v.perf.part
+dhakaṃ	v.dhak
+dhāraṃ	v.perf.past
+.	punc
+
+rājācā	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+mahārājā	n
+.	punc
+
+ji	p.pers
+juyiva	v.np
+bikramāditya	n
+rājā	n
+yā	case.gen
+jyeṣṭa	adj
+putra	n
+bikramakeśari	n
+ji	p.pers
+dhakaṃ	v.dhak
+dhāsyaṃ	v.co
+thithiṃ	adv.man
+thithiṃ	adv.man
+satyaṃ	v.co
+yāṅāva	cv.ant
+.	punc
+
+satya	adv.man
+yācakāva	cv.ant
+biśvāsakha	n
+lhātaṃ	v.perf.past
+||	punc
+
+fn39	fol
+(thugū	p.correl
+thāya	n
+sa	case.loc.inan
+rānīcā	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+babuju	n
+.	punc
+
+thva	d.dem
+ji	p.pers
+ta	case.dat
+puruṣa	n
+yāya	v.n
+julo	v.perf.past
+dhaka	v.dhak
+gupta	n
+na	case.erg
+boṅāva	cv.ant
+tayā	v.perf.part
+pya	num
+nhu	cs.time
+cyā	v.perf.part
+nhu	cs.time
+dasyaṃ	v.co
+li	cv.anter
+ja	p.pers
+khvāra	n
+cava	v.np
+ma	neg
+kaṅa	v.impst
+svayāva	cv.ant
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+rānīcā	n
+.	punc
+
+chana	p.pers
+chu	p.interrog
+duḥkha	n
+jura	v.perf.past
+.	punc
+
+chana	p.pers
+khvāra	n
+cava	v.np
+ma	neg
+kaṅa	v.impst
+dhakaṃ	v.dhak
+ṅanaṃ	v.perf.past
+.	punc
+
+thana	adv.man
+ji	p.pers
+na	case.erg
+dhāyā	v.perf.part
+khava	v.impst
+khye	v.n
+.	punc
+
+thani	adv.temp
+babuju	n
+yā	case.gen
+meba	adj
+deśa	n
+yā	case.gen
+rājā	n
+na	case.erg
+kara	n
+kāra	n
+vayiva	v.np
+.	punc
+
+ma	neg
+birasā	cv.cond
+hatāra	n
+kara	n
+vayiva	v.np
+dhakaṃ	v.dhak
+dhāyā	v.perf.part
+.	punc
+
+thathyaṃ	adv.conj
+thukā	evid
+ji	p.pers
+khvāra	n
+cava	v.np
+ma	neg
+kaṅa	v.impst
+dhakaṃ	v.dhak
+kaṅā	v.perf.part
+.	punc
+
+thana	adv.conj
+rājā	n
+na	case.erg
+dhāra	v.perf.past
+amathya	v.n
+rā	cl.inter
+julasā	cv.cond
+chana	p.pers
+babuju	n
+jñāya	v.n
+mu	neg
+mvāle	v.n
+dhāyāva	cv.ant
+ji	p.pers
+na	case.erg
+māra	v.impst
+thya	post.abs
+yat	v.co
+na	case.erg
+yāya	v.n
+makhā	evid
+.	punc
+
+chana	p.pers
+babuju	n
+yāke	case.loc.an
+ji	p.pers
+nāpa	post.abs
+rācakiva	v.np
+dhaka	v.dhak
+dhāraṃ	v.perf.past
+.	punc
+
+thana	adv.man
+meba	adj
+dūta	n
+chu	p.indef
+yā	case.gen
+ha	n
+yā	case.gen
+.	punc
+
+bho	interj
+mahārājā	n
+.	punc
+
+chalapola	p.pers
+darśana	n
+yāya	v.n
+dhaka	v.dhak
+mahāpuruṣa	n
+cha	num
+mha	cs.anim
+vava	v.impst
+du	v.impst
+dhaka	v.dhak
+dhāyā	v.perf.part
+.	punc
+
+thana	n
+rājā	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+jiva	p.pers
+kṣe	n
+boṅāva	cv.ant
+hiva	v.np
+dhaka	v.dhak
+dhāyāva	cv.ant
+bikramakeśari	n
+nāpa	post.abs
+rācakāva	cv.ant
+biraṃ	v.perf.past
+||	punc
+
+thanaṃ	adv.conj
+li	cv.anter
+khabu	n
+juva	v.impst
+juro	v.perf.past
+.	punc
+
+)	n
+thana	n
+rājā	n
+na	case.erg
+dhāraṃ	v.perf.past
+bho	interj
+bikramakeśala	n.prop
+chāya	adv.inter
+chu	p.indef
+dhāya	v.n
+.	punc
+
+ji	p.pers
+mahā	adj
+dhaṃdā	n
+juro	v.perf.past
+thani	adv.temp
+.	punc
+
+gathya	adv.inter
+yāye	v.n
+ṣye	v.n
+dhaka	v.dhak
+ṅanaṃ	v.perf.past
+.	punc
+
+thana	adv.conj
+bikramakeśala	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+mahārājā	n
+chalapola	p.pers
+sa	case.loc.inan
+chu	p.interrog
+dhaṃdā	n
+julo	v.perf.past
+.	punc
+
+ji	p.pers
+ṅhavane	post.gen
+dhāva	v.impst
+.	punc
+
+ji	p.pers
+na	case.erg
+phako	d.quant
+upakāra	n
+yāya	v.n
+makhā	adv.man
+.	punc
+
+thana	n
+rājā	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+paradeśa	n
+yā	case.gen
+rājā	n
+yāta	case.dat
+barṣa	n
+patiṃ	d.quant
+kara	n
+thane	v.n
+māra	v.impst
+.	punc
+
+āva	adv.temp
+thani	adv.temp
+dina	n
+ghāta	n
+juro	v.perf.past
+.	punc
+
+thva	d.dem
+kara	n
+thaṅāva	cv.ant
+ma	neg
+birasā	cv.cond
+hatāra	n
+kara	n
+vayiva	v.np
+.	punc
+
+āva	adv.temp
+chiji	n
+samadhāra	n
+gathya	adv.inter
+yāya	v.n
+māra	v.impst
+dhaka	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+bikramakeśala	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+mahārājā	n
+chāya	adv.inter
+kara	n
+pure	v.n
+.	punc
+
+pure	v.n
+ma	neg
+mvāra	v.impst
+.	punc
+
+hatāra	n
+phaya	v.n
+ma	neg
+ṣu	v.impst
+rā	cl.inter
+.	punc
+
+rājājanma	n
+juyāva	cv.ant
+.	punc
+
+amathya	n
+pararājā	n
+na	case.erg
+ko	adv.dir
+nyācakāva	cv.ant
+cone	v.n
+rā	cl.inter
+.	punc
+
+jirasā	n
+phunyāva	cv.ant
+choya	v.n
+.	punc
+
+ma	neg
+jirasā	cv.cond
+butasāṃ	n
+buka	v.perf.past
+aneka	d.quant
+sainya	n
+dako	n
+munakāva	cv.ant
+.	punc
+
+śaḍa	n
+.	punc
+
+kisi	n
+.	punc
+
+bapāyaka	n
+.	punc
+
+paramāna	n
+dako	interj
+munakāva	cv.ant
+.	punc
+
+samasta	d.quant
+śastra	n
+astra	n
+tāra	v.perf.past
+rācakāva	cv.ant
+coṅa	v.impst
+bela	n
+sa	case.loc.inan
+paradeśa	n
+yā	case.gen
+*rājā	n
+na	case.erg
+(fn13b)	fol
+dūta	n
+chosyaṃ	v.co
+hava	cv.ant
+||	punc
+
+bho	interj
+mahārājā	n
+ji	p.pers
+panisa	case.gen.h.pl
+juju	n
+yā	case.gen
+ājñā	n
+sadā	n
+yā	case.gen
+thyaṃ	post.abs
+kara	n
+kāyakara	n
+hara	v.perf.past
+.	punc
+
+hiva	v.np
+dhakaṃ	v.dhak
+dhāraṃ	v.perf.past
+.	punc
+
+ma	neg
+birasā	cv.cond
+hatāra	n
+kaya	v.n
+dhāram	v.perf.past
+.	punc
+
+thathya	adv.man
+nvāṅāva	cv.ant
+coṅā	v.perf.part
+bela	n
+sa	case.loc.inan
+bikramakeśala	n
+fn40	fol
+du	n
+bvāṅāva	cv.ant
+dhakaṃ	v.dhak
+.	punc
+
+chi	num
+misa	n
+chu	p.interrog
+kha	n
+lhāṅāva	cv.ant
+coṅāva	cv.ant
+kha	n
+haṃ	v.perf.past
+ma	neg
+du	v.impst
+huni	v.ipv
+.	punc
+
+cha	num
+panisa	case.gen.h.pl
+rājā	n
+baṃśa	n
+khatasā	cv.cond
+.	punc
+
+juddha	n
+oya	v.n
+māra	v.impst
+.	punc
+
+ji	p.pers
+pani	case.abs.h.pl
+kṣatriyaparākrama	n
+datasā	cv.cond
+.	punc
+
+hatāra	n
+phaya	v.n
+.	punc
+
+āmathya	n
+dhāyāṃ	v.n
+chāya	adv.inter
+jñāya	v.n
+chāya	adv.inter
+biya	v.n
+dhakaṃ	v.dhak
+bikramakeśara	n
+na	case.erg
+hatakāva	cv.ant
+chotaṃ	v.perf.past
+.	punc
+
+dūta	n
+vava	v.impst
+pani	case.abs.h.pl
+thvate	p.anaphor
+kha	n
+ṅeṅāva	cv.ant
+lihā	adv.dir
+vanaṃ	v.perf.past
+.	punc
+
+lihā	adv.dir
+vaṅāva	cv.ant
+samasta	d.quant
+bṛttānta	adj
+kanaṃ	v.perf.past
+||	punc
+
+thana	n
+thva	d.dem
+rājā	n
+yā	case.gen
+nugara	n
+sa	case.loc.inan
+ati	adv.deg
+krodha	n
+juyāva	cv.ant
+dhāraṃ	v.perf.past
+.	punc
+
+de	adv.dir
+jiva	p.pers
+kṣe	v.n
+dhakaṃ	v.dhak
+deśa	n
+sa	case.loc.inan
+nāpa	post.abs
+ṣiṃbāja	n
+na	case.erg
+coyakāva	cv.ant
+paramāna	n
+maṃtrī	n
+deśakataka	n
+sakale	v.n
+sainyaloka	n
+sakalyeṃ	v.co
+munakāva	cv.ant
+.	punc
+
+śastra	n
+astra	n
+samasta	d.quant
+mālako	v.rel.part
+tāra	v.perf.past
+rācakāva	cv.ant
+kisi	n
+śaḍa	n
+gayāva	cv.ant
+.	punc
+
+pāya	n
+ke	case.loc.an
+sainyanaṃ	adv.man
+licakāva	cv.ant
+.	punc
+
+nighata	n
+na	case.abl
+pi	adv.dir
+bvāṅāva	cv.ant
+mahā	adj
+yuddha	n
+yāya	v.n
+dhakaṃ	v.dhak
+hatāra	n
+kala	n
+vava	v.impst
+.	punc
+
+thva	d.dem
+deśa	n
+yā	case.gen
+samīpa	n
+sa	case.loc.inan
+ma	neg
+thyaṃtole	v.n
+sumukaṃ	adv.man
+coṅāva	cv.ant
+deśa	n
+yā	case.gen
+samīpa	n
+sa	case.loc.inan
+thyanāva	cv.ant
+.	punc
+
+thva	d.dem
+bikramakeśa	n
+na	case.erg
+śaḍa	n
+gayāva	cv.ant
+sainyaloka	n
+na	case.erg
+licakāva	cv.ant
+vaṅāva	cv.ant
+mahā	adj
+yuddha	n
+yāka	v.impst
+.	punc
+
+anega	d.quant
+kataka	n
+mocakāva	cv.ant
+.	punc
+
+thva	d.dem
+rājā	n
+phuṅāva	cv.ant
+chotaṃ	v.perf.past
+.	punc
+
+thana	adv.conj
+bhākhā	n
+yā	case.gen
+kabula	n
+yātaṃ	v.perf.past
+.	punc
+
+nhāpā	adv.temp
+chana	p.pers
+kāyāṃ	case.gen
+thyaṃ	post.abs
+jipanita	n
+kala	n
+biya	v.n
+māla	v.perf.past
+dhakaṃ	v.dhak
+bhāṣā	n
+yāṅāva	cv.ant
+chotaṃ	v.perf.past
+.	punc
+
+thana	n
+bikramakeśalayāta	n
+jātrā	n
+yāṅāva	cv.ant
+rājaghara	n
+sa	case.loc.inan
+duta	adv.dir
+boṅāva	cv.ant
+mhyāca	n
+kanyādāna	n
+biyāva	cv.ant
+sukhana	adv.man
+conaṃ	v.perf.past
+||	punc
+
+thana	adv.man
+pya	num
+nhu	cs.time
+cyā	v.perf.part
+nhuṃ	n
+li	cv.anter
+rājā	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+chi	num
+rānīcā	n
+sadākāraṃ	v.perf.past
+chava	cv.ant
+nāpa	post.abs
+coṅāva	cv.ant
+kārya	n
+ma	neg
+sidhu	v.impst
+.	punc
+
+chana	p.pers
+babuju	n
+yā	case.gen
+duḥkha	n
+kaṣṭa	n
+phene	v.n
+dhuno	v.perf.past
+.	punc
+
+ji	p.pers
+thava	p.refl
+babuju	n
+yā	case.gen
+duḥkha	n
+phene	v.n
+ma	neg
+dhuṃ	n
+ni	interj
+.	punc
+
+bahukusuma	n
+svāna	n
+yā	case.gen
+kārya	n
+vaneyāṅa	v.impst
+vayā	v.perf.part
+.	punc
+
+ji	p.pers
+vane	v.n
+dhāyāva	cv.ant
+rānī	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bahukusumāvati	n
+svāna	n
+ga	n
+na	case.erg
+kāya	v.n
+.	punc
+
+suyāṃ	n
+gamya	v.n
+ma	neg
+du	v.impst
+.	punc
+
+athāhā	n
+samudra	n
+gathye	adv.inter
+pāra	n
+yāya	v.n
+phayiva	v.np
+.	punc
+
+athyanaṃ	adv.conj
+chalapola	p.pers
+mahāparākrama	n
+thvalaṃ	v.perf.past
+.	punc
+
+bijyāhuni	v.ipv
+.	punc
+
+rihāṃ	adv.dir
+bijyāya	v.n
+bela	n
+sa	case.loc.inan
+juko	v.perf.past
+ji	p.perf
+ke	case.loc.an
+bijyāya	v.n
+māra	v.impst
+dhakaṃ	v.dhak
+dhāsyaṃ	v.co
+bidā	n
+biyāva	cv.ant
+chotaṃ	v.perf.past
+||	punc
+
+thana	adv.man
+jaṃbūdvīpa	n
+dhāyā	v.perf.part
+deśa	n
+thyanaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+deśa	n
+sa	case.loc.inan
+du	v.impst
+hāyāva	cv.ant
+*rājā	n
+yā	case.gen
+(fn14a)	fol
+che	p.pers
+kosa	n
+coṅāva	cv.ant
+conaṃ	v.perf.past
+.	punc
+
+bhiṅa	adj
+phale	v.n
+sa	case.loc.inan
+coṅā	v.perf.part
+fn41	fol
+bela	n
+sa	case.loc.inan
+rājyaṃ	v.co
+tapaṃ	v.co
+hunununaṃ	v.perf.past
+khoraṃ	v.perf.past
+.	punc
+
+mahā	adj
+utpāta	n
+juyāva	cv.ant
+thva	d.dem
+bikramakeśali	n
+na	case.abl
+kautuka	n
+cāyāva	cv.ant
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+chi	num
+paṃca	num.skt
+pani	case.abs.h.pl
+.	punc
+
+thva	d.dem
+deśa	n
+sa	case.loc.inan
+chu	p.indef
+juro	v.perf.past
+.	punc
+
+chāna	adv.inter
+khola	n
+dhakaṃ	v.dhak
+ṅanaṃ	v.perf.past
+||	punc
+
+thana	adv.man
+misā	n
+cha	num
+mha	cs.anim
+sena	case.erg.h
+dhāraṃ	v.perf.past
+.	punc
+
+thva	d.dem
+deśa	n
+yā	case.gen
+rājā	n
+yā	case.gen
+mhyāca	n
+sita	v.perf.past
+.	punc
+
+āva	adv.temp
+thva	d.dem
+sīka	v.impst
+uya	v.n
+mu	neg
+mvāva	cv.ant
+.	punc
+
+deśa	n
+yā	case.gen
+dakṣiṇadiga	n
+sa	case.loc.inan
+bana	n
+sa	case.loc.inan
+vāṅaṃ	v.perf.past
+tāthye	v.n
+.	punc
+
+thana	n
+rākṣasa	n
+vayāva	cv.ant
+nara	v.impst
+vayiva	v.np
+.	punc
+
+deśa	n
+sa	case.loc.inan
+utpāta	n
+juva	v.impst
+chāna	adv.inter
+dhārasā	cv.cond
+.	punc
+
+sanāna	n
+vane	v.n
+bela	n
+sa	case.loc.inan
+thva	d.dem
+rākṣasa	n
+na	case.erg
+liṅāva	cv.ant
+nayi	n
+yā	case.gen
+bhaya	n
+na	case.erg
+deśakataka	n
+jñāka	n
+dhakaṃ	v.dhak
+misā	n
+na	case.erg
+bikramakeśaliyāta	n
+kanaṃ	v.perf.past
+||	punc
+
+thvate	p.anaphor
+bṛttānta	adj
+kha	n
+ṅeṅāva	cv.ant
+thva	d.dem
+rājācā	n
+na	case.erg
+ṅheo	cv.ant
+rākṣasinī	n
+yāke	case.loc.an
+kayā	v.perf.part
+hayāgū	n
+kaṣṭapādalakāma	n
+na	case.erg
+ṅhāṅāva	cv.ant
+tārapatra	n
+khaḍga	n
+kāyāva	cv.ant
+.	punc
+
+simā	n
+kosa	n
+coṅāva	cv.ant
+svayāva	cv.ant
+conaṃ	v.perf.past
+||	punc
+
+thana	adv.man
+thva	d.dem
+rānicā	n
+si	n
+thana	n
+haro	v.perf.past
+.	punc
+
+thana	n
+dakṣiṇadiga	n
+sa	case.loc.inan
+musāna	n
+sa	case.loc.inan
+coṅāva	cv.ant
+mārakva	cv.ant
+karma	n
+yāṅāva	cv.ant
+vāṅaṃ	v.perf.past
+tāthu	n
+julo	v.perf.past
+||	punc
+
+thana	adv.man
+sadā	n
+yā	case.gen
+thyaṃ	post.abs
+rākṣasa	n
+vayāva	cv.ant
+tava	adj
+śabda	n
+na	case.erg
+hārāva	cv.ant
+bosya	v.co
+vayāva	cv.ant
+sika	adj
+yā	case.gen
+ṅhaone	post.gen
+coṅāva	cv.ant
+gā	n
+ulāva	cv.ant
+svayāva	cv.ant
+.	punc
+
+thva	d.dem
+rānicā	n
+yā	case.gen
+sarbāṃgi	adj
+tvayāva	cv.ant
+gaṃgācāmala	n
+na	case.abl
+gārāva	cv.ant
+mvācakāva	cv.ant
+svataṃ	v.perf.past
+.	punc
+
+hanoṃ	adv.conj
+jamunācāmala	n
+na	case.abl
+gālāva	cv.ant
+syāṅā	v.perf.part
+.	punc
+
+thana	n
+rākṣasa	n
+na	case.erg
+naya	v.n
+teṅāva	cv.ant
+bela	n
+sa	case.loc.inan
+thva	d.dem
+bikramakeśali	n
+na	case.erg
+mahā	adj
+krodhana	adv.man
+tārapatra	n
+khadga	n
+na	case.erg
+pāraṃ	v.perf.past
+||	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+rākṣasa	n
+jñāṅāva	cv.ant
+cāmalaṃ	v.perf.past
+ni	num
+phiṃ	adv.freq
+vāṅaṃ	adv.man
+tāthāva	cv.ant
+bisya	v.co
+vaṅa	v.impst
+jula	v.perf.past
+||	punc
+
+thvanaṃ	adv.conj
+li	cv.anter
+thva	d.dem
+bikramakeśali	n
+rājā	n
+na	case.erg
+thva	d.dem
+sīkamha	p.correl
+rānīcā	n
+yā	case.gen
+sarbāṃga	adj
+toyāva	cv.ant
+gaṃgācāmara	n
+na	case.abl
+gārāva	cv.ant
+uthyaṃ	v.co
+mvāka	n
+.	punc
+
+hanvaṃ	adv.conj
+jamunācāmara	n
+na	case.abl
+gārāva	cv.ant
+syāṅā	v.perf.part
+.	punc
+
+thana	n
+gā	n
+na	case.erg
+toka	n
+puyāva	cv.ant
+cha	p.pers
+bhi	n
+na	case.erg
+sumukaṃ	adv.man
+conaṃ	v.perf.past
+||	punc
+
+thana	n
+na	case.erg
+saṅāva	cv.ant
+rājā	n
+na	case.erg
+socakara	n
+hava	cv.ant
+.	punc
+
+thana	adv.man
+māhāna	n
+pani	case.abs.h.pl
+cākra	n
+cikraṃ	v.perf.past
+svayāva	cv.ant
+.	punc
+
+thva	d.dem
+rānī	n
+tayā	v.perf.part
+thāya	n
+sa	case.loc.inan
+svara	n
+vaṅā	v.perf.part
+bela	n
+sa	case.loc.inan
+thva	d.dem
+mahāpuruṣa	n
+khaṅāva	cv.ant
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+mahāpuruṣa	n
+thathigū	n
+bhaya	n
+du	v.impst
+thāya	n
+sa	case.loc.inan
+chu	p.interrog
+dhaka	v.dhak
+coṅā	v.perf.part
+dhakaṃ	v.dhak
+ṅenaṃ	v.perf.past
+.	punc
+
+thana	n
+mahāpuruṣa	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+mahāna	n
+pani	case.abs.h.pl
+cha	p.pers
+panisa	case.gen.h.pl
+janma	n
+janmāṃtara	n
+bhaya	n
+ma	neg
+dayakaṃ	v.perf.past
+ji	p.pers
+na	case.erg
+rākṣasa	n
+mocake	v.n
+dhuno	v.perf.past
+.	punc
+
+āva	adv.temp
+sundarī	adj
+fn42	fol
+mvācake	v.n
+phatasāṃ	v.perf.past
+.	punc
+
+ji	p.pers
+ta	case.dat
+biyu	n
+rā	n
+(fn14b)	fol
+dhāra	n
+huni	v.ipv
+dhakaṃ	v.dhak
+chotaṃ	v.perf.past
+||	punc
+
+thva	d.dem
+dūta	n
+pani	case.abs.h.pl
+cho	n
+yā	case.gen
+rājā	n
+yāke	case.loc.an
+vaṅāva	cv.ant
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+mahārājā	n
+ati	adv.deg
+āścarya	adj
+kha	n
+cha	num
+tā	cs.abs
+ṅaṅāva	cv.ant
+vayā	v.perf.part
+.	punc
+
+dakṣiṇa	n
+samasvāna	n
+sa	case.loc.inan
+coṅa	v.impst
+mha	cs.anim
+mahāpuruṣa	n
+chamhasye	v.n
+na	case.erg
+dhāra	v.perf.past
+.	punc
+
+jhijhi	n
+sa	case.loc.inan
+śatru	n
+rākṣasa	n
+mocake	v.n
+dhuna	v.impst
+.	punc
+
+āva	adv.temp
+thva	d.dem
+rānīcā	n
+siko	n
+mvācake	v.n
+phatasā	cv.cond
+.	punc
+
+ji	p.pers
+ta	case.dat
+biyu	v.np
+rā	cl.inter
+dhakaṃ	v.dhak
+ṅe	post.gen
+na	case.erg
+huni	v.ipv
+dhakaṃ	v.dhak
+ji	p.pers
+pani	case.abs.h.pl
+chosyaṃ	v.co
+hala	n
+.	punc
+
+punarbāra	adv.conj
+lisala	n
+biya	v.n
+māra	v.impst
+dhakaṃ	v.dhak
+gathya	adv.inter
+lisala	n
+biya	v.n
+dhakaṃ	v.dhak
+bimati	n
+yāsyaṃ	v.co
+li	cv.anter
+.	punc
+
+thana	n
+rājā	n
+tvaṃ	case.erg.h.pl
+rasa	n
+tāyāva	cv.ant
+biya	v.n
+makhā	adv.man
+.	punc
+
+kāva	cv.ant
+dhakaṃ	v.dhak
+harṣamāna	adj
+yāsyaṃ	v.co
+lisala	n
+ka	dunno
+na	case.erg
+vanaṃ	v.perf.past
+||	punc
+
+thana	adv.conj
+thva	d.dem
+mahāpuruṣa	n
+na	case.erg
+rānīcā	n
+mvācakaṃ	v.perf.past
+tayāva	cv.ant
+nānā	d.quant
+ānanda	n
+kha	n
+lhāsyaṃ	v.co
+coṅāva	cv.ant
+.	punc
+
+hanoṃ	adv.conj
+jamunācāmara	n
+gārāva	cv.ant
+syāṅaṃ	v.co
+tayā	v.perf.part
+bela	n
+sa	case.loc.inan
+māhāna	n
+pani	case.abs.h.pl
+vayāva	cv.ant
+lisala	n
+kasyaṃ	v.co
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+mahāpuruṣa	n
+.	punc
+
+kāhune	v.n
+dhakaṃ	v.dhak
+rājā	n
+na	case.erg
+ājñā	n
+data	v.perf.past
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thva	d.dem
+mahāpuruṣa	n
+na	case.erg
+gaṃgācāmala	n
+na	case.erg
+gārāva	cv.ant
+mvācakaṃ	n
+taram	v.perf.past
+.	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+anega	d.quant
+loka	n
+vayāva	cv.ant
+jātrā	n
+yāṅāva	cv.ant
+deśa	n
+duta	adv.dir
+yaṅāva	cv.ant
+.	punc
+
+ānanda	n
+na	case.erg
+rānīcā	n
+byabahāra	n
+yāṅāva	cv.ant
+sukhana	adv.man
+coṅa	v.impst
+julo	v.perf.past
+||	punc
+
+thvana	adv.conj
+li	cv.anter
+pya	num
+nhu	cs.time
+cyā	v.perf.part
+nhu	cs.time
+līva	cv.ant
+thva	d.dem
+bikramakeśalī	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+chi	num
+tiri	n
+cha	p.pers
+mṛtyu	n
+juvamha	p.correl
+punajanma	n
+yāya	v.n
+dhuno	v.perf.past
+.	punc
+
+āva	adv.temp
+ji	p.pers
+babuju	n
+yā	case.gen
+kārya	n
+vayā	v.perf.part
+.	punc
+
+bahukusuma	n
+svāna	n
+yā	case.gen
+upadeśanā	n
+ni	cl.focus
+vane	v.n
+dhāyāva	cv.ant
+.	punc
+
+rānīcā	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+puruṣa	n
+thathiṃmha	p.correl
+prāṇadātā	n
+puruṣa	n
+ji	p.pers
+na	case.erg
+gathya	adv.inter
+tolate	v.n
+.	punc
+
+chi	num
+na	case.erg
+torate	v.n
+ajogya	n
+.	punc
+
+chi	num
+na	case.erg
+torate	v.n
+jurasā	cv.cond
+nhāpā	adv.temp
+yā	case.gen
+thyaṃ	post.abs
+ji	p.pers
+prāṇa	n
+li	cv.anter
+kāhuni	v.ipv
+dhakaṃ	v.dhak
+khoyāva	cv.ant
+bimati	n
+yātaṃ	v.perf.past
+.	punc
+
+thana	n
+rājā	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+rānīcā	n
+amathya	v.n
+rā	n
+julasā	cv.cond
+rihā	n
+vaye	v.n
+bela	n
+sa	case.loc.inan
+ji	p.pers
+vayāva	cv.ant
+jigū	n
+rājye	n
+boṅāva	cv.ant
+yaṅe	v.n
+makhā	adv.man
+dhāsyaṃ	v.co
+bodha	n
+yāṅāva	cv.ant
+tāthāva	cv.ant
+.	punc
+
+bahukusuma	n
+svāna	n
+yā	case.gen
+upadeśanā	n
+vanaṃ	v.perf.past
+||	punc
+
+thana	adv.man
+mahā	adj
+durga	n
+banāṃtara	n
+thyaṅāva	cv.ant
+samudra	n
+ruva	v.np
+.	punc
+
+thva	d.dem
+samudra	n
+yā	case.gen
+itā	n
+thitā	n
+aṃta	n
+ma	neg
+du	v.impst
+.	punc
+
+thana	n
+kātapādalakāma	n
+kāyāva	cv.ant
+ṅhāṅāva	cv.ant
+samudra	n
+itā	n
+svasyaṃ	v.co
+bosya	n
+vaṅāva	cv.ant
+itā	n
+sa	case.loc.inan
+fn43	fol
+juta	v.perf.past
+vanaṃ	v.perf.past
+.	punc
+
+thana	n
+bahukusuma	n
+svāna	n
+yā	case.gen
+thāya	n
+ujhāna	n
+sa	case.loc.inan
+thyanaṃ	v.perf.past
+.	punc
+
+thana	adv.conj
+ujhāna	n
+na	case.erg
+pihā	n
+vayāva	cv.ant
+bahukusumābati	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+mahāpuruṣa	n
+.	punc
+
+chi	num
+su	p.interrog
+juyiva	v.np
+.	punc
+
+chāya	adv.inter
+thana	n
+(fn15a)	fol
+vayā	v.perf.part
+.	punc
+
+bho	interj
+mānuṣya	n
+ati	adv.deg
+āścarya	adj
+gathya	adv.inter
+vayā	v.perf.part
+.	punc
+
+sunā	p.interrog
+na	case.erg
+boṅāva	cv.ant
+hara	v.perf.past
+.	punc
+
+cha	num
+su	p.interrog
+khava	v.impst
+.	punc
+
+ganaṃ	adv.rel
+vayā	v.perf.part
+dhaka	v.dhak
+dhāraṃ	v.perf.past
+.	punc
+
+thva	d.dem
+rājā	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+sundarī	adj
+ṅehune	v.n
+.	punc
+
+ji	p.pers
+rā	cl.inter
+jurasā	cv.cond
+jambūdvīpa	n
+yā	case.gen
+bikramādita	n
+rājā	n
+yā	case.gen
+kāya	v
+thukā	evid
+.	punc
+
+ji	p.pers
+camāju	n
+na	case.erg
+hata	n
+yāṅāva	cv.ant
+.	punc
+
+bahukusuma	n.prop
+svāna	n
+kāla	n
+vayā	v.perf.part
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+bahukusumābati	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+rājācā	n
+bahukusuma	n
+svāna	n
+ji	p.pers
+thukā	evid
+dhāyāva	cv.ant
+.	punc
+
+svāna	n
+ni	cl.focus
+phola	n
+yava	v.impst
+dhakaṃ	v.dhak
+biyāva	cv.ant
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+mānuṣya	n
+huni	v.ipv
+huni	v.ipv
+dhakaṃ	v.dhak
+dhāraṃ	v.perf.past
+.	punc
+
+thana	n
+rākṣasa	n
+yā	case.gen
+thāya	n
+.	punc
+
+thva	d.dem
+ujhāna	n
+sa	case.loc.inan
+indra	n.prop
+yā	case.gen
+rākṣasa	n
+na	case.erg
+piyakāva	cv.ant
+tala	v.perf.past
+.	punc
+
+ji	p.pers
+dhālasā	cv.cond
+apasarā	n
+thukā	evid
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+rājācā	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+kusumābati	n
+ji	p.pers
+kalāta	n
+ma	neg
+du	v.impst
+.	punc
+
+chiva	num
+jiva	p.pers
+bibahāra	n
+yāya	v.n
+nuyo	v.perf.past
+dhāyāva	cv.ant
+bahukusumābati	n
+na	case.erg
+ati	adv.deg
+harṣamāna	adj
+yāṅāva	cv.ant
+ṅherā	cv.cond
+.	punc
+
+kusumābati	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+amathya	n
+lā	cl.inter
+julasā	cv.cond
+biśvā	n
+sa	case.loc.inan
+bihuni	v.ipv
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+thithim	adj
+biśvā	n
+sa	case.loc.inan
+biyāva	cv.ant
+ni	num
+mha	cs.anim
+mahā	adj
+sukhana	adv.man
+krīḍā	n
+yāṅāva	cv.ant
+conaṃ	v.perf.past
+||	punc
+
+cha	num
+nhu	num.time
+yā	case.gen
+dina	n
+sa	case.loc.inan
+thva	d.dem
+rākṣasa	n
+na	case.erg
+ṅanaṃ	v.perf.past
+.	punc
+
+bho	interj
+kusumābati	n
+thani	adv.temp
+yā	case.gen
+rātri	n
+sa	case.loc.inan
+manuṣya	n
+na	case.erg
+vava	v.impst
+.	punc
+
+su	p.interrog
+vala	v.perf.past
+dhakaṃ	v.dhak
+ṅanaṃ	v.perf.past
+.	punc
+
+kusumābati	n
+na	case.erg
+dhāraṃ	v.perf.past
+bho	interj
+ajāju	n
+thathiṃṅa	p.correl
+athāhā	n
+samudra	n
+pāra	n
+yāṅaṃ	v.perf.past
+su	p.interrog
+vayiva	v.np
+.	punc
+
+sunuṃ	p.indef
+ma	neg
+khate	v.n
+.	punc
+
+dhakaṃ	v.dhak
+kusumābati	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+rājā	n
+thva	d.dem
+rākṣasa	n
+na	case.erg
+manuṣya	n
+yāna	v.impst
+vava	v.impst
+dhakaṃ	v.dhak
+sora	n
+juva	v.impst
+.	punc
+
+chiji	n
+bisya	v.co
+vane	v.n
+nuyo	v.perf.past
+dhakaṃ	v.dhak
+kusumābati	n
+na	case.erg
+rājā	n
+yāta	case.dat
+dhāraṃ	v.perf.past
+.	punc
+
+thvate	p.anaphor
+samadhāra	n
+yāṅāva	cv.ant
+ni	num
+mhaṃ	cs.anim
+bisya	v.co
+vaṅāva	cv.ant
+samudra	n
+thitā	n
+thyanakāva	cv.ant
+durgābanaṃ	adv.man
+vava	cv.coin
+bela	n
+sa	case.loc.inan
+nhāpā	adv.temp
+yā	case.gen
+rānī	n
+rūmaṅāva	cv.ant
+rājā	n
+kusumābati	n
+sahita	post.abs
+rānicā	n
+yā	case.gen
+che	p.pers
+vaṅā	v.perf.part
+.	punc
+
+thva	d.dem
+rānīcā	n
+na	case.erg
+rājā	n
+yā	case.gen
+caraṇakamala	n
+sa	case.loc.inan
+bhoka	n
+puyava	cv.ant
+boṅāva	cv.ant
+yanaṃ	v.perf.past
+||	punc
+
+anega	d.quant
+pā	cs.flat
+na	case.erg
+pakavā	n
+na	case.erg
+ṅhepa	n
+cyākāva	cv.ant
+ādara	n
+yāṅāva	cv.ant
+nhāpāṃ	adv.temp
+saṃbhāṣaṇa	n
+yāṅāva	cv.ant
+conaṃ	v.perf.past
+||	punc
+
+thana	adv.man
+pya	num
+nhu	cs.time
+cyā	v.perf.part
+nhu	cs.time
+līva	cv.ant
+rājā	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+tādato	interj
+ji	p.pers
+babuju	n
+yā	case.gen
+jyā	n
+vayā	v.perf.part
+.	punc
+
+ji	p.pers
+babuju	n
+gathya	adv.inter
+coṅa	v.impst
+khe	v.n
+dhakaṃ	v.dhak
+*rānīcā	n
+yāke	case.loc.an
+fn44	fol
+belā	n
+phoṅā	v.perf.part
+.	punc
+
+thva	d.dem
+rānīcā	n
+na	case.erg
+dhāraṃ	v.perf.past
+bho	interj
+prabhu	n
+prāṇadātā	n
+ji	p.pers
+sikamha	p.correl
+mvācakumha	p.correl
+chalapola	p.pers
+bijyātaṅāva	cv.ant
+ji	p.pers
+ma	neg
+boṅāva	cv.ant
+chāya	adv.inter
+dhakaṃ	v.dhak
+svamham	v.perf.past
+nāpaṃ	post.ass
+vanaṃ	v.perf.past
+.	punc
+
+anega	d.quant
+bastubhāva	cv.ant
+jvaṅāva	cv.ant
+svamha	p.correl
+nāpa	post.abs
+vanaṃ	v.perf.past
+||	punc
+
+thvana	adj.conj
+ri	cv.anter
+mahā	adj
+nagara	n
+cha	num
+guli	cs.inan
+thyaṅāva	cv.ant
+nhāpā	adv.temp
+yā	case.gen
+kha	n
+rumaṅāva	cv.ant
+thva	d.dem
+deśa	n
+sa	case.loc.inan
+*svamhaṃ	adv.place
+(fn15b)	fol
+duhā	n
+vaṅāva	cv.ant
+nhāpā	adv.temp
+yā	case.gen
+kalāta	n
+rumaṅāva	cv.ant
+kalāta	n
+yā	case.gen
+che	n
+sa	case.loc.inan
+duhā	n
+vaṅāva	cv.ant
+.	punc
+
+bicāra	n
+yātaṃ	v.perf.past
+.	punc
+
+hanaṃ	adv.conj
+kalāta	n
+na	case.erg
+bicāra	n
+yātaṃ	v.perf.past
+.	punc
+
+bho	interj
+puruṣa	n
+bijyāya	v.n
+dhuna	v.impst
+rā	cl.inter
+.	punc
+
+bijyāhune	v.ipv
+dhakaṃ	v.dhak
+li	cv.anter
+cāyakāva	cv.ant
+caraṇakamala	n
+sa	case.loc.inan
+bhoka	n
+puyāva	cv.ant
+tale	v.n
+thāhā	adv.dir
+bijyācakāva	cv.ant
+nānā	d.quant
+upabhoga	n
+yācakāva	cv.ant
+ānanda	n
+na	case.erg
+conaṃ	v.perf.past
+||	punc
+
+thanaṃ	adv.conj
+li	cv.anter
+pya	num
+nhu	cs.time
+cyā	v.perf.part
+nhu	cs.time
+līva	cv.ant
+thva	d.dem
+rājā	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+chī	n
+strī	n
+.	punc
+
+ji	p.pers
+thathya	adv.man
+coṅe	v.n
+ma	neg
+ṣuto	v.perf.past
+.	punc
+
+babuju	n
+yā	case.gen
+uddeśanā	n
+vayā	v.perf.part
+.	punc
+
+āva	adv.temp
+ji	p.pers
+babuju	n
+gathya	adv.inter
+cona	n
+khye	v.n
+dhakaṃ	v.dhak
+dhāsyaṃ	v.co
+belā	n
+kāyāva	cv.ant
+vane	v.n
+teṅā	v.perf.part
+bela	n
+sa	case.loc.inan
+rānī	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+prabhu	n
+svāmi	n
+chalapola	p.pers
+yā	case.gen
+biśvā	n
+sana	n
+ji	p.pers
+coṅā	v.perf.part
+.	punc
+
+ji	p.pers
+nāpaṃ	post.ass
+boṅaṃ	adv.place
+yane	v.n
+māla	v.perf.past
+dhaka	v.dhak
+dhāsyaṃ	v.co
+pyamhaṃ	n
+nāpaṃ	post.ass
+vanaṃ	v.perf.past
+.	punc
+
+thana	n
+rasa	n
+vayā	v.perf.part
+bela	n
+sa	case.loc.inan
+bhojapuri	n
+dhāyā	v.perf.part
+deśa	n
+sa	case.loc.inan
+thyaṅāva	cv.ant
+nhāpā	adv.temp
+yā	case.gen
+kalāta	n
+lumaṅāva	cv.ant
+.	punc
+
+thva	d.dem
+deśa	n
+sa	case.loc.inan
+duhā	n
+vaṅāva	cv.ant
+kalāta	n
+yā	case.gen
+che	p.pers
+duhā	n
+vaṅāva	cv.ant
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+chi	num
+strī	n
+chu	p.interrog
+yāṅā	v.perf.part
+dhāsyaṃ	v.co
+bicāra	n
+yāṅāva	cv.ant
+ānanda	n
+na	case.erg
+sukhana	adv.man
+coṅā	v.perf.part
+bela	n
+sa	case.loc.inan
+.	punc
+
+thva	d.dem
+bikramakeśari	n
+rājā	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+chi	num
+priya	adj
+.	punc
+
+ji	p.pers
+thathya	adv.man
+coṅe	v.n
+ma	neg
+khato	v.perf.past
+.	punc
+
+babuju	n
+gathe	v.n
+cona	v.impst
+khye	v.n
+dhaka	v.dhak
+dhāsyaṃ	v.co
+vapa	n
+daṅā	v.perf.part
+bela	n
+sa	case.loc.inan
+rānīcā	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+prabhu	n
+svāmī	n
+ji	p.pers
+jība	n
+yā	case.gen
+nāth	n
+.	punc
+
+chalapola	p.pers
+bijyāsyaṃ	adv.conj
+li	cv.anter
+ji	p.pers
+ga	n
+na	case.erg
+vane	v.n
+ga	n
+na	case.erg
+cone	v.n
+dhāsyaṃ	v.co
+samasta	d.quant
+drabya	n
+sahita	post.abs
+yāṅāva	cv.ant
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+prabhu	n
+svāmī	n
+.	punc
+
+chalapola	p.pers
+yā	case.gen
+biśvā	n
+sana	n
+ji	p.pers
+coṅā	v.perf.part
+.	punc
+
+ji	p.pers
+nāpaṃ	post.ass
+vaya	v.n
+dhaka	v.dhak
+dhāsyaṃ	v.co
+ṅāmhaṃ	n
+nāpaṃ	post.ass
+vanaṃ	v.perf.past
+.	punc
+
+thana	adv.conj
+lasa	n
+bāsa	n
+yāya	v.n
+ta	case.dat
+gvasāra	n
+yāṅāva	cv.ant
+nāmhaṃ	p.correl
+muṅāva	cv.ant
+coṅā	v.perf.part
+bela	n
+sa	case.loc.inan
+rājā	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+chi	num
+kalāta	n
+pani	case.abs.h.pl
+āva	adv.temp
+chiji	n
+sa	case.loc.inan
+thithi	n
+biśvā	n
+sana	n
+ekaśarīraṃ	v.perf.past
+yāṅāva	cv.ant
+vaye	v.n
+dhuna	v.impst
+.	punc
+
+āva	adv.temp
+ganaṃ	adv.rel
+gugu	p.indef
+thāsaṃ	n
+ma	neg
+juvakāle	v.n
+julasā	cv.cond
+ji	p.pers
+mṛtya	n
+julasā	cv.cond
+.	punc
+
+thva	d.dem
+*gaṃgācāmala	n
+na	case.erg
+fn45	fol
+gārāva	cv.ant
+mvācake	v.n
+jiva	v.perf.past
+dhāsyaṃ	v.co
+kalātapanita	n
+kanaṃ	v.perf.past
+.	punc
+
+jamunācāmala	n
+na	case.erg
+gārasā	cv.cond
+mvākamha	p.correl
+sika	n
+.	punc
+
+mahā	adj
+mahā	adj
+bhaya	n
+datasā	cv.cond
+.	punc
+
+thva	d.dem
+kāṣṭapādalakāma	n
+na	case.erg
+ṅhāṅāva	cv.ant
+bosye	n
+vane	v.n
+jīva	n
+dhakaṃ	v.dhak
+samasta	d.quant
+kaṅāva	cv.ant
+talaṃ	v.perf.past
+||	punc
+
+thvayāṃ	n
+sati	n
+ṣunu	n
+ṅāmhaṃ	adv.place
+vaṅā	v.perf.part
+bela	n
+sa	case.loc.inan
+.	punc
+
+kijāva	cv.ant
+bhākhā	n
+yāṅaṃ	v.co
+tāthā	v.perf.part
+thāya	n
+sa	case.loc.inan
+dvakā	n
+sa	case.loc.inan
+thyaṅāva	cv.ant
+kijā	n
+nāpa	post.abs
+rātaṃ	v.perf.past
+.	punc
+
+thana	n
+kijāva	cv.ant
+nāpa	post.abs
+coṅāva	cv.ant
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+chi	num
+dāju	n
+chana	p.pers
+babuju	n
+yā	case.gen
+bahukusuma	n
+svāna	n
+yā	case.gen
+kārya	n
+oṅa	v.impst
+ma	neg
+ṣu	v.impst
+khaṃ	n
+.	punc
+
+pīlabhota	n
+khaṃ	n
+svala	v.perf.past
+jula	v.perf.past
+.	punc
+
+pīlabhota	n
+gvamha	p.correl
+jvaṅāva	cv.ant
+bijyāṅā	v.perf.part
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+ṅeṅāva	cv.ant
+dāju	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+kijāju	n
+ji	p.pers
+na	case.erg
+rā	cl.inter
+julasā	cv.cond
+babuju	n
+yā	case.gen
+kārya	n
+vayā	v.perf.part
+khava	adj
+dhāyaṃ	v.co
+teva	v.impst
+ma	neg
+ṣu	v.impst
+dhāyaṃ	v.co
+teva	v.impst
+.	punc
+
+chana	p.pers
+gathye	adv.inter
+khava	v.impst
+dhāyāva	cv.ant
+ji	p.pers
+thva	d.dem
+khaṅa	v.impst
+rā	cl.inter
+dhaka	v.dhak
+(fn16a)	fol
+dhāsyaṃ	v.co
+nānā	d.quant
+prakāra	n
+yā	case.gen
+svāna	n
+kenaṃ	v.perf.past
+.	punc
+
+thana	n
+dāju	n
+na	case.erg
+lāpā	n
+dāyāva	cv.ant
+ṅhelaṃ	v.perf.past
+.	punc
+
+gathiṃgu	adj
+āścarya	adj
+are	interj
+kijā	n
+āmo	d.dem
+bahukusuma	n
+svāna	n
+ma	neg
+ṣu	v.impst
+.	punc
+
+thva	d.dem
+khaṅa	v.impst
+rā	cl.inter
+.	punc
+
+bahukusuma	n.prop
+svāna	n
+ma	neg
+ṣu	v.impst
+.	punc
+
+thva	d.dem
+khaṅa	v.impst
+rā	cl.inter
+.	punc
+
+bahukusuma	n
+svāna	n
+dhāyāgū	n
+pratyakṣanaṃ	v.perf.past
+kenaṃ	v.perf.past
+||	punc
+
+thana	adv.man
+kijā	n
+na	case.erg
+bhārapā	v.perf.part
+.	punc
+
+gathiṃgū	adv.inter
+āścarya	adj
+āva	adv.temp
+ji	p.pers
+na	case.erg
+chu	p.indef
+khvāla	n
+na	case.erg
+babu	n
+yā	case.gen
+khvāla	n
+svaya	v.n
+dhāsyaṃ	v.co
+aṃdora	n
+yāsyaṃ	v.co
+conaṃ	v.perf.past
+||	punc
+
+thana	n
+kijā	n
+na	case.abl
+pāpātmā	n
+jāyarapāva	cv.ant
+bhārapā	v.perf.part
+.	punc
+
+thani	adv.temp
+yā	case.gen
+rātri	n
+sa	case.loc.inan
+ṅheda	n
+sāpuri	n
+sa	case.loc.inan
+dāju	n
+syāṅāva	cv.ant
+.	punc
+
+thva	d.dem
+svāna	n
+kāyāva	cv.ant
+.	punc
+
+che	p.pers
+vane	v.n
+.	punc
+
+babujuvā	n
+ke	case.loc.an
+jasa	adj
+kāya	n
+prasāda	n
+kāya	v.n
+bhārapaṃ	v.co
+jāgartta	n
+yāṅaṃ	v.perf.past
+coṅāva	cv.ant
+rātri	n
+juyāva	cv.ant
+dāju	n
+yā	case.gen
+ṅheda	n
+vara	v.perf.past
+.	punc
+
+pīlabhota	n
+pani	case.abs.h.pl
+pyamhasayāṃ	case.erg.h
+ṅheda	n
+vava	cv.coin
+bela	n
+sa	case.loc.inan
+jamadara	n
+na	case.erg
+suyāva	cv.ant
+.	punc
+
+dāju	n
+syāka	n
+julo	v.perf.past
+.	punc
+
+thana	n
+cānhasaṃ	v.co
+bahukusuma	n
+svāna	n
+jvaṅāva	cv.ant
+besya	v.co
+vanaṃ	v.perf.past
+||	punc
+
+thana	n
+na	case.erg
+saṅāva	cv.ant
+rānīcā	n
+cha	num
+mha	cs.anim
+sena	case.erg.h
+saratā	v.perf.part
+.	punc
+
+bho	interj
+rānī	n
+pani	case.abs.h.pl
+dahune	v.n
+hune	v.n
+dhakaṃ	v.dhak
+thaṅāva	cv.ant
+soraṅāsyaṃ	cv.as
+puruṣa	n
+sīka	v.impst
+svayāva	cv.ant
+mahā	adj
+bilāpa	n
+yātaṃ	v.perf.past
+.	punc
+
+thana	adv.conj
+kusumābati	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+āsya	n
+āsya	v.co
+khoya	v.n
+ma	neg
+tele	v.n
+.	punc
+
+jhijhi	n
+sa	case.loc.inan
+upāya	n
+ma	neg
+du	v.impst
+rā	cl.inter
+dhāsyaṃ	v.co
+gaṃgācāmala	n
+na	case.erg
+gārāva	cv.ant
+mvācake	v.n
+jiva	v.perf.past
+dhāsyaṃ	v.co
+gaṃgācāmala	n
+na	case.erg
+gārāva	cv.ant
+mvācakāva	cv.ant
+conaṃ	v.perf.past
+.	punc
+
+thana	adv.man
+mālako	v.rel.part
+saṃbhāṣaṇā	n
+yāṅāva	cv.ant
+thananaṃ	adv.man
+gama	n
+na	case.erg
+yāka	v.impst
+||	punc
+
+bāsanaṃ	adv.conj
+bāsa	n
+vayāva	cv.ant
+thava	p.refl
+rājya	n
+thyanakāva	cv.ant
+rājā	n
+yā	case.gen
+prajā	n
+yā	case.gen
+paramāna	n
+yā	case.gen
+samasta	d.quant
+loka	n
+fn46	fol
+muṅāva	cv.ant
+la	n
+svara	n
+varaṃ	v.perf.past
+.	punc
+
+thana	adv.man
+mahā	adj
+jātrā	n
+yāṅāva	cv.ant
+thava	p.refl
+rājya	n
+duhā	n
+vaṅāva	cv.ant
+babuju	n
+yā	case.gen
+caraṇa	n
+sa	case.loc.inan
+sebā	n
+yāṅāva	cv.ant
+conaṃ	v.perf.past
+.	punc
+
+thana	adv.conj
+babuju	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+dhanya	adj
+dhanya	adj
+bikramakeśala	n
+.	punc
+
+bahukusuma	n
+svāna	n
+kāra	n
+vane	v.n
+dhakaṃ	v.dhak
+aṃgīkāra	n
+yākamha	n
+.	punc
+
+thava	p.refl
+ta	case.dat
+kalāta	n
+khaṃ	n
+kāra	n
+vanaṃ	v.perf.past
+.	punc
+
+dhanya	adj
+dhanya	adj
+cha	num
+dhakaṃ	v.dhak
+hātaṃ	v.perf.past
+.	punc
+
+thana	n
+bikramakeśala	n
+mahā	adj
+duḥkha	n
+na	case.erg
+conaṃ	v.perf.past
+||	punc
+
+thana	adv.man
+li	cv.anter
+babu	n
+na	case.erg
+kijāmhayāta	n
+dhanya	adj
+prasāda	n
+bilam	v.perf.past
+.	punc
+
+bho	interj
+bikramakeśala	n
+.	punc
+
+chana	p.pers
+kijā	n
+na	case.erg
+bahukusuma	n
+svāna	n
+hayāva	cv.ant
+ji	p.pers
+udhāra	n
+yāto	v.perf.past
+.	punc
+
+chana	p.pers
+ji	p.pers
+kārya	n
+vaṅa	v.impst
+ma	neg
+ṣu	v.impst
+.	punc
+
+chana	p.pers
+thava	p.refl
+ta	case.dat
+kalāta	n
+vana	v.perf.past
+.	punc
+
+ji	p.pers
+putra	n
+dhāya	v.n
+kijāmha	p.correl
+thiṃṅa	adv.deg
+ma	neg
+du	v.impst
+.	punc
+
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+bikramakeśala	n.prop
+duḥkha	n
+na	case.erg
+conaṃ	v.perf.past
+.	punc
+
+kijāmha	p.correl
+rājā	n
+yāya	v.n
+dhāstunu	n
+bikramakeśari	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+are	interj
+(fn16b)	fol
+nirṇaya	v.n
+ma	neg
+du	v.impst
+babuju	n
+.	punc
+
+kijā	n
+na	case.erg
+ha	n
+yā	case.gen
+svāna	n
+sunā	p.interrog
+na	case.erg
+hala	n
+.	punc
+
+thathiṃgū	adj
+mahā	adj
+duḥkha	n
+siyāva	cv.ant
+mahā	adj
+samudra	n
+yā	case.gen
+itā	n
+sa	case.loc.inan
+vaṅāva	cv.ant
+rākṣasa	n
+yāke	case.loc.an
+kāyāva	cv.ant
+ji	p.pers
+na	case.erg
+keṅā	v.perf.part
+.	punc
+
+thana	adv.man
+kijā	n
+na	case.erg
+dhāra	v.perf.past
+.	punc
+
+bho	interj
+chi	num
+dāju	n
+chana	p.pers
+babuju	n
+yā	case.gen
+upadeśa	n
+bahukusumasvāna	n
+kāra	n
+vaṅa	v.impst
+ma	neg
+ṣu	v.impst
+khaṃ	n
+pīlabhota	n
+khaṃ	n
+māra	v.impst
+jula	v.perf.past
+dhāyāva	cv.ant
+ji	p.pers
+na	case.erg
+thva	d.dem
+svāna	n
+ma	neg
+khu	v.impst
+rā	cl.inter
+bahukusuma	n
+svāna	n
+dhaka	v.dhak
+ji	p.pers
+na	case.erg
+keṅā	v.perf.part
+.	punc
+
+thana	adv.man
+kijā	n
+yā	case.gen
+khvāra	n
+cava	v.np
+ma	neg
+kaṃsyaṃ	v.co
+conāva	cv.ant
+banāṃtara	n
+sa	case.loc.inan
+rātri	n
+yā	case.gen
+samaya	n
+sa	case.loc.inan
+ja	p.pers
+syāṅāva	cv.ant
+ji	p.pers
+na	case.erg
+ha	n
+yā	case.gen
+bahukusuma	n
+svāna	n
+jvaṅāva	cv.ant
+cānaṃ	adv.place
+bisye	v.n
+valaṃ	v.perf.past
+||	punc
+
+thana	adv.man
+ji	p.pers
+na	case.erg
+kalātapanita	n
+saṃjībanimaṃtra	n
+syaṅāva	cv.ant
+tayā	v.perf.part
+du	v.impst
+.	punc
+
+thva	d.dem
+maṃtra	n
+na	case.erg
+ji	p.pers
+mvācakāva	cv.ant
+jība	n
+uddhāra	n
+yāṅāva	cv.ant
+ji	p.pers
+rihā	n
+vayā	v.perf.part
+.	punc
+
+āva	adv.temp
+kijā	n
+na	case.erg
+ha	n
+yā	case.gen
+svāna	n
+ra	cl.inter
+chiyā	v.perf.part
+ra	cl.inter
+na	case.erg
+ha	n
+yā	case.gen
+sukhuri	n
+svāna	n
+.	punc
+
+ji	p.pers
+na	case.erg
+rā	cl.inter
+jurasā	cv.cond
+mā	v.ipv
+tapaṃ	v.co
+lvaca	n
+phyāṅaṃ	cv.advs
+ha	n
+yā	case.gen
+.	punc
+
+chalapora	n
+na	case.abl
+thvayāva	cv.ant
+śarīra	n
+sa	case.loc.inan
+yako	interj
+chuva	v.np
+dhakaṃ	v.dhak
+babujuyāta	n
+dhāraṃ	v.perf.past
+.	punc
+
+thana	n
+babumha	n
+rājā	n
+ati	adv.deg
+kautuka	n
+cāyāva	cv.ant
+dhāraṃ	v.perf.past
+.	punc
+
+gathiṃgū	adv.inter
+āścaryakha	n
+lhāto	v.perf.past
+.	punc
+
+sikamha	p.correl
+gathya	p.correl
+mvāṅaṃ	v.co
+vayā	v.perf.part
+.	punc
+
+svāna	n
+cha	num
+phola	n
+mahā	adj
+dullabhā	n
+mā	v.ipv
+tapaṃ	v.co
+ha	n
+yā	case.gen
+dhakaṃ	v.dhak
+ji	p.pers
+heya	n
+ke	case.loc.an
+tenā	v.perf.part
+rā	cl.inter
+dhakaṃ	v.dhak
+dhālaṃ	v.perf.past
+.	punc
+
+thana	n
+bikramakeśalinaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+babuju	n
+phatasā	cv.cond
+gathya	adv.inter
+khava	v.impst
+.	punc
+
+ma	neg
+phatasā	cv.cond
+thva	d.dem
+rājya	n
+na	case.erg
+pi	adv.dir
+tiṅāva	cv.ant
+chova	v.ipv
+.	punc
+
+thana	n
+babunaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+ale	v.n
+fn47	fol
+jyeṣṭa	adj
+putra	n
+bikramakeśali	adj
+.	punc
+
+phatasā	n
+thva	d.dem
+rājya	n
+chana	p.pers
+ta	case.dat
+dhālaṃ	v.perf.past
+.	punc
+
+ma	neg
+phatasā	cv.cond
+dhikkāra	n
+dhālaṃ	v.perf.past
+.	punc
+
+thana	n
+bikramakeśali	n
+rājā	n
+naṃ	case.erg
+kebalya	adv.deg
+kusumābati	n
+boṅāva	cv.ant
+toyu	v.n
+gā	n
+na	case.erg
+puyāva	cv.ant
+tayāva	cv.ant
+lucatāka	n
+na	case.erg
+dāyāva	cv.ant
+.	punc
+
+thana	adv.man
+babujuṃ	v.perf.past
+.	punc
+
+caṃājuṃ	v.perf.past
+.	punc
+
+kijājuṃ	v.perf.past
+.	punc
+
+boṅāva	cv.ant
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+babuju	n
+dhāsyaṃ	v.co
+toyu	v.n
+gā	adv.deg
+ulāva	cv.ant
+kenaṃ	v.perf.past
+.	punc
+
+thana	n
+dibyasugaṃdha	n
+puṣpa	n
+toyisya	v.co
+hoyakāva	cv.ant
+kenaṃ	v.perf.past
+yatole	v.n
+thvayāva	cv.ant
+.	punc
+
+ānanda	n
+na	case.erg
+chuka	adj
+julo	v.perf.past
+.	punc
+
+thana	adv.conj
+babu	n
+rājā	n
+naṃ	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+putra	n
+dhanya	adj
+dhanya	adj
+.	punc
+
+chathiṃṅa	v.impst
+putra	n
+ma	neg
+du	v.impst
+khava	v.impst
+.	punc
+
+āvanaṃ	adv.conj
+li	cv.anter
+yā	case.gen
+rājyaṃ	v.perf.past
+.	punc
+
+dhanaṃ	v.perf.past
+.	punc
+
+bastubhāba	n
+dayāva	cv.ant
+.	punc
+
+cokvaṃ	adv.conj
+chana	p.pers
+ta	case.dat
+julo	v.perf.past
+dhaka	v.dhak
+dhāsyaṃ	v.perf.past
+.	punc
+
+bikramakeśali	adj
+rājā	n
+sālāva	cv.ant
+mahā	adj
+sukhana	adv.man
+conaṃ	v.perf.past
+.	punc
+
+*padmakeśali	n
+(fn17a)	fol
+kijāju	n
+duḥkhanaṃ	v.perf.past
+conaṃ	v.perf.past
+||	punc
+
+bho	interj
+rājā	n
+bhojadeba	n
+ṅehune	v.n
+.	punc
+
+thathiṅa	p.correl
+parākrama	n
+thulasā	cv.cond
+.	punc
+
+thva	d.dem
+siṃhāsana	n
+sa	case.loc.inan
+cha	num
+cone	v.n
+teva	v.ipv
+dhakaṃ	v.dhak
+putrikā	n
+cha	num
+mha	cs.anim
+bosya	v.co
+vanaṃ	v.perf.past
+||	punc
+
+4	num.ar
+||	punc
+
+IV	n.prop
+punarbāra	adv.conj
+putrikā	n
+na	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+rājā	n
+bhojadeba	n
+ṅao	v.ipv
+.	punc
+
+bikramāditya	n
+yā	case.gen
+kāya	v.n
+padmakeśali	n
+nāma	n
+rājaputranaṃ	adv.place
+babuju	n
+yāke	case.loc.an
+bimati	n
+yāka	v.impst
+.	punc
+
+bho	interj
+babuju	n
+chalapolasye	v.n
+na	cl.focus
+āmo	d.dem
+kha	n
+t	n
+yā	case.gen
+chiya	n
+teva	v.ipv
+.	punc
+
+khayakaṃ	adv.conj
+t	n
+yā	case.gen
+chitasā	n
+satyabācī	n
+juro	v.perf.past
+.	punc
+
+ma	neg
+khayakaṃ	v.perf.past
+t	n
+yā	case.gen
+chitasā	n
+mahā	adj
+pāpa	n
+na	case.erg
+puniva	v.np
+dhakaṃ	v.dhak
+kāya	v.n
+na	case.erg
+babujuvāta	n
+hātaṃ	v.perf.past
+||	punc
+
+thana	n
+hāṅānaṃ	adv.conj
+kha	n
+ma	neg
+nyaṅāva	cv.ant
+thva	d.dem
+rājācā	n
+na	case.erg
+bhārapā	v.perf.part
+.	punc
+
+āva	adv.temp
+thana	n
+coṅāva	cv.ant
+chāya	adv.inter
+dhakaṃ	v.dhak
+deśāṃtara	n
+vanaṃ	v.perf.past
+||	punc
+
+tākālaṃ	v.perf.past
+deśāṃtara	n
+juyāva	cv.ant
+cha	num
+nhu	cs.time
+yā	case.gen
+dina	n
+sa	case.loc.inan
+thva	d.dem
+rājācā	n
+na	case.erg
+bhārapā	v.perf.part
+.	punc
+
+āva	adv.temp
+ji	p.pers
+babuju	n
+na	case.erg
+uthyanaṃ	v.perf.past
+kha	n
+t	n
+yā	case.gen
+chīka	n
+rā	cl.inter
+ma	neg
+chīka	v.perf.past
+rā	cl.inter
+kha	n
+dhakaṃ	v.dhak
+thava	p.refl
+rājya	n
+sa	case.loc.inan
+lihā	adv.dir
+vayāva	cv.ant
+thava	p.refl
+babuju	n
+yā	case.gen
+caritra	n
+sola	n
+vanaṃ	v.perf.past
+.	punc
+
+thana	adv.conj
+baniyā	n
+yā	case.gen
+pasala	n
+sa	case.loc.inan
+conaṃ	v.perf.past
+.	punc
+
+fn48	fol
+thana	n
+nhi	n
+chi	num
+vanaṃ	v.perf.past
+.	punc
+
+bahanī	n
+juyāva	cv.ant
+pasala	n
+du	v.impst
+kāyāva	cv.ant
+baniyānaṃ	v.perf.past
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+gusāhī	n
+cha	p.pers
+ji	p.pers
+che	p.pers
+vane	v.n
+vāyo	v.ipv
+dhakaṃ	v.dhak
+boṅaṃ	n
+yaṅāva	cv.ant
+thava	p.refl
+che	n
+sa	case.loc.inan
+duta	adv.dir
+bonāva	cv.ant
+ṣarca	n
+biyāva	cv.ant
+talaṃ	v.perf.past
+.	punc
+
+thana	n
+bāsa	n
+yāṅā	v.perf.part
+conaṃ	v.perf.past
+||	punc
+
+thva	d.dem
+baniyā	n
+yā	case.gen
+kalāta	n
+ni	num
+mha	cs.anim
+dava	v.impst
+.	punc
+
+cha	num
+mha	cs.anim
+yā	case.gen
+kvathāṃ	adv.dir
+tale	v.n
+.	punc
+
+cha	num
+mha	cs.anim
+yā	case.gen
+kvathā	n
+kvanya	adj
+.	punc
+
+thva	d.dem
+kunhu	n
+tale	v.n
+sa	case.loc.inan
+coṅa	v.impst
+mha	cs.anim
+yā	case.gen
+pāla	n
+juyāva	cv.ant
+.	punc
+
+thva	d.dem
+baniyā	n
+tale	v.n
+sa	case.loc.inan
+dyanaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+.	punc
+
+cherī	n
+sa	case.loc.inan
+deṅamha	n
+yāke	case.loc.an
+parapuruṣa	n
+cha	num
+mha	cs.anim
+thva	d.dem
+misā	n
+yāke	case.loc.an
+levala	n
+valaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+misānaṃ	adv.conj
+khāpā	n
+khaṅāva	cv.ant
+du	v.impst
+kālaṃ	v.perf.past
+||	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+hatāsanaṃ	adv.temp
+vaṅāva	cv.ant
+teṅaṃ	v.perf.past
+tayā	v.perf.part
+mocā	n
+lyavalanaṃ	adv.man
+nhuyāva	cv.ant
+sīka	v.impst
+.	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+śṛṃgāra	n
+julaṃ	v.perf.past
+.	punc
+
+śṛṃgāla	n
+dhunakāva	cv.ant
+svayāva	cv.ant
+.	punc
+
+mocā	n
+sīka	v.impst
+khaṅāva	cv.ant
+thva	d.dem
+levalanaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+ale	v.n
+pāpa	n
+sta	n
+misā	n
+chana	p.pers
+dhāya	v.n
+mu	neg
+mvāla	v.impst
+lā	cl.inter
+.	punc
+
+āva	adv.temp
+ji	p.pers
+bālahath	n
+yāna	v.impst
+keno	v.perf.past
+.	punc
+
+āva	adv.temp
+gathya	adv.inter
+yāya	v.n
+dhakaṃ	v.dhak
+dhaṃdā	n
+kāyāva	cv.ant
+misānaṃ	v.perf.past
+dhāraṃ	v.perf.past
+.	punc
+
+aya	n
+bhāju	n
+chi	num
+chuṃ	p.indef
+dhaṃdā	n
+kāya	v.n
+mu	neg
+mvāre	v.n
+sukhanaṃ	v.perf.past
+disane	v.n
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+sukhanaṃ	v.perf.past
+conaṃ	v.perf.past
+||	punc
+
+nasacātī	n
+sa	case.loc.inan
+.	punc
+
+thva	d.dem
+levala	n
+na	case.erg
+.	punc
+
+aya	n
+misā	n
+chana	p.pers
+mālako	v.rel.part
+yāva	v.ipv
+dhaka	v.dhak
+hāṅaṃ	n
+tāthāva	cv.ant
+thava	p.refl
+che	n
+lihā	adv.dir
+vanaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+sīkamha	n
+mocā	n
+khvāla	n
+buvakāva	cv.ant
+sa	n
+*kakīcā	n
+na	case.erg
+(17b)	fol
+bāna	n
+lākāva	cv.ant
+mocā	n
+thyanyāva	cv.ant
+ākananaṃ	v.perf.past
+tiyakāva	cv.ant
+.	punc
+
+mocā	n
+yalapāva	cv.ant
+.	punc
+
+thva	d.dem
+misā	n
+laṃkha	n
+kāla	n
+vanaṃ	v.perf.past
+.	punc
+
+lihā	adv.dir
+vayāva	cv.ant
+thva	d.dem
+mocā	n
+salatalaṃ	v.perf.past
+.	punc
+
+aya	n
+putā	n
+māma	n
+vaya	v.n
+dhuno	v.perf.past
+.	punc
+
+khova	v.impst
+ma	neg
+teva	v.impst
+dhakaṃ	v.dhak
+nvānyāva	cv.ant
+dhālapo	interj
+ba	n
+sa	case.loc.inan
+tayāva	cv.ant
+du	v.impst
+hāyāva	cv.ant
+kholaṃ	v.perf.past
+.	punc
+
+hāya	n
+putā	n
+ji	p.pers
+kāya	v
+sunānaṃ	p.indef
+syāto	v.perf.past
+.	punc
+
+jinaṃ	adv.conj
+naka	n
+tini	interj
+thyanyāva	cv.ant
+tāthāmha	p.correl
+macā	n
+.	punc
+
+sunā	p.interrog
+na	case.erg
+syāta	v.perf.past
+vala	v.perf.past
+dhāsyaṃ	v.co
+khoyāva	cv.ant
+nvātaṃ	v.perf.past
+.	punc
+
+bho	interj
+pāpi	n
+sta	n
+ṅhethu	n
+.	punc
+
+chana	p.pers
+ji	p.pers
+kāya	v
+syāto	v.perf.past
+.	punc
+
+āva	adv.temp
+cha	p.pers
+bisya	v.co
+juyāṃ	case.gen
+pāra	n
+juyi	v.n
+lā	cl.inter
+.	punc
+
+dhakaṃ	v.dhak
+hātaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+ṅhethunaṃ	adv.conj
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+chī	num
+pāpi	n
+sta	n
+ji	p.pers
+na	case.erg
+chāya	adv.inter
+syāya	v.n
+.	punc
+
+chana	p.pers
+kāyanaṃ	adv.conj
+ji	p.pers
+kāya	v.n
+ma	neg
+khu	v.impst
+lā	cl.inter
+.	punc
+
+ji	p.pers
+kāyanaṃ	adv.conj
+chana	p.pers
+kāya	v.n
+ma	neg
+khu	v.impst
+lā	cl.inter
+.	punc
+
+dhāsyaṃ	v.co
+khoyāva	cv.ant
+conaṃ	v.perf.past
+.	punc
+
+thana	n
+baniyānaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+yā	case.gen
+kāyanaṃ	adv.conj
+chana	p.pers
+kāya	v.n
+.	punc
+
+chana	p.pers
+kāyanaṃ	adv.conj
+o	p.correl
+yā	case.gen
+kāya	v.n
+ma	neg
+khu	v.impst
+lā	cl.inter
+.	punc
+
+aya	n
+pāpa	n
+sta	n
+misā	n
+.	punc
+
+āva	adv.temp
+gathya	adv.inter
+fn49	fol
+yaya	n
+.	punc
+
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+ji	p.pers
+ghalasāla	n
+sarbasaṃ	v.co
+cha	p.pers
+panita	case.dat.h.pl
+lava	cv.ant
+lhāsyaṃ	v.co
+tayā	v.perf.part
+ma	neg
+khu	v.impst
+lā	cl.inter
+.	punc
+
+thathiṃgu	adj
+pahala	n
+julanyāva	cv.ant
+ji	p.pers
+sarbasaṃ	v.co
+phuyiva	cv.ant
+julo	v.perf.past
+dhakaṃ	v.dhak
+.	punc
+
+mahā	adj
+duḥkhanaṃ	adv.conj
+conaṃ	v.perf.past
+||	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+lithumhanaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+āva	adv.temp
+chiji	n
+thathya	adv.man
+cone	v.n
+ma	neg
+khuto	v.perf.past
+dhakāva	cv.ant
+rājasabhā	n
+sa	case.loc.inan
+vaṅāva	cv.ant
+phe	n
+rāta	n
+vane	v.n
+dhaka	v.dhak
+dhāsyaṃ	v.perf.past
+.	punc
+
+rājasabhā	n
+vanyāva	cv.ant
+pāragāmī	n
+yā	case.gen
+ṅhevane	post.gen
+vaṅāva	cv.ant
+lhātaṃ	v.perf.past
+.	punc
+
+bho	interj
+chi	num
+sabhāpati	n
+.	punc
+
+sabhāloka	n
+.	punc
+
+ji	p.pers
+misa	n
+kha	n
+nyasya	v.co
+bijyāhuni	v.ipv
+dhaka	v.dhak
+bimati	n
+yātaṃ	v.perf.past
+.	punc
+
+bho	interj
+sabhāloka	n
+thani	adv.temp
+yā	case.gen
+rātrī	n
+sa	case.loc.inan
+.	punc
+
+ji	p.pers
+puruṣa	n
+ṅhethu	n
+yā	case.gen
+pāla	n
+.	punc
+
+thaṃ	adv.dir
+sutha	n
+nhāpāṃ	adv.temp
+ji	p.pers
+kāya	v.n
+khvāla	n
+buyakāva	cv.ant
+sa	case.loc.inan
+chenyāva	cv.ant
+.	punc
+
+thyaṅaṃ	adv.conj
+tāthāva	cv.ant
+.	punc
+
+laṃkha	n
+kāla	n
+van	v.co
+yā	case.gen
+.	punc
+
+lihāṃ	d.quant
+vayāva	cv.ant
+.	punc
+
+svayānaṃ	adv.conj
+kāya	n
+siṅāva	cv.ant
+conaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+ji	p.pers
+kāya	v
+syāta	v.perf.past
+.	punc
+
+mebanaṃ	adv.conj
+ma	neg
+khu	v.impst
+.	punc
+
+ṅhethu	n
+na	case.erg
+syāka	n
+niścaya	n
+khava	v.impst
+.	punc
+
+thva	d.dem
+yā	case.gen
+bicāra	n
+yāya	v.n
+māla	v.perf.past
+.	punc
+
+dhakaṃ	v.dhak
+dhālaṃ	v.perf.past
+.	punc
+
+thvate	p.anaphor
+thva	d.dem
+yā	case.gen
+kha	n
+nyanyāva	cv.ant
+.	punc
+
+chabhi	n
+na	case.erg
+tayāva	cv.ant
+.	punc
+
+hano	interj
+ṅhethumha	n
+boṅāva	cv.ant
+ṅanaṃ	v.perf.past
+.	punc
+
+aya	n
+misāja	n
+na	case.erg
+.	punc
+
+thva	d.dem
+mocā	n
+chana	p.pers
+syāṅā	v.perf.part
+khava	v.impst
+lā	cl.inter
+.	punc
+
+gathya	adv.inter
+khava	v.impst
+.	punc
+
+dhaka	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thva	d.dem
+misā	n
+na	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+chi	num
+paṃca	num.skt
+sabhāloka	n
+pani	case.abs.h.pl
+thva	d.dem
+mocā	n
+jinaṃ	adv.freq
+syāṅā	v.perf.part
+datasā	cv.cond
+(fn18a)	fol
+debanaṃ	adv.place
+dharmanaṃ	v.perf.past
+siva	v.np
+.	punc
+
+ji	p.pers
+mocānaṃ	adv.conj
+vayā	v.perf.part
+mocā	n
+ma	neg
+khu	v.impst
+lā	cl.inter
+.	punc
+
+o	p.correl
+yā	case.gen
+mocānaṃ	adv.conj
+ji	p.pers
+mocā	n
+ma	neg
+khu	v.impst
+lā	cl.inter
+.	punc
+
+dhāyāva	cv.ant
+cha	num
+diga	n
+sa	case.loc.inan
+conaṃ	v.perf.past
+||	punc
+
+thvanaṃ	adv.conj
+li	cv.anter
+lithumha	n
+boṅāva	cv.ant
+sabhānaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+aya	n
+misāja	n
+na	case.erg
+ji	p.pers
+panisena	case.erg.h.pl
+t	n
+yā	case.gen
+chiya	n
+dhuna	v.impst
+dhakaṃ	v.dhak
+hātaṃ	v.perf.past
+.	punc
+
+āva	adv.temp
+cha	p.pers
+pani	case.abs.h.pl
+kha	n
+ṅane	v.n
+dhuna	v.impst
+.	punc
+
+chana	p.pers
+chālasā	cv.cond
+nibastra	n
+na	case.erg
+coṅāva	cv.ant
+.	punc
+
+thva	d.dem
+sabhā	n
+sva	num
+cākara	n
+ule	v.n
+chālasā	cv.cond
+.	punc
+
+chana	p.pers
+kha	n
+khava	v.impst
+julo	v.perf.past
+.	punc
+
+ma	neg
+chālasā	cv.cond
+chana	p.pers
+kha	v.impst
+ma	neg
+khu	v.impst
+dhāyāva	cv.ant
+.	punc
+
+thva	d.dem
+misānaṃ	adv.conj
+dhālaṃ	v.perf.past
+.	punc
+
+yathya	n
+julasāṃ	cl.top
+chālā	n
+khe	v.n
+dhāsyaṃ	v.co
+conaṃ	v.perf.past
+.	punc
+
+hanaṃ	adv.conj
+thva	d.dem
+misā	n
+chabhi	n
+na	case.erg
+tayāva	cv.ant
+ṅhethumha	n
+boṅāva	cv.ant
+sabhānaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+misāja	n
+na	case.erg
+.	punc
+
+chimi	n
+kha	n
+t	n
+yā	case.gen
+chiya	n
+dhuno	v.perf.past
+.	punc
+
+cha	p.pers
+niba	n
+sta	n
+yāṅāva	cv.ant
+thva	d.dem
+sabhā	n
+sva	num
+cākala	n
+ule	v.n
+chālasā	cv.cond
+cha	p.pers
+tyāka	n
+.	punc
+
+ma	neg
+chālasā	cv.cond
+cha	num
+buka	n
+dhāyāva	cv.ant
+.	punc
+
+chana	p.pers
+lithu	n
+na	case.erg
+chālā	n
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+vanaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+ṅhethumhanaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+sabhāloka	n
+.	punc
+
+fn50	fol
+pāla	n
+yāya	v.n
+amathya	adj
+jukva	v.rel.part
+data	v.perf.past
+lā	cl.inter
+.	punc
+
+meba	adj
+tā	cs.abs
+ma	neg
+du	v.impst
+lā	cl.inter
+.	punc
+
+phāta	n
+ile	v.n
+.	punc
+
+cika	n
+na	case.erg
+bāle	v.n
+.	punc
+
+ghata	n
+vāle	v.n
+.	punc
+
+laṃkha	n
+sa	case.loc.inan
+dune	v.n
+ma	neg
+du	v.impst
+lā	cl.inter
+||	punc
+
+āmoguli	n
+jukva	v.rel.part
+yāya	v.n
+māla	v.perf.past
+dhaka	v.dhak
+dhālasā	cv.cond
+.	punc
+
+yathyanaṃ	adv.conj
+ma	neg
+chālā	cv.cond
+.	punc
+
+yathya	n
+yāhune	v.n
+dhakaṃ	v.dhak
+dhālaṃ	v.perf.past
+.	punc
+
+thana	n
+lithu	n
+boṅāva	cv.ant
+sabhānaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+misāja	n
+na	case.erg
+.	punc
+
+chana	p.pers
+chālasā	adj
+āva	adv.temp
+telo	v.perf.past
+dhaka	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thva	d.dem
+misā	n
+na	case.erg
+.	punc
+
+gā	n
+.	punc
+
+la	n
+na	case.erg
+.	punc
+
+janī	n
+tolatāva	cv.ant
+.	punc
+
+patāsi	n
+yā	case.gen
+cota	n
+sāle	v.n
+te	v.ipv
+na	case.erg
+bela	n
+sa	case.loc.inan
+.	punc
+
+sabhāloka	n
+na	case.erg
+hātaṃ	v.perf.past
+.	punc
+
+bho	interj
+pāpiṣṭa	adj
+nilaj	n
+yā	case.gen
+misā	n
+.	punc
+
+chana	p.pers
+laj	n
+yā	case.gen
+mu	neg
+mvāla	v.impst
+lā	cl.inter
+.	punc
+
+chana	p.pers
+patāsi	n
+toya	v.n
+ma	neg
+te	v.ipv
+.	punc
+
+chana	p.pers
+satya	adv.man
+svaya	v.n
+dhuna	v.impst
+.	punc
+
+chaṃ	p.pers
+kha	n
+ma	neg
+khu	v.impst
+kha	n
+julo	v.perf.past
+.	punc
+
+chana	p.pers
+adharma	n
+julo	v.perf.past
+dhakaṃ	v.dhak
+hānyāva	cv.ant
+.	punc
+
+baniyā	n
+bonyāva	cv.ant
+hātaṃ	v.perf.past
+.	punc
+
+aya	n
+baniyā	n
+.	punc
+
+āma	d.dem
+laj	n
+yā	case.gen
+ma	neg
+du	v.impst
+misā	n
+asatya	n
+kha	n
+lhāka	v.impst
+misā	n
+.	punc
+
+chinaṃ	p.indef
+pi	adv.dir
+tiṅaṃ	v.co
+choya	v.n
+māla	v.perf.past
+dhakaṃ	v.dhak
+hānyāva	cv.ant
+.	punc
+
+pi	adv.dir
+tiṅaṃ	v.co
+choka	v.impst
+julo	v.perf.past
+||	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+baniyā	n
+yā	case.gen
+che	n
+sa	case.loc.inan
+coṅa	v.impst
+mha	cs.anim
+saṃnyāsinaṃ	adv.conj
+sabhā	n
+sa	case.loc.inan
+vanyāva	cv.ant
+.	punc
+
+babuju	n
+yā	case.gen
+ṅhevane	post.gen
+conyāva	cv.ant
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+chi	num
+babuju	n
+chalapola	p.pers.pl
+sena	case.erg.h
+satyanaṃ	adv.man
+t	n
+yā	case.gen
+chīka	n
+.	punc
+
+dhanya	adj
+dhanya	adj
+babuju	n
+.	punc
+
+thva	d.dem
+baniyā	n
+yā	case.gen
+lithumha	n
+kalāta	n
+yā	case.gen
+levalanaṃ	adv.man
+nhuyāva	cv.ant
+syāka	n
+khava	v.impst
+.	punc
+
+thathiṃmha	p.correl
+pāpiṣṭa	n
+misā	n
+.	punc
+
+āmo	d.dem
+thava	p.refl
+dokha	n
+yānyāva	cv.ant
+ṅhethuyāta	n
+pāla	n
+yākamha	n
+āmo	d.dem
+.	punc
+
+aya	n
+babuju	n
+.	punc
+
+chalapolasye	n
+na	case.erg
+ji	p.pers
+siva	cv.ant
+lā	cl.inter
+.	punc
+
+ma	neg
+siva	v.np
+lā	cl.inter
+.	punc
+
+ji	p.pers
+juyi	v.n
+chalapola	p.pers
+yā	case.gen
+putra	n
+padmakeśali	n
+thukā	evid
+.	punc
+
+jinaṃ	adv.conj
+chalapola	p.pers
+yā	case.gen
+caritra	n
+sola	n
+(fn20)	fol
+vayā	v.perf.part
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+babunaṃ	adv.conj
+kāya	n
+yā	case.gen
+khvāla	n
+svayāva	cv.ant
+.	punc
+
+rājā	n
+bikramāditya	n
+harṣamāna	adj
+yāṅāva	cv.ant
+conaṃ	v.perf.past
+.	punc
+
+thvanaṃ	adv.conj
+li	cv.anter
+baniyānaṃ	adv.conj
+ṅhethumha	p.correl
+kalāta	n
+jvanyāva	cv.ant
+thava	p.refl
+che	p.pers
+vanaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+rājā	n
+naṃ	case.erg
+thava	p.refl
+putra	n
+padmakeśali	adj
+.	punc
+
+thava	p.refl
+che	p.pers
+bonyāva	cv.ant
+.	punc
+
+sukhanaṃ	adv.conj
+conaṃ	v.perf.past
+||	punc
+
+thathimha	p.correl
+rājā	n
+yā	case.gen
+siṃhāsana	n
+sa	case.loc.inan
+cha	num
+dane	v.n
+ma	neg
+teva	v.impst
+dhakaṃ	v.dhak
+.	punc
+
+putrikā	n
+cha	num
+mha	cs.anim
+bosye	v.n
+vanaṃ	v.perf.past
+||	punc
+
+5	num.ar
+||	punc
+
+V	n.prop
+.	punc
+
+punarbāra	adv.conj
+putrikā	n
+cha	num
+mha	cs.anim
+sena	case.erg.h
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+bhojadeba	n
+rājā	n
+.	punc
+
+ji	p.pers
+kha	n
+nehune	v.n
+dhakaṃ	v.dhak
+dhālaṃ	v.perf.past
+.	punc
+
+fn51	fol
+thana	n
+chagulī	n
+nagara	n
+dava	v.impst
+.	punc
+
+thva	d.dem
+nagala	n
+yā	case.gen
+nāma	n
+sīmantakapurī	n
+dhāyā	v.perf.part
+.	punc
+
+(thva	cv.ant
+deśa	n
+yā	case.gen
+rājā	n
+ratnaketu	v.perf.past
+.	punc
+
+thva	d.dem
+yā	case.gen
+kalāta	n
+yā	case.gen
+nāma	n
+madanābati	adj
+.	punc
+
+thva	d.dem
+yā	case.gen
+putra	n
+ma	neg
+dayāva	cv.ant
+mana	n
+sa	case.loc.inan
+duḥkha	n
+juyāva	cv.ant
+.	punc
+
+likhi	n
+sake	case.loc.an
+ṅeṅāva	cv.ant
+mahādeba	n
+tvaṃ	v.co
+pūjā	n
+yātaṃ	v.perf.past
+.	punc
+
+thathyanaṃ	adv.conj
+mocā	n
+ma	neg
+du	v.impst
+.	punc
+
+cha	num
+nhu	num.time
+yā	case.gen
+dina	n
+sa	case.loc.inan
+.	punc
+
+)	n
+thva	d.dem
+deśa	n
+yā	case.gen
+oya	v.n
+mali	n
+cha	num
+mha	cs.anim
+du	v.impst
+.	punc
+
+thva	d.dem
+malina	n
+rājā	n
+yāke	case.loc.an
+bimati	n
+yāka	v.impst
+.	punc
+
+bho	interj
+mahārājā	n
+.	punc
+
+chiji	n
+sa	case.loc.inan
+ujhāna	n
+sa	case.loc.inan
+svāna	n
+ṣuro	v.perf.past
+.	punc
+
+gathya	adv.inter
+yāya	v.n
+māra	v.impst
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+rājā	n
+na	case.erg
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+mali	n
+.	punc
+
+chana	p.pers
+bicāra	n
+yāva	v.ipv
+.	punc
+
+rātasā	cv.cond
+chaṃ	p.pers
+yathya	v.co
+yāva	v.ipv
+dhakaṃ	v.dhak
+.	punc
+
+cholarapāva	cv.ant
+chotaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+maliṃ	adv.freq
+tama	n
+na	case.erg
+vanaṃ	v.perf.past
+.	punc
+
+khaṅāva	cv.ant
+rājā	n
+nhirāva	cv.ant
+conaṃ	v.perf.past
+||	punc
+
+thana	n
+rātri	n
+juyāva	cv.ant
+rājā	n
+na	case.erg
+maṃtrī	n
+yā	case.gen
+ṅhaone	post.gen
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+buddhibara	n
+.	punc
+
+maṃtrī	n
+thani	adv.temp
+ji	p.pers
+chi	num
+ni	num
+mhaṃ	cs.anim
+vaṅāva	cv.ant
+maliṃ	adv.freq
+gathye	adv.inter
+conaṃ	v.perf.past
+khe	n
+sola	n
+vane	v.n
+nuyo	v.perf.past
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+maṃtrīva	cv.ant
+rājā	n
+va	case.ass
+ni	num
+mha	cs.anim
+vanaṃ	v.perf.past
+.	punc
+
+thana	n
+tījaka	n
+svavā	cv.ant
+bela	n
+sa	case.loc.inan
+.	punc
+
+thva	d.dem
+malinaṃ	adv.conj
+khu	v.impst
+vara	n
+haṃ	v.co
+tyaṅāva	cv.ant
+.	punc
+
+barā	n
+kāyāva	cv.ant
+ṅhānāva	cv.ant
+.	punc
+
+rājā	n
+yā	case.gen
+nugara	n
+sa	case.loc.inan
+kayāva	cv.ant
+mṛtyu	n
+juraṃ	v.perf.past
+.	punc
+
+thva	d.dem
+malina	n
+bvāṅa	v.impst
+vayāva	cv.ant
+soraṅāsyam	v.perf.past
+.	punc
+
+thva	d.dem
+rājā	n
+sīka	v.impst
+khaṅāva	cv.ant
+thva	d.dem
+mali	n
+bisya	v.co
+vanaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+maṃtrīnaṃ	adv.conj
+thva	d.dem
+maliṃ	encl
+saratāva	cv.ant
+bodha	n
+yātaṃ	v.perf.past
+.	punc
+
+bho	interj
+maliṃ	adv.freq
+chana	p.pers
+su	p.interrog
+yā	case.gen
+ṅhavane	post.gen
+dhāya	v.n
+ma	neg
+te	v.ipv
+.	punc
+
+āva	adv.temp
+chu	p.indef
+yāya	v.n
+.	punc
+
+chana	p.pers
+rāhātaṃ	v.perf.past
+vane	v.n
+māvamha	p.correl
+chana	p.pers
+doṣa	n
+ma	neg
+ṣu	v.impst
+.	punc
+
+vayā	v.perf.part
+doṣanaṃ	adv.conj
+vanaṃ	v.perf.past
+.	punc
+
+āva	adv.temp
+cha	p.pers
+thaniṃ	adv.freq
+nisyaṃ	post.abs
+rājā	n
+yāya	v.n
+dhakaṃ	v.dhak
+hāṅāva	cv.ant
+.	punc
+
+sīkamha	p.correl
+rājā	n
+anaṃ	case.erg.h.pl
+tu	cl.focus
+thuṅaṃ	v.co
+tāthāva	cv.ant
+.	punc
+
+thva	d.dem
+maliṃ	adv.freq
+thava	p.refl
+che	p.pers
+boṅaṃ	n
+hayāva	cv.ant
+.	punc
+
+rāni	n
+yāke	case.loc.an
+vaṅāva	cv.ant
+rānī	n
+hātaṃ	v.perf.past
+.	punc
+
+bho	interj
+rānī	n
+sa	case.loc.inan
+.	punc
+
+chalapola	p.pers
+rānī	n
+juya	v.n
+yalasā	cv.cond
+.	punc
+
+ji	p.pers
+bacana	n
+ṅava	cv.ant
+.	punc
+
+dhakaṃ	v.dhak
+hātaṃ	v.perf.past
+||	punc
+
+chiji	n
+sa	case.loc.inan
+rājā	n
+julasā	cv.cond
+mhego	adv.temp
+(fn19a)	fol
+sito	v.perf.past
+.	punc
+
+thana	p.pers
+maliyāta	n
+dhāva	v.impst
+kha	n
+sakaleṃ	d.quant
+maṃtrīnaṃ	adv.conj
+rānī	n
+kanaṃ	v.perf.past
+.	punc
+
+bho	interj
+mahārāni	n
+.	punc
+
+jinaṃ	adv.conj
+chalapola	p.pers
+yāta	case.dat
+svāna	n
+dayakaṃ	v.perf.past
+tayā	v.perf.part
+.	punc
+
+thva	d.dem
+svāna	n
+ṣura	n
+dhāyāva	cv.ant
+.	punc
+
+rājā	n
+naṃ	case.erg
+dhāla	n
+.	punc
+
+chana	p.pers
+lātasā	cv.cond
+.	punc
+
+syāva	cv.ant
+dhakaṃ	v.dhak
+cholapāva	cv.ant
+chotaṃ	v.perf.past
+.	punc
+
+thana	adv.conj
+rājā	n
+naṃ	case.erg
+li	cv.anter
+boṅaṃ	v.co
+yanyāva	cv.ant
+.	punc
+
+sola	n
+bijyāta	v.perf.past
+.	punc
+
+thva	d.dem
+malinaṃ	adv.conj
+khu	v.impst
+bhālapāva	cv.ant
+balānaṃ	v.perf.past
+kayakāva	cv.ant
+syāto	v.perf.past
+||	punc
+
+āva	adv.temp
+thva	d.dem
+maliṃ	d.quant
+rājā	n
+yāya	v.n
+māla	v.perf.past
+.	punc
+
+dhakaṃ	v.dhak
+rānī	n
+hātaṃ	v.perf.past
+.	punc
+
+rānīnāṃ	adv.conj
+fn52	fol
+ājñā	n
+dayakalaṃ	v.perf.past
+.	punc
+
+bho	interj
+maṃtrī	n
+chi	num
+na	case.erg
+gathya	adv.inter
+bhiṅa	adj
+athya	adv.conj
+yāva	v.ipv
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+maṃtrīnaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+chāna	adv.inter
+dhālasā	cv.cond
+.	punc
+
+rājye	n
+laṣalape	v.n
+nimittinaṃ	post.abs
+.	punc
+
+thva	d.dem
+kārya	n
+yān	cv.ant
+yā	case.gen
+dhaka	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+thva	d.dem
+maliṃ	adv.freq
+kothā	n
+sa	case.loc.inan
+surāva	cv.ant
+tala	adj
+.	punc
+
+sunuṃ	p.indef
+juya	v.n
+coṅe	v.n
+ma	neg
+dayakaṃ	v.perf.past
+talaṃ	v.perf.past
+||	punc
+
+thathya	adv.man
+la	n
+chi	num
+.	punc
+
+ni	num
+rā	cl.inter
+.	punc
+
+sva	num
+rā	cl.inter
+.	punc
+
+pi	adv.dir
+lā	cl.inter
+.	punc
+
+cyā	n
+lā	n
+vanyāva	cv.ant
+.	punc
+
+prajā	n
+munyāva	cv.ant
+bimati	n
+yātaṃ	v.perf.past
+||	punc
+
+bho	interj
+maṃtri	n
+sa	case.loc.inan
+ne	num
+.	punc
+
+ji	p.pers
+panisa	case.gen.h.pl
+rājā	n
+nāpa	post.abs
+lāya	v.n
+gathya	adv.inter
+ma	neg
+dato	v.perf.past
+.	punc
+
+chāna	adv.inter
+chu	p.interrog
+julo	v.perf.past
+.	punc
+
+ji	p.pers
+panisa	case.gen.h.pl
+sukha	n
+duḥkha	n
+lhāya	v.n
+thāsa	n
+ma	neg
+du	v.impst
+dhakaṃ	v.dhak
+prajāloka	n
+nvāka	n
+.	punc
+
+thana	n
+maṃtrīnaṃ	adv.conj
+prajāloka	n
+hātaṃ	v.perf.past
+.	punc
+
+bho	interj
+prajāloka	n
+pani	case.abs.h.pl
+nyahune	v.n
+.	punc
+
+chiji	n
+sa	case.loc.inan
+rājā	n
+julasā	cv.cond
+.	punc
+
+ma	neg
+chiṅa	v.impst
+pihā	n
+ma	neg
+bijyāka	v.impst
+.	punc
+
+āva	adv.temp
+dina	n
+svayāva	cv.ant
+juko	n
+pihāṃ	adv.dir
+bijyāyuva	v.np
+dhakaṃ	v.dhak
+bodha	n
+yāṅaṃ	v.co
+chotaṃ	v.perf.past
+.	punc
+
+thana	n
+cha	num
+nhu	cs.time
+yā	case.gen
+dīna	n
+sa	case.loc.inan
+dina	n
+svayāva	cv.ant
+prajā	n
+munakāva	cv.ant
+.	punc
+
+pasthā	n
+na	case.erg
+dayakalaṃ	v.perf.past
+||	punc
+
+thana	adv.conj
+grāma	n
+yā	case.gen
+paramānato	n
+sa	case.loc.inan
+nāma	n
+kanyāva	cv.ant
+.	punc
+
+thva	d.dem
+yā	case.gen
+nāma	n
+thva	d.dem
+thva	d.dem
+dhakaṃ	v.dhak
+maṃtrīnaṃ	adv.man
+samastaṃ	d.quant
+seṅāva	cv.ant
+tava	adj
+||	punc
+
+thana	n
+loka	n
+na	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+rājā	n
+julasā	cv.cond
+maliṃ	adv.freq
+thya	post.abs
+coṅa	v.impst
+dhaka	v.dhak
+thithiṃ	adv.man
+nvātaṃ	v.perf.past
+.	punc
+
+gulichinaṃ	adv.conj
+maliṃ	adv.freq
+khava	v.impst
+dhālaṃ	v.perf.past
+.	punc
+
+gulichinaṃ	adv.conj
+maliṃ	adv.freq
+ma	neg
+khu	v.impst
+.	punc
+
+rājā	n
+khava	v.impst
+dhālaṃ	v.perf.past
+.	punc
+
+thathya	adv.man
+prajā	n
+nvān	cv.ant
+yā	case.gen
+cocoṃ	v.perf.past
+.	punc
+
+thva	d.dem
+malinanaṃ	adv.conj
+tākālaṃ	v.perf.past
+rājya	n
+yāka	v.impst
+julo	v.perf.past
+||	punc
+
+cha	num
+nhu	num.time
+yā	case.gen
+dīna	n
+sa	case.loc.inan
+thva	d.dem
+malinaṃ	v.perf.past
+dhāraṃ	v.perf.past
+.	punc
+
+bho	interj
+maṃtri	n
+chana	p.pers
+ji	p.pers
+gathya	adv.inter
+sibā	n
+ma	neg
+dhāyāṃ	v.co
+dhakaṃ	v.dhak
+dhāraṃ	v.perf.past
+.	punc
+
+chana	p.pers
+ji	p.pers
+ta	case.dat
+śivā	n
+dhārasā	cv.cond
+.	punc
+
+ji	p.pers
+rājye	n
+sa	case.loc.inan
+cova	cv.ant
+.	punc
+
+śivā	v.np
+ma	neg
+dhālasā	cv.cond
+.	punc
+
+ji	p.pers
+rājye	n
+sa	case.loc.inan
+coṅe	v.n
+ma	neg
+du	v.impst
+dhakaṃ	v.dhak
+pi	adv.dir
+tiṅāva	cv.ant
+chotaṃ	v.perf.past
+.	punc
+
+thana	n
+maṃtrī	n
+mahāduḥkhanaṃ	v.co
+vanaṃ	v.perf.past
+.	punc
+
+thana	n
+samudra	n
+yā	case.gen
+tīra	n
+sa	case.loc.inan
+tilaṃ	v.perf.past
+tiraṃ	v.perf.past
+vanyāva	cv.ant
+.	punc
+
+tava	adj
+samudra	n
+sa	case.loc.inan
+ati	adv.deg
+bhīṅa	v.impst
+caṃpasvāna	n
+nasvāka	adj
+khanyāva	cv.ant
+.	punc
+
+thva	d.dem
+maṃtrī	n
+na	case.erg
+kāyāva	cv.ant
+.	punc
+
+svāna	n
+cha	num
+phola	n
+jvanyāva	cv.ant
+.	punc
+
+punarbāra	adv.conj
+ji	p.pers
+maṃtrī	n
+juya	v.n
+dhakaṃ	v.dhak
+rājā	n
+yāke	case.loc.an
+du	v.impst
+talaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+svāna	n
+kāyāva	cv.ant
+rājā	n
+naṃ	case.erg
+dhāyā	v.perf.part
+.	punc
+
+gathiṃṅa	adv.inter
+āścaryya	adj
+*svāna	n
+(fn19b)	fol
+dhaka	v.dhak
+bhālapāva	cv.ant
+thama	p.refl
+naṃ	case.erg
+chutaṃ	v.perf.past
+||	punc
+
+chustunuṃ	cv.pre.ant
+thva	d.dem
+rājā	n
+taruṇi	adj
+jusyaṃ	v.co
+vava	v.impst
+.	punc
+
+thana	n
+rānīnaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+rājā	n
+sa	case.loc.inan
+.	punc
+
+chalapola	p.pers
+thathiṃṅa	p.correl
+taruṅi	v.impst
+julo	v.perf.past
+.	punc
+
+ji	p.pers
+thathiṃṅa	p.correl
+jithi	adj
+.	punc
+
+ji	p.pers
+julasāṃ	cl.top
+.	punc
+
+chalapola	p.pers
+thyaṃ	post.abs
+cona	v.impst
+ke	case.loc.an
+.	punc
+
+chalapola	p.pers
+na	case.erg
+chunyāguli	n
+svāna	n
+jitaṃ	v.perf.past
+kāyakala	n
+chova	v.ipv
+fn53	fol
+dhakaṃ	v.dhak
+rājā	n
+yā	case.gen
+ṅhevane	post.gen
+dhālaṃ	v.perf.past
+.	punc
+
+thana	n
+rājā	n
+naṃ	case.abl
+maṃtrī	n
+bonakala	n
+chotaṃ	v.perf.past
+||	punc
+
+thva	d.dem
+rājā	n
+naṃ	case.erg
+maṃtrīyāta	n
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+mamtrī	n
+.	punc
+
+chana	p.pers
+hayāthiṃṅa	v.impst
+svāna	n
+kāsyaṃ	v.co
+haya	v.n
+māla	v.perf.past
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+.	punc
+
+mahā	adj
+duḥkha	n
+na	case.erg
+svāna	n
+kāla	n
+vanya	n
+julo	v.perf.past
+||	punc
+
+svāna	n
+kāla	n
+van	v.co
+yā	case.gen
+bela	n
+sa	case.loc.inan
+maṃtrīnaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+gathiṅa	v.impst
+kautuka	adj
+āścarya	adj
+.	punc
+
+thamaṃ	p.refl
+yān	cv.ant
+yā	case.gen
+rājā	n
+naṃ	case.erg
+thava	p.refl
+ta	case.dat
+cela	n
+yāka	v.impst
+.	punc
+
+gathiṃgu	n
+duḥkha	n
+yā	case.gen
+mahimā	n
+dhaka	v.dhak
+dhāsyaṃ	v.co
+van	v.co
+yā	case.gen
+bela	n
+sa	case.loc.inan
+parbata	n
+cha	num
+guli	cs.inan
+lulaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+parbata	n
+yā	case.gen
+samīpa	n
+sa	case.loc.inan
+dahaṃ	adv.place
+cha	num
+guli	cs.inan
+dasyaṃ	v.co
+coṅa	v.impst
+.	punc
+
+thva	d.dem
+daha	n
+sa	case.loc.inan
+mahādeba	n
+cha	num
+mha	cs.anim
+dasyaṃ	v.co
+coṅa	v.impst
+.	punc
+
+thva	d.dem
+yā	case.gen
+ṅhevane	post.gen
+na	case.erg
+na	case.erg
+jyān	cv.ant
+yā	case.gen
+triśūla	n
+cha	num
+guli	cs.inan
+dasyaṃ	v.co
+coṅa	v.impst
+.	punc
+
+thva	d.dem
+triśūla	n
+sa	case.loc.inan
+thva	d.dem
+maliṃ	adv.freq
+thavathya	p.refl
+thama	p.refl
+naṃ	case.erg
+thasala	n
+pāsyaṃ	v.co
+coṅa	v.impst
+.	punc
+
+pvātha	n
+na	case.erg
+triśūla	n
+cāyakaṃ	v.perf.past
+coṅagu	adj
+.	punc
+
+thva	d.dem
+maṃtrīnaṃ	adv.conj
+khanyāva	cv.ant
+.	punc
+
+maṃtrī	n
+kautuka	adj
+cālaṃ	v.perf.past
+.	punc
+
+thva	d.dem
+maliṃ	adv.freq
+gathya	adv.inter
+thana	adv.man
+vala	v.perf.past
+.	punc
+
+bhālapāva	cv.ant
+.	punc
+
+svasyaṃ	v.co
+conaṃ	v.perf.past
+||	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+ākāśa	n
+na	case.erg
+salatāva	cv.ant
+hava	cv.ant
+.	punc
+
+bho	interj
+maṃtrī	n
+ji	p.pers
+kha	n
+ṅeva	cv.ant
+dhakaṃ	v.dhak
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+chi	num
+chikala	n
+pani	case.abs.h.pl
+su	p.interrog
+juyiva	v.np
+dhakaṃ	v.dhak
+nyanaṃ	v.perf.past
+.	punc
+
+thana	n
+mahādebanaṃ	v.perf.past
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+maṃtrī	n
+ji	p.pers
+lā	cl.inter
+julasā	cv.cond
+mahādeba	n
+thukā	evid
+.	punc
+
+cha	num
+chāya	adv.inter
+vayā	v.perf.part
+.	punc
+
+ji	p.pers
+na	case.erg
+cha	p.pers
+kane	v.n
+ṅava	v.impst
+.	punc
+
+āmo	d.dem
+maliṃ	adv.freq
+ji	p.pers
+ke	case.loc.an
+tapas	v.co
+yā	case.gen
+yānyā	n
+yā	case.gen
+phalanaṃ	adv.man
+thuguli	n
+loka	n
+sa	case.loc.inan
+rājā	n
+jula	v.perf.past
+.	punc
+
+rājāstrī	n
+bhoga	n
+yāto	v.perf.past
+.	punc
+
+chana	p.pers
+yānyānaṃ	adv.conj
+rājā	n
+jula	v.perf.past
+ma	neg
+khu	v.impst
+.	punc
+
+cha	num
+lihā	adv.dir
+vanyāva	cv.ant
+.	punc
+
+thva	d.dem
+malīyāta	n
+śivā	cv.ant
+dhāva	v.impst
+.	punc
+
+thva	d.dem
+bela	n
+sa	case.loc.inan
+cha	num
+mānya	adj
+yānyaṃ	v.co
+tayiva	v.np
+dhakaṃ	v.dhak
+ājñā	n
+dayakugu	n
+nenyāva	cv.ant
+.	punc
+
+thva	d.dem
+maṃtrinaṃ	adv.conj
+khava	v.impst
+bhālapāva	cv.ant
+lihā	adv.dir
+vayāva	cv.ant
+.	punc
+
+caṃpasvāna	n
+cha	num
+phola	n
+jvanyāva	cv.ant
+valaṃ	v.perf.past
+||	punc
+
+thana	adv.man
+che	p.pers
+thyanyāva	cv.ant
+thva	d.dem
+rājā	n
+yāke	case.loc.an
+vanyāva	cv.ant
+.	punc
+
+rājā	n
+tvaṃ	v.co
+nāpa	post.abs
+lānyāva	cv.ant
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+rājā	n
+sa	case.loc.inan
+jinaṃ	adv.place
+yān	cv.ant
+yā	case.gen
+rājā	n
+ma	neg
+khu	v.impst
+khaṃ	n
+dhakaṃ	v.dhak
+.	punc
+
+thva	d.dem
+daha	n
+sa	case.loc.inan
+coṅa	v.impst
+kha	v.impst
+.	punc
+
+samastaṃ	d.quant
+kanyāva	cv.ant
+.	punc
+
+*rājā	n
+(fn20a)	fol
+pradakṣinā	n
+yānyāva	cv.ant
+.	punc
+
+bhoka	n
+puvāva	cv.ant
+.	punc
+
+prārthanā	n
+yānyāva	cv.ant
+svāna	n
+cha	num
+phola	n
+du	v.impst
+talaṃ	v.perf.past
+||	punc
+
+thana	adv.conj
+thva	d.dem
+rājā	n
+naṃ	case.erg
+dhālaṃ	v.perf.past
+.	punc
+
+bho	interj
+maṃtri	n
+sa	case.loc.inan
+.	punc
+
+gathya	adv.inter
+cha	p.pers
+nhāpā	adv.temp
+chana	p.pers
+rājye	n
+sa	case.loc.inan
+citā	n
+yān	cv.ant
+yā	case.gen
+.	punc
+
+athyaṃ	v.co
+yāsyaṃ	v.co
+cova	v.np
+dhakaṃ	v.dhak
+dhālaṃ	v.perf.past
+||	punc
+
+bho	interj
+rājā	n
+bhojadeba	n
+nyahune	v.n
+.	punc
+
+thathiṃṅa	p.correl
+rājā	n
+yā	case.gen
+hatāla	n
+sa	case.loc.inan
+phunyaṃ	v.co
+coṅa	v.impst
+mha	cs.anim
+rājā	n
+yā	case.gen
+siṃhāsana	n
+sa	case.loc.inan
+.	punc
+
+cha	num
+dane	v.n
+ma	neg
+te	v.ipv
+dhakaṃ	v.dhak
+dhāyāva	cv.ant
+putrikā	n
+cha	num
+mha	cs.anim
+bosya	v.co
+vanaṃ	v.perf.past
+||	punc
+
+6	fol
+||	punc
