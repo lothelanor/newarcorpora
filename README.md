@@ -29,8 +29,9 @@ This repo currently presents tools to preprocess, segment and POS tag Newar text
 Note that the Memory-Based Tagger has undergone an update and can now be easily installed with brew:
 
 ```
-brew install timbl
-brew install mbtagger
+$ brew tap fbkarsdorp/homebrew-lamachine
+$ brew install timbl
+$ brew install mbtagger
 ```
 Using this new version means a slightly different settings file is required. This new version is now the default in the Conf files, but for those using the older version of the MBT, the old Conf files can still be found in the `Old' folder.
 
